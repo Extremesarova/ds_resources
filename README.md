@@ -48,6 +48,7 @@ List of questions with patterns + tips
 - [Data Structures Reference](https://www.interviewcake.com/data-structures-reference)
 - [An Executable Data Structures Cheat Sheet for Interviews](https://algodaily.com/lessons/an-executable-data-structures-cheat-sheet)
 - [Coding Interview Guide](http://patrickhalina.com/posts/coding-interview-guide/)
+- [Algorithmic Thinking](https://labuladong.gitbook.io/algo-en/)
 
 ### Articles
 
