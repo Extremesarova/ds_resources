@@ -1,6 +1,7 @@
 # Interview preparation
 
 **Table of Contents**:
+
 - [Interview preparation](#interview-preparation)
   - [Algorithms and Data Structures](#algorithms-and-data-structures)
     - [Courses](#courses)
@@ -15,12 +16,12 @@
 - [Algoprog](https://algoprog.ru/) `rus` `Free + Paid`
 - Яндекс:
   - [Основы алгоритмов | Академия Яндекса](https://academy.yandex.ru/handbook/algorithms) <!--- comment -->
-  - [Бесплатный курс «Подготовка к алгоритмическому собеседованию» от ЯП](https://practicum.yandex.ru/algorithms-interview/) `rus` `Free`
+  - [Бесплатный курс «Подготовка к алгоритмическому собеседованию» от ЯП](https://practicum.yandex.ru/algorithms-interview/) `rus` 
   - [Курс «Алгоритмы и структуры данных» от ЯП](https://practicum.yandex.ru/algorithms/) `rus`  `paid`
 - Computer Science Center:
-  - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info) `Free` `rus`
-  - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/info) `Free` `rus`
-- [Подготовься к алгоритмическому собеседованию за 30 недель](https://balun.courses/courses/algorithmic_interview#program) `rus`
+  - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info)  `rus`
+  - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/info)  `rus`
+- [Подготовься к алгоритмическому собеседованию за 30 недель](https://balun.courses/courses/algorithmic_interview#program) `rus` `paid`
 - [Prepare for Your Next Coding Interview by Mastering Algorithmic Programming Techniques](https://acecodinginterview.org/)
 - [Introduction To Algorithms by MIT](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/)
 - [Data Structures by Coding Interview University](https://github.com/jwasham/coding-interview-university#data-structures)
@@ -33,7 +34,7 @@
   - [Тренировки по алгоритмам от Яндекса 2](https://yandex.ru/yaintern/algorithm-training_2) `rus`
   - [Тренировки по алгоритмам от Яндекса 3](https://yandex.ru/yaintern/training/algorithm-training_3) `rus`
   - [Тренировки по алгоритмам от Яндекса 4](https://yandex.ru/yaintern/algorithm-training) `rus`
-  - [Интенсив по алгоритмам от Яндекса](https://www.youtube.com/playlist?list=PLQC2_0cDcSKAzLqqXUidKBJsy1Im44aOo) `rus` `Video` `Free`
+  - [Интенсив по алгоритмам от Яндекса](https://www.youtube.com/playlist?list=PLQC2_0cDcSKAzLqqXUidKBJsy1Im44aOo) `rus` `Video` 
 - [Algorithmic concepts By Afshine Amidi and Shervine Amidi](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts/)
 - [LEETCODE PATTERNS](https://seanprashad.com/leetcode-patterns/)  
 List of questions with patterns + tips
