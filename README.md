@@ -92,8 +92,13 @@
   - [Курс для начинающих](https://stepik.org/course/58852) `rus` `course`
   - [Курс для продвинутых](https://stepik.org/course/68343) `rus` `course`
   - [Курс для профессионалов](https://stepik.org/course/82541) `rus` `course`
-- [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) `course`
-- [Python Tutorial for Beginners (with mini-projects)](https://www.youtube.com/watch?v=qwAFL1597eM) `course`
+- [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) `eng` `course`
+- [Python Tutorial for Beginners (with mini-projects)](https://www.youtube.com/watch?v=qwAFL1597eM) `eng` `course`
+- [What the f*ck Python! Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython) `eng` `repo`
+- [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet) `eng` `repo`
+- [Python Koans. An interactive tutorial for learning the Python programming language by making tests pass](https://github.com/gregmalcolm/python_koans) `eng` `repo`
+- [Full Speed Python. Learning Python using a practical approach](https://github.com/joaoventura/full-speed-python?tab=readme-ov-file) `eng` `book`
+- [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org) `eng` `book`
 
 ### Questions
 
