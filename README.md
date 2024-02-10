@@ -24,9 +24,9 @@
 ### Platforms
 
 - [LeetCode](https://leetcode.com/)
-  - [Leetcode Patterns `site` `eng`](https://seanprashad.com/leetcode-patterns/)  
+  - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/) `site` `eng`
   List of questions with patterns + tips
-  - [LeetCode Explore `site` `eng`](https://leetcode.com/explore/)  
+  - [LeetCode Explore](https://leetcode.com/explore/) `site` `eng`
 - [Codewars](https://www.codewars.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [CodeAbbey](https://www.codeabbey.com/index/task_list)
