@@ -37,7 +37,7 @@
 - [Algoprog](https://algoprog.ru/) `rus` `Free + Paid`
 - Яндекс:
   - [Основы алгоритмов | Академия Яндекса](https://academy.yandex.ru/handbook/algorithms) <!--- comment -->
-  - [Бесплатный курс «Подготовка к алгоритмическому собеседованию» от ЯП](https://practicum.yandex.ru/algorithms-interview/) `rus` 
+  - [Бесплатный курс «Подготовка к алгоритмическому собеседованию» от ЯП](https://practicum.yandex.ru/algorithms-interview/) `rus`
   - [Курс «Алгоритмы и структуры данных» от ЯП](https://practicum.yandex.ru/algorithms/) `rus`  `paid`
 - Computer Science Center:
   - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info)  `rus`
@@ -53,7 +53,7 @@
   - [Тренировки по алгоритмам от Яндекса 2](https://yandex.ru/yaintern/algorithm-training_2) `rus`
   - [Тренировки по алгоритмам от Яндекса 3](https://yandex.ru/yaintern/training/algorithm-training_3) `rus`
   - [Тренировки по алгоритмам от Яндекса 4](https://yandex.ru/yaintern/algorithm-training) `rus`
-  - [Интенсив по алгоритмам от Яндекса](https://www.youtube.com/playlist?list=PLQC2_0cDcSKAzLqqXUidKBJsy1Im44aOo) `rus` `Video` 
+  - [Интенсив по алгоритмам от Яндекса](https://www.youtube.com/playlist?list=PLQC2_0cDcSKAzLqqXUidKBJsy1Im44aOo) `rus` `Video`
 - [Algorithmic concepts By Afshine Amidi and Shervine Amidi](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts/)
 - [NeetCode. A better way to prepare for coding interviews.](https://neetcode.io/roadmap) <!--- comment -->
 - [The Algorithms. Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language](https://github.com/TheAlgorithms)
@@ -136,7 +136,7 @@
 - [SQL Tutorial](https://mode.com/sql-tutorial/)
 - [The Ultimate SQL Guide](https://blog.count.co/the-ultimate-sql-guide/)
 
-### Practice 
+### Practice
 
 - [Онлайн тренажер SQL Academy](https://sql-academy.org/) `course`
 - [Ace the SQL Interview](https://datalemur.com/questions?category=SQL)
@@ -144,3 +144,4 @@
 - [SQLBolt. Learn SQL with simple, interactive exercises.](https://sqlbolt.com/)
 - [SQL Tutorial by w3schools](https://www.w3schools.com/sql/)
 - [PostgreSQL Exercises](https://pgexercises.com/)
+- [The Querynomicon. An Introduction to SQL for Wary Data Scientists](https://gvwilson.github.io/sql-tutorial/)
