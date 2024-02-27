@@ -1,8 +1,10 @@
-# Interview preparation
+# Data Science Resources
+
+For interview preparation and learning
 
 **Table of Contents**:
 
-- [Interview preparation](#interview-preparation)
+- [Data Science Resources](#data-science-resources)
   - [Algorithms and Data Structures](#algorithms-and-data-structures)
     - [Platforms](#platforms)
     - [Courses](#courses)
@@ -52,13 +54,14 @@
   - [Тренировки по алгоритмам от Яндекса 1](https://yandex.ru/yaintern/algorithm-training_1) `rus`
   - [Тренировки по алгоритмам от Яндекса 2](https://yandex.ru/yaintern/algorithm-training_2) `rus`
   - [Тренировки по алгоритмам от Яндекса 3](https://yandex.ru/yaintern/training/algorithm-training_3) `rus`
-  - [Тренировки по алгоритмам от Яндекса 4](https://yandex.ru/yaintern/algorithm-training) `rus`
-  - [Интенсив по алгоритмам от Яндекса](https://www.youtube.com/playlist?list=PLQC2_0cDcSKAzLqqXUidKBJsy1Im44aOo) `rus` `Video`
+  - [Тренировки по алгоритмам от Яндекса 4](https://yandex.ru/yaintern/training/algorithm-training_4) `rus`
+  - [Тренировки по алгоритмам от Яндекса 5](https://yandex.ru/yaintern/algorithm-training) `rus`
+  - [Интенсив по алгоритмам от Яндекса](https://www.youtube.com/playlist?list=PLQC2_0cDcSKAzLqqXUidKBJsy1Im44aOo) `rus` `video`
 - [Algorithmic concepts By Afshine Amidi and Shervine Amidi](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts/)
 - [NeetCode. A better way to prepare for coding interviews.](https://neetcode.io/roadmap) <!--- comment -->
 - [The Algorithms. Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language](https://github.com/TheAlgorithms)
 - [Алгоритмы и структуры данных простыми словами](https://codonaft.com/%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D0%B8-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%BC%D0%B8-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8/) `rus` `compilation`
-- [Алгоритмика](https://ru.algorithmica.org/)
+- [Алгоритмика](https://ru.algorithmica.org/) `rus`
 - [Leetcode. Company-wise questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) `repository`
 - [Code Abbey Problems](https://www.codeabbey.com/index/task_list)
 - [Unlocking Algorithm Efficiency: A Comprehensive Guide to Time and Space Complexity](https://deft1991.medium.com/unlocking-algorithm-efficiency-a-comprehensive-guide-to-time-and-space-complexity-42365215b1b7)
@@ -66,10 +69,15 @@
 - [An Executable Data Structures Cheat Sheet for Interviews](https://algodaily.com/lessons/an-executable-data-structures-cheat-sheet)
 - [Coding Interview Guide](http://patrickhalina.com/posts/coding-interview-guide/)
 - [Algorithmic Thinking](https://labuladong.gitbook.io/algo-en/)
+- [Algorithm Notes](https://liuzhenglaichn.gitbook.io/algorithm/)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university/)
+- [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+- [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
 
 ### Articles
 
-- [Как проходят алгоритмические секции на собеседованиях в Яндекс](https://habr.com/ru/companies/yandex/articles/449890/)
+- [Как проходят алгоритмические секции на собеседованиях в Яндекс](https://habr.com/ru/companies/yandex/articles/449890/) `rus`
+- [How to effectively use LeetCode to prepare for interviews](https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews)
 
 ### Books
 
@@ -118,7 +126,7 @@
 
 ### Practice
 
-- [Задачи по Python и машинному обучению `telegram` `rus`](https://t.me/python_tasks)
+- [Задачи по Python и машинному обучению](https://t.me/python_tasks) `telegram` `rus`
 
 ## SQL
 
@@ -126,12 +134,12 @@
 
 ### Courses
 
-- [Интерактивный тренажер по SQL `course` `rus`](https://stepik.org/course/63054/info)  
-- [Пакет SQL курсов `course` `rus`](https://stepik.org/course/61247/info):
-  - [Основы SQL `course` `rus`](https://stepik.org/course/51562/info)
-  - [Продвинутый SQL `course` `rus`](https://stepik.org/course/55776/info)
-  - [Проектирование баз данных `course` `rus`](https://stepik.org/course/51675/info)  
-- [PostgreSQL Tutorial for Beginners `course` `eng`](https://www.youtube.com/watch?v=SpfIwlAYaKk)  
+- [Интерактивный тренажер по SQL](https://stepik.org/course/63054/info) `course` `rus`
+- [Пакет SQL курсов](https://stepik.org/course/61247/info) `course` `rus` :
+  - [Основы SQL](https://stepik.org/course/51562/info)
+  - [Продвинутый SQL](https://stepik.org/course/55776/info)
+  - [Проектирование баз данных](https://stepik.org/course/51675/info)  
+- [PostgreSQL Tutorial for Beginners](https://www.youtube.com/watch?v=SpfIwlAYaKk)  `course` `eng`
 - [Оконные функции SQL](https://stepik.org/course/95367/promo) `course` `rus`
 - [SQL Tutorial](https://mode.com/sql-tutorial/)
 - [The Ultimate SQL Guide](https://blog.count.co/the-ultimate-sql-guide/)
