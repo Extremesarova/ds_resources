@@ -32,6 +32,8 @@ For interview preparation and learning
 - [Codewars](https://www.codewars.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [CodeAbbey](https://www.codeabbey.com/index/task_list)
+- [CodeRun](https://coderun.yandex.ru/catalog) `rus`  
+Инструмент для подготовки к очному собеседованию в Яндексе. Задачи очень похожи на те, что будут на интервью.
 - [Другие](https://en.wikipedia.org/wiki/Competitive_programming#Online_platforms)
 
 ### Courses
