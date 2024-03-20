@@ -113,12 +113,14 @@ For interview preparation and learning
   - [Курс для продвинутых](https://stepik.org/course/68343) `rus` `course`
   - [Курс для профессионалов](https://stepik.org/course/82541) `rus` `course`
 - [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) `eng` `course`
+- [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/) `eng` `course` <!--- comment -->
 - [Python Tutorial for Beginners (with mini-projects)](https://www.youtube.com/watch?v=qwAFL1597eM) `eng` `course`
 - [What the f*ck Python! Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython) `eng` `repo`
 - [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet) `eng` `repo`
 - [Python Koans. An interactive tutorial for learning the Python programming language by making tests pass](https://github.com/gregmalcolm/python_koans) `eng` `repo`
 - [Full Speed Python. Learning Python using a practical approach](https://github.com/joaoventura/full-speed-python?tab=readme-ov-file) `eng` `book`
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org) `eng` `book`
+- [A collection of design patterns and idioms in Python](https://github.com/faif/python-patterns) `eng` `repo`
 
 ### Questions
 
@@ -130,11 +132,13 @@ For interview preparation and learning
 
 ### Other
 
-- [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html) `eng` `repo`
+- [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html) `eng` `repo` <!--- comment -->  
 
 ### Practice
 
 - [Задачи по Python и машинному обучению](https://t.me/python_tasks) `rus` `telegram`
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning#python) `eng` `repo`
+- [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices)
 
 ## SQL
 
@@ -150,11 +154,11 @@ For interview preparation and learning
 - [PostgreSQL Tutorial for Beginners](https://www.youtube.com/watch?v=SpfIwlAYaKk)  `eng` `course`
 - [Оконные функции SQL](https://stepik.org/course/95367/promo) `rus` `course`
 - [SQL Tutorial](https://mode.com/sql-tutorial/) `eng` `site`
-- [The Ultimate SQL Guide](https://blog.count.co/the-ultimate-sql-guide/) `eng` `site`
+- [The Ultimate SQL Guide](https://blog.count.co/the-ultimate-sql-guide/) `eng` `site` <!--- comment -->
 
 ### Practice
 
-- [Онлайн тренажер SQL Academy](https://sql-academy.org/) `rus` `eng` `site`
+- [Онлайн тренажер SQL Academy](https://sql-academy.org/) `rus` `eng` `site` <!--- comment -->
 - [Ace the SQL Interview](https://datalemur.com/questions?category=SQL) `eng` `site`
 - [Practice SQL](https://www.sql-practice.com/) `eng` `site`
 - [SQLBolt. Learn SQL with simple, interactive exercises.](https://sqlbolt.com/) `eng` `site`
@@ -166,47 +170,49 @@ For interview preparation and learning
 
 ### Sites
 
-- [Machine Learning Mastery by Jason Brownlee](https://machinelearningmastery.com/) `paid`
-- [Машинное обучение для людей. Разбираемся простыми словами](https://vas3k.blog/blog/machine_learning/)
-- [Анализ малых данных](https://dyakonov.org/ag/)  
-- [Kaggle Competitions](https://www.kaggle.com/competitions)
-- [Machine Learning Mastery](https://machinelearningmastery.com/)
-- [The Illustrated Machine Learning](https://illustrated-machine-learning.github.io/)
-- [MLU-EXPLAIN](https://mlu-explain.github.io/)
+- [Machine Learning Mastery by Jason Brownlee](https://machinelearningmastery.com/) `eng` `site` `paid`
+- [Машинное обучение для людей. Разбираемся простыми словами](https://vas3k.blog/blog/machine_learning/) `rus` `site` <!--- comment -->
+- [Анализ малых данных](https://dyakonov.org/ag/) `rus` `site`
+- [Kaggle Competitions](https://www.kaggle.com/competitions) `eng` `site`
+- [The Illustrated Machine Learning](https://illustrated-machine-learning.github.io/) `eng` `site`
+- [MLU-EXPLAIN](https://mlu-explain.github.io/) `eng` `site`
 
 ### Courses
 
-- [Open Machine Learning Course](https://mlcourse.ai/book/index.html) by Yury Kashnitsky `rus` `course`
+- [Open Machine Learning Course](https://mlcourse.ai/book/index.html) by Yury Kashnitsky `rus` `course` <!--- comment -->
 - [Машинное обучение](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%BE) (курс лекций, К.В.Воронцов) `rus` `course`
-- [Прикладные задачи анализа данных](https://github.com/Dyakonov/PZAD/tree/master) (курс лекций, А.Г.Дьяконов) `rus` `course`
+- [Прикладные задачи анализа данных](https://github.com/Dyakonov/PZAD/tree/master) (курс лекций, А.Г.Дьяконов) [video](https://www.youtube.com/playlist?list=PLaRUeIuewv8CMFox0oEjlyePUhUmo-x0h) `rus` `course`
 - [Алгоритмы Машинного обучения с нуля](https://stepik.org/course/68260/promo) `rus` `course`
-- [Stanford CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) by Andrew Ng  `eng` `course`
-- [Kaggle Learn](https://www.kaggle.com/learn) `eng` `course`
-- [Google Machine Learning Courses](https://developers.google.com/machine-learning) `eng` `course`
+- [Stanford CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) by Andrew Ng  `eng` `course` <!--- comment -->
+- [Kaggle Learn](https://www.kaggle.com/learn) `eng` `course` <!--- comment -->
+- [Google Machine Learning Courses](https://developers.google.com/machine-learning) `eng` `course` <!--- comment -->
+- [End to End Machine Learning by Brandon Rohrer](https://end-to-end-machine-learning.teachable.com/courses/) `eng` `course` <!--- comment -->
 
 ### Books
 
 - [Учебник по машинному обучению от ШАД](https://education.yandex.ru/handbook/ml/) `rus` `book`
-- [An Introduction to Statistical Learning](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani `eng` `book`
+- [An Introduction to Statistical Learning](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani `eng` `book` <!--- comment -->
 - [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf) by Trevor Hastie, Robert Tibshirani, Jerome Friedman `eng` `book`
-- [Machine Learning Simplified: A gentle introduction to supervised learning](https://themlsbook.com/read) by Andrew Wolf `eng` `book`
+- [Machine Learning Simplified: A gentle introduction to supervised learning](https://themlsbook.com/read) by Andrew Wolf `eng` `book` <!--- comment -->
 - [The Kaggle Book](https://www.kaggle.com/discussions/general/320574) `eng` `book`
-- [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/index.html) by Max Kuhn and Kjell Johnson `eng` `book`
+- [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/index.html) by Max Kuhn and Kjell Johnson `eng` `book` <!--- comment -->
 - [Clean Machine Learning Code](https://leanpub.com/cleanmachinelearningcode) `eng` `book`
 - [Interpreting Machine Learning Models With SHAP: A Guide With Python Examples And Theory On Shapley Values](https://www.amazon.com/dp/B0CHL7W1DL) `eng` `book`
 - [Interpretable Machine Learning. A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) `eng` `book`
 
 ### Cheetsheets
 
-- [Supervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning) `eng` `cheatsheets`
-- [Unsupervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning) `eng` `cheatsheets`
-- [Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks) `eng` `cheatsheets`
+- [Supervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning) `eng` `cheatsheet`
+- [Unsupervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning) `eng` `cheatsheet`
+- [Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks) `eng` `cheatsheet`
+- [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet?tab=readme-ov-file) `eng` `cheatsheet`
 
 ### Other
 
-- [StatQuest with Josh Starmer](https://www.youtube.com/@statquest/videos) `eng` `video`
+- [StatQuest with Josh Starmer](https://www.youtube.com/@statquest/videos) `eng` `video` <!--- comment -->
 - A new perspective on Shapley values `eng` `site`:
   - [Part I: Intro to Shapley and SHAP](https://edden-gerber.github.io/shapley-part-1/)
   - [Part II: The Naïve Shapley method](https://edden-gerber.github.io/shapley-part-2/)
-- [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808) `eng` `paper`
+- [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808) `eng` `paper` <!--- comment -->
 - [How to avoid machine learning pitfalls: a guide for academic researchers by Michael A. Lones](https://arxiv.org/abs/2108.02497) `eng` `paper`
+- [Core Machine Learning Skills](https://neetcode.io/practice?subpage=practice&tab=coreSkills&topic=Machine%20Learning) `eng` `exercises`
