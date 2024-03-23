@@ -81,6 +81,8 @@ For interview preparation and learning
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university/) `eng` `repo`
 - [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet) `eng` `repo`
 - [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide) `eng` `site`
+- [Data Structures & Algorithms by Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms) `eng` `site`
+- [Design and Analysis of Algorithms](https://eecs376.github.io/notes/algorithms.html) `eng` `site`
 
 ### Articles
 
@@ -187,6 +189,7 @@ For interview preparation and learning
 - [Kaggle Learn](https://www.kaggle.com/learn) `eng` `course` <!--- comment -->
 - [Google Machine Learning Courses](https://developers.google.com/machine-learning) `eng` `course` <!--- comment -->
 - [End to End Machine Learning by Brandon Rohrer](https://end-to-end-machine-learning.teachable.com/courses/) `eng` `course` <!--- comment -->
+- [Машинное Обучение в Python: Большой Курс для Начинающих](https://stepik.org/course/129449/info) `rus` `course` `paid`
 
 ### Books
 
@@ -216,3 +219,4 @@ For interview preparation and learning
 - [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808) `eng` `paper` <!--- comment -->
 - [How to avoid machine learning pitfalls: a guide for academic researchers by Michael A. Lones](https://arxiv.org/abs/2108.02497) `eng` `paper`
 - [Core Machine Learning Skills](https://neetcode.io/practice?subpage=practice&tab=coreSkills&topic=Machine%20Learning) `eng` `exercises`
+- [Discover machine learning, data science & robotics competitions](https://mlcontests.com) `eng` `site`
