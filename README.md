@@ -49,6 +49,7 @@ For interview preparation and learning
   - [Основы алгоритмов | Академия Яндекса](https://academy.yandex.ru/handbook/algorithms) `rus` `course`
   - [Бесплатный курс «Подготовка к алгоритмическому собеседованию» от ЯП](https://practicum.yandex.ru/algorithms-interview/) `rus` `course`
   - [Курс «Алгоритмы и структуры данных» от ЯП](https://practicum.yandex.ru/algorithms/) `rus` `course`  `paid`
+  - [Курс «Алгоритмы и структуры данных поиска»](https://www.youtube.com/playlist?app=desktop&list=PLJOzdkh8T5koEPv-R5W0ovmL_T2BjB1HX) `rus` `course`
 - Computer Science Center:
   - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info)  `rus` `course`
   - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/info)  `rus` `course`
@@ -83,6 +84,7 @@ For interview preparation and learning
 - [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide) `eng` `site`
 - [Data Structures & Algorithms by Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms) `eng` `site`
 - [Design and Analysis of Algorithms](https://eecs376.github.io/notes/algorithms.html) `eng` `site`
+- [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html) `eng` `site`
 
 ### Articles
 
