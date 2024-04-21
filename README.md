@@ -213,6 +213,7 @@ For interview preparation and learning
 - [Machine Learning Q and AI. Expand Your Machine Learning & AI Knowledge With 30 In-Depth Questions and Answers by Sebastian Raschka](https://leanpub.com/machine-learning-q-and-ai/)
 - [Reliable Machine Learning: Applying SRE Principles to ML in Production by Cathy Chen](https://www.amazon.com/Reliable-Machine-Learning-Principles-Production/dp/1098106229/ref=sr_1_9?crid=2LKWLWL9VVED7&keywords=SRE&qid=1677242699&sprefix=sre%2Caps%2C244&sr=8-9)
 - [Machine Learning Refined: Foundations, Algorithms, and Applications](https://www.amazon.com/Machine-Learning-Refined-Foundations-Applications/dp/1107123526)
+- [Models Demystified. A Practical Guide from t-tests to Deep Learning](https://m-clark.github.io/book-of-models/) by Michael Clark & Seth Berry
 
 <!-- omit in toc -->
 ### Cheetsheets
@@ -364,6 +365,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [WHAT IS TORCH.NN REALLY? by Jeremy Howard, fast.ai](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
 - [О «раздутом пузыре» нейросетей](https://habr.com/ru/post/718996/)
 - [Cтатьи от команды DeepSchool](https://deepschool-pro.notion.site/9a613d3c8d3644faa8e396bd083f2bc2?v=524b15c7ce9f49d094f94cd699c2c621)
+- [Полезные материалы про PyTorch](https://telegra.ph/PyTorch-i-okolo-nego-04-12)
 
 <!-- omit in toc -->
 ### Other
@@ -437,6 +439,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 - [LLM Visualization](https://bbycroft.net/llm)
 - [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
+- [Learn to Train and Deploy a Real-Time Financial Advisor](https://github.com/iusztinpaul/hands-on-llms)
 
 <!-- omit in toc -->
 ### Reading papers with AI
@@ -507,6 +510,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/info)
 - [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/schedule.html) + [Videos](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&ab_channel=StanfordUniversitySchoolofEngineering)
 - [EECS 442: Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/) + [Videos](https://m.bilibili.com/video/BV1BV411n7Km)
+- [Foundations of Computer Vision by Antonio Torralba, Phillip Isola and William T. Freeman](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/)
 
 ## Graphs
 
@@ -550,6 +554,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Прогнозирование временных рядов](https://education.yandex.ru/knowledge/prognozirovanie-vremennyh-ryadov.-mashinnoe-obuchenie)
 - [Time Series](https://www.kaggle.com/learn/time-series)
 - [Forecasting time series with gradient boosting: Skforecast, XGBoost, LightGBM, Scikit-learn and CatBoost](https://cienciadedatos.net/documentos/py39-forecasting-time-series-with-skforecast-xgboost-lightgbm-catboost) by Joaquín Amat Rodrigo, Javier Escobar Ortiz
+- [ARIMA and SARIMAX models with Python](https://cienciadedatos.net/documentos/py51-arima-sarimax-models-python.html) by Joaquín Amat Rodrigo, Javier Escobar Ortiz
 - Груздев А.В., Рафферти Г. [Прогнозирование временных рядов с помощью Prophet, sktime, ETNA и Greykite](https://dmkpress.com/catalog/computer/data/978-5-93700-212-9/)
 
 ## Big Data
