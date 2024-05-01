@@ -47,7 +47,7 @@ For interview preparation and learning
   - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info)  
   - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/info)  
 - [Подготовься к алгоритмическому собеседованию за 30 недель](https://balun.courses/courses/algorithmic_interview#program)  `paid`
-- [Introduction To Algorithms by MIT](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/)  
+- [Introduction To Algorithms by MIT](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/) <!--- comment -->
 - [Algorithms](https://cs50.harvard.edu/x/2024/weeks/3/) + [Data Structures](https://cs50.harvard.edu/x/2024/weeks/5/) from [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)  
 
 <!-- omit in toc -->
