@@ -536,7 +536,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 <!-- omit in toc -->
 ### Books
 
-- К. Фальк. [Рекомендательные системы на практике](https://dmkpress.com/catalog/computer/data/978-5-97060-774-9/) / [Practical Recommender Systems](https://www.manning.com/books/practical-recommender-systems) by Kim Falk
+- К. Фальк. [Рекомендательные системы на практике](https://dmkpress.com/catalog/computer/data/978-5-97060-774-9/) / [Practical Recommender Systems](https://www.manning.com/books/practical-recommender-systems) by Kim Falk <!--- comment -->
 - [Personalized Machine Learning](https://cseweb.ucsd.edu/~jmcauley/pml/)
 
 <!-- omit in toc -->
@@ -564,7 +564,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 
 - Перрен Ж.Ж. [Spark в действии](https://dmkpress.com/catalog/computer/data/978-5-97060-879-1/) / [Spark in Action](https://www.manning.com/books/spark-in-action-second-edition) by Jean-Georges Perrin
 - [Learning Spark](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf)
-- [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark)
+- [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark) <!--- comment -->
 
 <!-- omit in toc -->
 ### Other
