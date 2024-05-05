@@ -457,7 +457,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Prompt injection with Gandalf](https://gandalf.lakera.ai/)
 - [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 - [Prompt Engineering Guide](https://learnprompting.org/docs/intro) <!--- comment -->
-- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) <!--- comment -->
 - [Advanced Prompt Engineering](https://towardsdatascience.com/advanced-prompt-engineering-f07f9e55fe01)
 - [Prompt engineering Guide by Open.ai](https://platform.openai.com/docs/guides/prompt-engineering) <!--- comment -->
 - [Prompt Of The Year: 2023](https://github.com/successfulstudy/promptoftheyear/tree/main)
@@ -514,7 +514,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 
 ## Graphs
 
-- [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/) + [Video](https://www.youtube.com/playlist?list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp)
+- [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/) + [Video](https://www.youtube.com/playlist?list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp) <!--- comment -->
 - [Graph Neural Networks for RecSys](https://aman.ai/recsys/gnn/)
 - [Graph Neural Networks](https://aman.ai/primers/ai/gnn/)
 
