@@ -122,7 +122,8 @@ For interview preparation and learning
 - [Python Koans. An interactive tutorial for learning the Python programming language by making tests pass](https://github.com/gregmalcolm/python_koans)  
 - [Full Speed Python. Learning Python using a practical approach](https://github.com/joaoventura/full-speed-python?tab=readme-ov-file)
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org)
-- [A collection of design patterns and idioms in Python](https://github.com/faif/python-patterns)  
+- [A collection of design patterns and idioms in Python](https://github.com/faif/python-patterns)
+- [Python Cheatsheet](https://www.pythoncheatsheet.org/cheatsheet/basics)
 
 <!-- omit in toc -->
 ### Questions
@@ -221,7 +222,8 @@ For interview preparation and learning
 - [Supervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)  
 - [Unsupervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)  
 - [Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)  
-- [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet?tab=readme-ov-file)  
+- [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet?tab=readme-ov-file)
+- [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)
 
 <!-- omit in toc -->
 ### Articles
@@ -230,6 +232,7 @@ For interview preparation and learning
 - [Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure](https://onlinelibrary.wiley.com/doi/10.1111/ecog.02881)
 - [ML Papers of The Week by DAIR.AI](https://github.com/dair-ai/ML-Papers-of-the-Week)
 - [word2vec Parameter Learning Explained](https://arxiv.org/pdf/1411.2738.pdf)
+- [Ilya 30u30](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
 
 <!-- omit in toc -->
 ### Applied ML
@@ -440,6 +443,9 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [LLM Visualization](https://bbycroft.net/llm)
 - [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
 - [Learn to Train and Deploy a Real-Time Financial Advisor](https://github.com/iusztinpaul/hands-on-llms)
+- [The Annotated Transformer](https://github.com/harvardnlp/annotated-transformer/blob/master/AnnotatedTransformer.ipynb) + [Neural networks by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
+- [Elicit Machine Learning Reading List](https://github.com/elicit/machine-learning-list)
 
 <!-- omit in toc -->
 ### Reading papers with AI
@@ -574,3 +580,4 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [PySpark для аналитика. Как правильно просить ресурсы и как понять, сколько нужно брать](https://habr.com/ru/companies/avito/articles/732870/?erid=2VtzqxjG1Yk&erid=2Vtzqwxo44G)
 - [PySpark для аналитика. Как выгружать данные с помощью toPandas и его альтернатив](https://habr.com/ru/companies/avito/articles/740232/)
 - [Spark Architecture by FaangTalk](https://www.youtube.com/watch?v=1nzLD5VZE4I&t=132s)
+- [SPARK для «малышей»](https://habr.com/ru/companies/alfa/articles/808415/)
