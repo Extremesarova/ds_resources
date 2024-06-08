@@ -198,6 +198,7 @@ For interview preparation and learning
 - [Google Machine Learning Courses](https://developers.google.com/machine-learning) <!--- comment -->
 - [End to End Machine Learning by Brandon Rohrer](https://end-to-end-machine-learning.teachable.com/courses/) <!--- comment -->
 - [Машинное Обучение в Python: Большой Курс для Начинающих](https://stepik.org/course/129449/info)  `paid`
+- [Обучение работе с ML‑сервисами от Yandex Cloud](https://yandex.cloud/ru/training/ml)
 
 <!-- omit in toc -->
 ### Books
@@ -288,6 +289,8 @@ For interview preparation and learning
 - [Эффективные ансамбли](https://deepschool-pro.notion.site/e0b2a0bad14e414782b9ab3dff0cd2b5)
 - [Reflecting on 18 years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
 - [Как не перестать быть data driven из-за data driften, или Пару слов о дрейфе данных](https://habr.com/ru/companies/glowbyte/articles/681772/)
+- [В чём польза теоремы Байеса — или как управлять неопределённостью](https://practicum.yandex.ru/blog/teorema-bajesa-dlya-data-science/)
+- [AI by Hand with Prof. Tom Yeh for AI Professionals](https://dongou.tech/ai/dongou/ai-by-hand-✍%EF%B8%8F-with-prof-tom-yeh-for-ai-professionals/)
 
 <!-- omit in toc -->
 ### Other
@@ -408,6 +411,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [100 вопросов про NLP](https://dynamic-epoch-4bb.notion.site/100-questions-about-NLP-549ccde0d81a4689b5635888b9d0d7e6)
 - [The 1950-2024 Text Embeddings Evolution Poster](https://jina.ai/news/the-1950-2024-text-embeddings-evolution-poster/)
 - [awesome-nlp. A curated list of resources dedicated to Natural Language Processing](https://github.com/keon/awesome-nlp)
+- [NLP Cheatsheet: Master NLP](https://www.kaggle.com/code/rftexas/nlp-cheatsheet-master-nlp)
 
 <!-- omit in toc -->
 ### Large Language Models (LLMs) / Transformers
@@ -446,6 +450,8 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [The Annotated Transformer](https://github.com/harvardnlp/annotated-transformer/blob/master/AnnotatedTransformer.ipynb) + [Neural networks by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
 - [Elicit Machine Learning Reading List](https://github.com/elicit/machine-learning-list)
+- [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
+- [llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
 
 <!-- omit in toc -->
 ### Reading papers with AI
@@ -562,6 +568,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Forecasting time series with gradient boosting: Skforecast, XGBoost, LightGBM, Scikit-learn and CatBoost](https://cienciadedatos.net/documentos/py39-forecasting-time-series-with-skforecast-xgboost-lightgbm-catboost) by Joaquín Amat Rodrigo, Javier Escobar Ortiz
 - [ARIMA and SARIMAX models with Python](https://cienciadedatos.net/documentos/py51-arima-sarimax-models-python.html) by Joaquín Amat Rodrigo, Javier Escobar Ortiz
 - Груздев А.В., Рафферти Г. [Прогнозирование временных рядов с помощью Prophet, sktime, ETNA и Greykite](https://dmkpress.com/catalog/computer/data/978-5-93700-212-9/)
+- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
 
 ## Big Data
 
