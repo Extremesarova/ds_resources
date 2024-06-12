@@ -199,6 +199,8 @@ For interview preparation and learning
 - [End to End Machine Learning by Brandon Rohrer](https://end-to-end-machine-learning.teachable.com/courses/) <!--- comment -->
 - [Машинное Обучение в Python: Большой Курс для Начинающих](https://stepik.org/course/129449/info)  `paid`
 - [Обучение работе с ML‑сервисами от Yandex Cloud](https://yandex.cloud/ru/training/ml)
+- [Introduction to Machine Learning (I2ML)](https://slds-lmu.github.io/i2ml/)
+- [MACHINE LEARNING @ VU](https://mlvu.github.io)
 
 <!-- omit in toc -->
 ### Books
@@ -216,6 +218,7 @@ For interview preparation and learning
 - [Reliable Machine Learning: Applying SRE Principles to ML in Production by Cathy Chen](https://www.amazon.com/Reliable-Machine-Learning-Principles-Production/dp/1098106229/ref=sr_1_9?crid=2LKWLWL9VVED7&keywords=SRE&qid=1677242699&sprefix=sre%2Caps%2C244&sr=8-9)
 - [Machine Learning Refined: Foundations, Algorithms, and Applications](https://www.amazon.com/Machine-Learning-Refined-Foundations-Applications/dp/1107123526)
 - [Models Demystified. A Practical Guide from t-tests to Deep Learning](https://m-clark.github.io/book-of-models/) by Michael Clark & Seth Berry
+- [Machine Learning from Scratch. Derivations in Concept and Code](https://dafriedman97.github.io/mlbook/content/introduction.html)
 
 <!-- omit in toc -->
 ### Cheetsheets
