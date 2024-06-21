@@ -9,6 +9,7 @@ For interview preparation and learning
   - [Python](#python)
   - [SQL](#sql)
   - [Machine Learning](#machine-learning)
+  - [MLOps](#mlops)
   - [Deep Learning](#deep-learning)
   - [NLP](#nlp)
   - [Computer Vision](#computer-vision)
@@ -17,6 +18,8 @@ For interview preparation and learning
   - [RecSys](#recsys)
   - [Time Series](#time-series)
   - [Big Data](#big-data)
+  - [System Design](#system-design)
+  - [Machine Learning System Design](#machine-learning-system-design)
 
 ## Algorithms and Data Structures
 
@@ -219,6 +222,7 @@ For interview preparation and learning
 - [Machine Learning Refined: Foundations, Algorithms, and Applications](https://www.amazon.com/Machine-Learning-Refined-Foundations-Applications/dp/1107123526)
 - [Models Demystified. A Practical Guide from t-tests to Deep Learning](https://m-clark.github.io/book-of-models/) by Michael Clark & Seth Berry
 - [Machine Learning from Scratch. Derivations in Concept and Code](https://dafriedman97.github.io/mlbook/content/introduction.html)
+- [Supervised Machine Learning for Science by Christoph Molnar & Timo Freiesleben](https://ml-science-book.com)
 
 <!-- omit in toc -->
 ### Cheetsheets
@@ -249,7 +253,27 @@ For interview preparation and learning
 - [Machine Learning for Imbalanced Data](https://github.com/PacktPublishing/Machine-Learning-for-Imbalanced-Data)
 - [Валидация моделей машинного обучения](https://habr.com/ru/companies/glowbyte/articles/569970/)
 - [Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/)
-- [Supervised Machine Learning for Science by Christoph Molnar & Timo Freiesleben](https://ml-science-book.com)
+
+<!-- omit in toc -->
+### Blogs
+
+- [Applying Machine Learning by Eugene Yan](https://applyingml.com/)
+- [Eugene Yan](https://eugeneyan.com/)
+  - [Data Science Project Quick-Start](https://eugeneyan.com/writing/project-quick-start/) `datascience` `engineering` `productivity`
+  - [Writing is Learning: How I Learned an Easier Way to Write](https://eugeneyan.com/writing/reading-note-taking-writing/) `writing` `learning`
+  - [Uncommon Uses of Python in Commonly Used Libraries](https://eugeneyan.com/writing/uncommon-python/) `python` `engineering`
+- [Andrey Lukyanenko](https://andlukyane.com/)
+  - [A third life of a personal pet-project for handwritten digit recognition](https://andlukyane.com/blog/a-third-life-of-a-personal-project)
+- [Dan Bader](https://dbader.org/)
+- [Matthew Brett](https://matthew-brett.github.io/teaching/index.html)
+  - [Introducing principal component analysis](https://matthew-brett.github.io/teaching/pca_introduction.html)
+- [Amit Chaudhary](https://amitness.com/)
+- [Andrej Karpathy](http://karpathy.github.io/)
+- [Jay Alammar](https://jalammar.github.io/)
+- [Lilian Weng](https://lilianweng.github.io/)
+- [Data science blogs](https://github.com/rushter/data-science-blogs) `repo`
+- [Keep the gradient flowing by Fabian Pedregosa](https://fa.bianp.net/)
+- [Irrational Exuberance by Will Larson](https://lethain.com/)
 
 <!-- omit in toc -->
 ### Feature Engineering
@@ -306,6 +330,26 @@ For interview preparation and learning
 - [How to avoid machine learning pitfalls: a guide for academic researchers by Michael A. Lones](https://arxiv.org/abs/2108.02497)
 - [Core Machine Learning Skills](https://neetcode.io/practice?subpage=practice&tab=coreSkills&topic=Machine%20Learning)
 - [Discover machine learning, data science & robotics competitions](https://mlcontests.com)  
+
+## MLOps
+
+<!-- omit in toc -->
+### General
+
+- [FastAPI for Machine Learning: Live coding an ML web application with the creator of FastAPI  Sebastián Ramírez](https://www.youtube.com/watch?v=_BZGtifh_gw&ab_channel=DeepLearningAI) `video`
+- [Build your MLOps stack](https://mymlops.com/)
+- [MLOps и production подход к ML исследованиям](https://ods.ai/tracks/ml-in-production-spring-22) `course` `rus`
+- [MLOps Guide](https://mlops-guide.github.io/) <!--- comment -->
+- [MLOps guide by Chip Hyyen](https://huyenchip.com/mlops/)
+- [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) <!--- comment -->
+- MLOps и production подход к ML исследованиям 2.0: [Видео](https://www.youtube.com/playlist?app=desktop&list=PLUJY3Hn1BMCIiVRaQyKDA_molGS3-R1d_) + [Курс](https://ods.ai/tracks/ml-in-production-spring-23)
+- [THE ULTIMATE DOCKER COMPOSE CHEAT SHEET](https://devopscycle.com/blog/the-ultimate-docker-compose-cheat-sheet/)
+
+<!-- omit in toc -->
+### Other
+
+- [Complete Docker Course - From BEGINNER to PRO!](https://www.youtube.com/watch?v=RqTEHSBrYFw)
+- [Docker Containers and Kubernetes Fundamentals](https://www.youtube.com/watch?v=kTp5xUtcalw)
 
 ## Deep Learning
 
@@ -591,3 +635,39 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [PySpark для аналитика. Как выгружать данные с помощью toPandas и его альтернатив](https://habr.com/ru/companies/avito/articles/740232/)
 - [Spark Architecture by FaangTalk](https://www.youtube.com/watch?v=1nzLD5VZE4I&t=132s)
 - [SPARK для «малышей»](https://habr.com/ru/companies/alfa/articles/808415/)
+
+## System Design
+
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer#study-guide) `repo` <!--- comment -->
+- [Algorithms you should know before you take system design interviews](https://blog.bytebytego.com/p/algorithms-you-should-know-before)
+- [Top 14 System Design interview questions for software engineers](https://www.educative.io/blog/top-10-system-design-interview-questions#proximity)
+- [System Design for Interviews and Beyond](https://systemdesignthinking.thinkific.com/courses/system-design-for-interviews-and-beyond) `course`
+- [System Design](https://balun.courses/courses/system_design#program) `course` `rus`
+- [System Design by Karan Pratap Singh](https://github.com/karanpratapsingh/system-design) <!--- comment -->
+- [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
+- [Systems Design Interview Guide](http://patrickhalina.com/posts/systems-design-interview-guide/)
+- [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) `book`
+- [System Design Interview – Step By Step Guide](https://youtu.be/bUHFg8CZFws?si=0AuZFInexE6Iunga) `video`
+- [Designing Data-Intensive Applications and its related books](https://anvaka.github.io/greview/ddia/1/)
+- [A Senior Engineer's Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview)
+- [Intro to System Design](https://github.com/alexngn/intro-to-system-design) `repo`
+- [System Design Newsletter](https://github.com/systemdesign42/system-design)
+- [Awesome System Design](https://github.com/madd86/awesome-system-design)
+
+## Machine Learning System Design
+
+- [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) `course` <!--- comment -->
+- [ML System Design](https://ods.ai/tracks/ml-system-design-23) `course` `rus`
+- [Шаблон ML System Design Doc от телеграм-канала Reliable ML](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru) `repo` `rus`  
+[ML System Design - ML System Design Doc. Лекция-бонус от Reliable ML](https://www.youtube.com/watch?v=PW9TGNr1Vqk&ab_channel=ODSAIRu) `rus` `video`
+- [Machine learning design primer by Ibragim Badertdinov](https://github.com/ibragim-bad/machine-learning-design-primer) `repo`
+- [ml-design-doc](https://github.com/eugeneyan/ml-design-docs) `repo`
+- [Что я бы хотел знать про ML System Design раньше](https://habr.com/ru/amp/publications/698698/) `rus` `article`
+- [Почему анализ ошибок – это начало разработки ML системы, а не конец?](https://habr.com/ru/articles/760550/#) `rus` `article`
+- [ML Systems Design Interview Guide](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
+- [Machine Learning System Design by Valerii Babushkin and Arseny Kravchenko](https://www.manning.com/books/machine-learning-system-design) `book` <!--- comment -->
+- [Designing Machine Learning Systems by Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) `book`
+- [Machine Learning Engineering Online Book](https://github.com/stas00/ml-engineering) `book` `repo` <!--- comment -->
+- [ML system design: 300 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
+- [Machine Learning System Design Interview by Ali Aminian, Alex Xu](https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127) + [Solutions](https://leetcode.com/discuss/interview-question/system-design/3133672/New-Book-by-Alex-Xu-or-Machine-Learning-System-Design-My-Solutions)
+- [The 9-Step ML System Design Formula](https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLSD/ml-system-design.md)
