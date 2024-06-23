@@ -98,6 +98,7 @@ For interview preparation and learning
 - [Problem Solving with Algorithms and Data Structures using Python by Brad Miller and David Ranum, Luther College](https://runestone.academy/ns/books/published/pythonds/index.html)
 - [Competitive Programmer's Handbook by Antti Laaksonen](https://cses.fi/book/book.pdf)
 - [Competitive Programming by Steven Halim](https://www.amazon.com/Competitive-Programming-4-Book-2/dp/B093K67NVN?crid=C4TR8FKXSWW1&keywords=competitive+programming+4&qid=1654975173&sprefix=competitive+programming+4,aps,131&sr=8-1&linkCode=sl1&tag=alexcancode0d-20&linkId=014a5744e277b65b2a6251d9884c031d&language=en_US&ref_=as_li_ss_tl)
+- [Programming Interviews Exposed: Secrets to Landing Your Next Job by John Mongan, Noah Suojanen Kindler and Eric Giguere](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364)
 
 ## Python
 
@@ -204,6 +205,7 @@ For interview preparation and learning
 - [Обучение работе с ML‑сервисами от Yandex Cloud](https://yandex.cloud/ru/training/ml)
 - [Introduction to Machine Learning (I2ML)](https://slds-lmu.github.io/i2ml/)
 - [MACHINE LEARNING @ VU](https://mlvu.github.io)
+- [Machine Learning for Engineers](https://ml-course.github.io/master/intro.html)
 
 <!-- omit in toc -->
 ### Books
@@ -344,6 +346,7 @@ For interview preparation and learning
 - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) <!--- comment -->
 - MLOps и production подход к ML исследованиям 2.0: [Видео](https://www.youtube.com/playlist?app=desktop&list=PLUJY3Hn1BMCIiVRaQyKDA_molGS3-R1d_) + [Курс](https://ods.ai/tracks/ml-in-production-spring-23)
 - [THE ULTIMATE DOCKER COMPOSE CHEAT SHEET](https://devopscycle.com/blog/the-ultimate-docker-compose-cheat-sheet/)
+- [DevOps for Data Science by Alex K Gold](https://do4ds.com)
 
 <!-- omit in toc -->
 ### Other
@@ -520,6 +523,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Advanced Prompt Engineering](https://towardsdatascience.com/advanced-prompt-engineering-f07f9e55fe01)
 - [Prompt engineering Guide by Open.ai](https://platform.openai.com/docs/guides/prompt-engineering) <!--- comment -->
 - [Prompt Of The Year: 2023](https://github.com/successfulstudy/promptoftheyear/tree/main)
+- [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608)
 
 <!-- omit in toc -->
 ### Tutorials
