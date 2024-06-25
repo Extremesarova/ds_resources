@@ -225,6 +225,7 @@ For interview preparation and learning
 - [Models Demystified. A Practical Guide from t-tests to Deep Learning](https://m-clark.github.io/book-of-models/) by Michael Clark & Seth Berry
 - [Machine Learning from Scratch. Derivations in Concept and Code](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [Supervised Machine Learning for Science by Christoph Molnar & Timo Freiesleben](https://ml-science-book.com)
+- [Machine Learning Refined: Notes, Exercises, Presentations, and Sample Chapters](https://github.com/neonwatty/machine_learning_refined)
 
 <!-- omit in toc -->
 ### Cheetsheets
@@ -502,6 +503,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Elicit Machine Learning Reading List](https://github.com/elicit/machine-learning-list)
 - [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
 - [llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
+- [LLM101n: Let's build a Storyteller by Andrej Karpathy](https://github.com/karpathy/LLM101n?tab=readme-ov-file)
 
 <!-- omit in toc -->
 ### Reading papers with AI
