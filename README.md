@@ -11,6 +11,7 @@ For interview preparation and learning
 - [Machine Learning](#machine-learning)
 - [MLOps](#mlops)
 - [Deep Learning](#deep-learning)
+- [Generative AI](#generative-ai)
 - [NLP](#nlp)
 - [Computer Vision](#computer-vision)
 - [Graphs](#graphs)
@@ -33,7 +34,7 @@ For interview preparation and learning
 - [Codewars](https://www.codewars.com/)  
 - [HackerRank](https://www.hackerrank.com/)  
 - [CodeAbbey](https://www.codeabbey.com/index/task_list)  
-- [CodeRun](https://coderun.yandex.ru/catalog)
+- [CodeRun](https://coderun.yandex.ru)
 Инструмент для подготовки к очному собеседованию в Яндексе. Задачи очень похожи на те, что будут на интервью.
 - [Другие](https://en.wikipedia.org/wiki/Competitive_programming#Online_platforms)  
 
@@ -127,6 +128,7 @@ For interview preparation and learning
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org)
 - [A collection of design patterns and idioms in Python](https://github.com/faif/python-patterns)
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/cheatsheet/basics)
+- [Write faster Python code, and ship your code faster](https://pythonspeed.com)
 
 <!-- omit in toc -->
 ### Questions
@@ -223,6 +225,8 @@ For interview preparation and learning
 - [Models Demystified. A Practical Guide from t-tests to Deep Learning](https://m-clark.github.io/book-of-models/) by Michael Clark & Seth Berry
 - [Machine Learning from Scratch. Derivations in Concept and Code](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [Supervised Machine Learning for Science by Christoph Molnar & Timo Freiesleben](https://ml-science-book.com)
+- [Machine Learning Refined: Notes, Exercises, Presentations, and Sample Chapters](https://github.com/neonwatty/machine_learning_refined)
+- [Дьяконов А.Г. "Машинное обучение и анализ данных"](https://github.com/Dyakonov/MLDM_BOOK)
 
 <!-- omit in toc -->
 ### Cheetsheets
@@ -365,6 +369,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [What are embeddings by Vicki Boykis](https://vickiboykis.com/what_are_embeddings/index.html) <!--- comment -->
 - [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org)
 - [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD by Jeremy Howard and Sylvain Gugger](https://course.fast.ai/Resources/book.html)
+- [Deep Learning. Foundations and Concepts by Chris Bishop and Hugh Bishop](https://www.bishopbook.com)
 
 <!-- omit in toc -->
 ### Courses
@@ -395,6 +400,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [PyTorch Tutorials - Complete Beginner Course](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
 - [Школа глубокого обучения](https://dls.samcs.ru/)
 - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) by Andrej Karpathy <!--- comment -->
+- CUDA Mode: [Lectures](https://github.com/cuda-mode/lectures?tab=readme-ov-file) + [Video](https://www.youtube.com/@CUDAMODE?app=desktop)
 
 <!-- omit in toc -->
 ### Tutorials
@@ -424,6 +430,10 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 ### Other
 
 - [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650)
+
+## Generative AI
+
+- [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners?tab=readme-ov-file)
 
 ## NLP
 
