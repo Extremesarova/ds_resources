@@ -28,67 +28,67 @@ For interview preparation and learning
 ### Platforms
 
 - [LeetCode](https://leetcode.com/)
-  - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)  
-  List of questions with patterns + tips
-  - [LeetCode Explore](https://leetcode.com/explore/)  
-- [Codewars](https://www.codewars.com/)  
-- [HackerRank](https://www.hackerrank.com/)  
-- [CodeAbbey](https://www.codeabbey.com/index/task_list)  
+- [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
+List of questions with patterns + tips
+- [LeetCode Explore](https://leetcode.com/explore/)
+- [Codewars](https://www.codewars.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [CodeAbbey](https://www.codeabbey.com/index/task_list)
 - [CodeRun](https://coderun.yandex.ru)
 Инструмент для подготовки к очному собеседованию в Яндексе. Задачи очень похожи на те, что будут на интервью.
-- [Другие](https://en.wikipedia.org/wiki/Competitive_programming#Online_platforms)  
+- [Другие](https://en.wikipedia.org/wiki/Competitive_programming#Online_platforms)
 
 <!-- omit in toc -->
 ### Courses
 
-- [Algoprog](https://algoprog.ru/)  `paid`
+- [Algoprog](https://algoprog.ru/)
 - Яндекс:
-  - [Основы алгоритмов | Академия Яндекса](https://academy.yandex.ru/handbook/algorithms)
-  - [Бесплатный курс «Подготовка к алгоритмическому собеседованию» от ЯП](https://practicum.yandex.ru/algorithms-interview/)
-  - [Курс «Алгоритмы и структуры данных» от ЯП](https://practicum.yandex.ru/algorithms/) `paid`
-  - [Курс «Алгоритмы и структуры данных поиска»](https://www.youtube.com/playlist?app=desktop&list=PLJOzdkh8T5koEPv-R5W0ovmL_T2BjB1HX)
+- [Основы алгоритмов | Академия Яндекса](https://academy.yandex.ru/handbook/algorithms)
+- [Бесплатный курс «Подготовка к алгоритмическому собеседованию» от ЯП](https://practicum.yandex.ru/algorithms-interview/)
+- [Курс «Алгоритмы и структуры данных» от ЯП](https://practicum.yandex.ru/algorithms/)
+- [Курс «Алгоритмы и структуры данных поиска»](https://www.youtube.com/playlist?app=desktop&list=PLJOzdkh8T5koEPv-R5W0ovmL_T2BjB1HX)
 - Computer Science Center:
-  - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info)  
-  - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/info)  
-- [Подготовься к алгоритмическому собеседованию за 30 недель](https://balun.courses/courses/algorithmic_interview#program)  `paid`
+- [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info)
+- [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/info)
+- [Подготовься к алгоритмическому собеседованию за 30 недель](https://balun.courses/courses/algorithmic_interview#program)
 - [Introduction To Algorithms by MIT](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/) <!--- comment -->
-- [Algorithms](https://cs50.harvard.edu/x/2024/weeks/3/) + [Data Structures](https://cs50.harvard.edu/x/2024/weeks/5/) from [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)  
+- [Algorithms](https://cs50.harvard.edu/x/2024/weeks/3/) + [Data Structures](https://cs50.harvard.edu/x/2024/weeks/5/) from [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)
 
 <!-- omit in toc -->
 ### Resources
 
 - Тренировки по алгоритмам от Яндекса:
-  - [Тренировки по алгоритмам от Яндекса 1](https://yandex.ru/yaintern/algorithm-training_1)
-  - [Тренировки по алгоритмам от Яндекса 2](https://yandex.ru/yaintern/algorithm-training_2)
-  - [Тренировки по алгоритмам от Яндекса 3](https://yandex.ru/yaintern/training/algorithm-training_3)
-  - [Тренировки по алгоритмам от Яндекса 4](https://yandex.ru/yaintern/training/algorithm-training_4)
-  - [Тренировки по алгоритмам от Яндекса 5](https://yandex.ru/yaintern/algorithm-training)
-  - [Интенсив по алгоритмам от Яндекса](https://www.youtube.com/playlist?list=PLQC2_0cDcSKAzLqqXUidKBJsy1Im44aOo)
-- [Algorithmic concepts By Afshine Amidi and Shervine Amidi](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts/)  
-- [NeetCode. A better way to prepare for coding interviews.](https://neetcode.io/roadmap)  
-- [The Algorithms. Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language](https://github.com/TheAlgorithms)  
+- [Тренировки по алгоритмам от Яндекса 1](https://yandex.ru/yaintern/algorithm-training_1)
+- [Тренировки по алгоритмам от Яндекса 2](https://yandex.ru/yaintern/algorithm-training_2)
+- [Тренировки по алгоритмам от Яндекса 3](https://yandex.ru/yaintern/training/algorithm-training_3)
+- [Тренировки по алгоритмам от Яндекса 4](https://yandex.ru/yaintern/training/algorithm-training_4)
+- [Тренировки по алгоритмам от Яндекса 5](https://yandex.ru/yaintern/algorithm-training)
+- [Интенсив по алгоритмам от Яндекса](https://www.youtube.com/playlist?list=PLQC2_0cDcSKAzLqqXUidKBJsy1Im44aOo)
+- [Algorithmic concepts By Afshine Amidi and Shervine Amidi](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts/)
+- [NeetCode. A better way to prepare for coding interviews.](https://neetcode.io/roadmap)
+- [The Algorithms. Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language](https://github.com/TheAlgorithms)
 - [Алгоритмы и структуры данных простыми словами](https://codonaft.com/%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D0%B8-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%BC%D0%B8-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8/)
 - [Алгоритмика](https://ru.algorithmica.org/)
-- [Leetcode. Company-wise questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions)  
-- [Code Abbey Problems](https://www.codeabbey.com/index/task_list)  
-- [Unlocking Algorithm Efficiency: A Comprehensive Guide to Time and Space Complexity](https://deft1991.medium.com/unlocking-algorithm-efficiency-a-comprehensive-guide-to-time-and-space-complexity-42365215b1b7)  
-- [Data Structures Reference](https://www.interviewcake.com/data-structures-reference)  
-- [An Executable Data Structures Cheat Sheet for Interviews](https://algodaily.com/lessons/an-executable-data-structures-cheat-sheet)  
-- [Coding Interview Guide](http://patrickhalina.com/posts/coding-interview-guide/)  
-- [Algorithmic Thinking](https://labuladong.gitbook.io/algo-en/)  
-- [Algorithm Notes](https://liuzhenglaichn.gitbook.io/algorithm/)  
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university/)  
-- [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)  
-- [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)  
-- [Data Structures & Algorithms by Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms)  
-- [Design and Analysis of Algorithms](https://eecs376.github.io/notes/algorithms.html)  
-- [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html)  
+- [Leetcode. Company-wise questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions)
+- [Code Abbey Problems](https://www.codeabbey.com/index/task_list)
+- [Unlocking Algorithm Efficiency: A Comprehensive Guide to Time and Space Complexity](https://deft1991.medium.com/unlocking-algorithm-efficiency-a-comprehensive-guide-to-time-and-space-complexity-42365215b1b7)
+- [Data Structures Reference](https://www.interviewcake.com/data-structures-reference)
+- [An Executable Data Structures Cheat Sheet for Interviews](https://algodaily.com/lessons/an-executable-data-structures-cheat-sheet)
+- [Coding Interview Guide](http://patrickhalina.com/posts/coding-interview-guide/)
+- [Algorithmic Thinking](https://labuladong.gitbook.io/algo-en/)
+- [Algorithm Notes](https://liuzhenglaichn.gitbook.io/algorithm/)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university/)
+- [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+- [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
+- [Data Structures & Algorithms by Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms)
+- [Design and Analysis of Algorithms](https://eecs376.github.io/notes/algorithms.html)
+- [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html)
 
 <!-- omit in toc -->
 ### Articles
 
 - [Как проходят алгоритмические секции на собеседованиях в Яндекс](https://habr.com/ru/companies/yandex/articles/449890/)
-- [How to effectively use LeetCode to prepare for interviews](https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews)  
+- [How to effectively use LeetCode to prepare for interviews](https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews)
 
 <!-- omit in toc -->
 ### Books
@@ -115,15 +115,15 @@ For interview preparation and learning
 - [Python: основы и применение](https://stepik.org/course/512/info)
 - [Программирование на Python](https://stepik.org/course/67/info)
 - Поколение Python:
-  - [Курс для начинающих](https://stepik.org/course/58852)
-  - [Курс для продвинутых](https://stepik.org/course/68343)
-  - [Курс для профессионалов](https://stepik.org/course/82541)
-- [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)  
+- [Курс для начинающих](https://stepik.org/course/58852)
+- [Курс для продвинутых](https://stepik.org/course/68343)
+- [Курс для профессионалов](https://stepik.org/course/82541)
+- [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
 - [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/) <!--- comment -->
-- [Python Tutorial for Beginners (with mini-projects)](https://www.youtube.com/watch?v=qwAFL1597eM)  
-- [What the f*ck Python! Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)  
-- [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)  
-- [Python Koans. An interactive tutorial for learning the Python programming language by making tests pass](https://github.com/gregmalcolm/python_koans)  
+- [Python Tutorial for Beginners (with mini-projects)](https://www.youtube.com/watch?v=qwAFL1597eM)
+- [What the f*ck Python! Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
+- [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
+- [Python Koans. An interactive tutorial for learning the Python programming language by making tests pass](https://github.com/gregmalcolm/python_koans)
 - [Full Speed Python. Learning Python using a practical approach](https://github.com/joaoventura/full-speed-python?tab=readme-ov-file)
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org)
 - [A collection of design patterns and idioms in Python](https://github.com/faif/python-patterns)
@@ -133,76 +133,77 @@ For interview preparation and learning
 <!-- omit in toc -->
 ### Questions
 
-- [53 Python Interview Questions and Answers](https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f)  
+- [53 Python Interview Questions and Answers](https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f)
 - Python: вопросы на собеседовании:
-  - [Часть I. Junior](<https://pythonist.ru/> python-voprosy-sobesedovaniya-chast-i-junior/)
-  - [Часть II. Middle](https://pythonist.ru/python-voprosy-sobesedovaniya-chast-ii-middle/)
-  - [Часть III. Senior](https://pythonist.ru/python-voprosy-sobesedovaniya-chast-iii-senior/)
+- [Часть I. Junior](<https://pythonist.ru/> python-voprosy-sobesedovaniya-chast-i-junior/)
+- [Часть II. Middle](https://pythonist.ru/python-voprosy-sobesedovaniya-chast-ii-middle/)
+- [Часть III. Senior](https://pythonist.ru/python-voprosy-sobesedovaniya-chast-iii-senior/)
 
 <!-- omit in toc -->
 ### Other
 
-- [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html) <!--- comment -->  
+- [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html) <!--- comment -->
 
 <!-- omit in toc -->
 ### Practice
 
 - [Задачи по Python и машинному обучению](https://t.me/python_tasks)
-- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning#python)  
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning#python)
 - [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices)
 
 ## SQL
 
-- [How to pass data engineering SQL interviews in big tech](https://blog.dataengineer.io/p/how-to-pass-data-engineering-sql?utm_source=post-email-title&publication_id=1644342&post_id=136917153&utm_campaign=surfalytics.com)  
+- [How to pass data engineering SQL interviews in big tech](https://blog.dataengineer.io/p/how-to-pass-data-engineering-sql?utm_source=post-email-title&publication_id=1644342&post_id=136917153&utm_campaign=surfalytics.com)
 
 <!-- omit in toc -->
 ### Courses
 
 - [Интерактивный тренажер по SQL](https://stepik.org/course/63054/info)
 - [Пакет SQL курсов](https://stepik.org/course/61247/info):
-  - [Основы SQL](https://stepik.org/course/51562/info)
-  - [Продвинутый SQL](https://stepik.org/course/55776/info)
-  - [Проектирование баз данных](https://stepik.org/course/51675/info)  
+- [Основы SQL](https://stepik.org/course/51562/info)
+- [Продвинутый SQL](https://stepik.org/course/55776/info)
+- [Проектирование баз данных](https://stepik.org/course/51675/info)
 - [PostgreSQL Tutorial for Beginners](https://www.youtube.com/watch?v=SpfIwlAYaKk)
 - [Оконные функции SQL](https://stepik.org/course/95367/promo)
-- [SQL Tutorial](https://mode.com/sql-tutorial/)  
+- [SQL Tutorial](https://mode.com/sql-tutorial/)
 - [The Ultimate SQL Guide](https://blog.count.co/the-ultimate-sql-guide/) <!--- comment -->
 
 <!-- omit in toc -->
 ### Practice
 
 - [Онлайн тренажер SQL Academy](https://sql-academy.org/) <!--- comment -->
-- [Ace the SQL Interview](https://datalemur.com/questions?category=SQL)  
-- [Practice SQL](https://www.sql-practice.com/)  
-- [SQLBolt. Learn SQL with simple, interactive exercises.](https://sqlbolt.com/)  
-- [SQL Tutorial by w3schools](https://www.w3schools.com/sql/)  
-- [PostgreSQL Exercises](https://pgexercises.com/)  
-- [The Querynomicon. An Introduction to SQL for Wary Data Scientists](https://gvwilson.github.io/sql-tutorial/)  
+- [Ace the SQL Interview](https://datalemur.com/questions?category=SQL)
+- [Practice SQL](https://www.sql-practice.com/)
+- [SQLBolt. Learn SQL with simple, interactive exercises.](https://sqlbolt.com/)
+- [SQL Tutorial by w3schools](https://www.w3schools.com/sql/)
+- [PostgreSQL Exercises](https://pgexercises.com/)
+- [The Querynomicon. An Introduction to SQL for Wary Data Scientists](https://gvwilson.github.io/sql-tutorial/)
 
 ## Machine Learning
 
 <!-- omit in toc -->
 ### Sites
 
-- [Machine Learning Mastery by Jason Brownlee](https://machinelearningmastery.com/) `paid`
-- [Машинное обучение для людей. Разбираемся простыми словами](https://vas3k.blog/blog/machine_learning/)  <!--- comment -->
+- [Machine Learning Mastery by Jason Brownlee](https://machinelearningmastery.com/)
+- [Машинное обучение для людей. Разбираемся простыми словами](https://vas3k.blog/blog/machine_learning/)<!--- comment -->
 - [Анализ малых данных](https://dyakonov.org/ag/)
-- [Kaggle Competitions](https://www.kaggle.com/competitions)  
-- [The Illustrated Machine Learning](https://illustrated-machine-learning.github.io/)  
-- [MLU-EXPLAIN](https://mlu-explain.github.io/)  
+- [Kaggle Competitions](https://www.kaggle.com/competitions)
+- [The Illustrated Machine Learning](https://illustrated-machine-learning.github.io/)
+- [MLU-EXPLAIN](https://mlu-explain.github.io/)
+- [ML Code Challenges](https://www.deep-ml.com)
 
 <!-- omit in toc -->
 ### Courses
 
-- [Open Machine Learning Course](https://mlcourse.ai/book/index.html) by Yury Kashnitsky  <!--- comment -->
+- [Open Machine Learning Course](https://mlcourse.ai/book/index.html) by Yury Kashnitsky<!--- comment -->
 - [Машинное обучение](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%BE) (курс лекций, К.В.Воронцов)
 - [Прикладные задачи анализа данных](https://github.com/Dyakonov/PZAD/tree/master) (курс лекций, А.Г.Дьяконов) [video](https://www.youtube.com/playlist?list=PLaRUeIuewv8CMFox0oEjlyePUhUmo-x0h)
 - [Алгоритмы Машинного обучения с нуля](https://stepik.org/course/68260/promo)
-- [Stanford CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) by Andrew Ng  <!--- comment -->
+- [Stanford CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) by Andrew Ng<!--- comment -->
 - [Kaggle Learn](https://www.kaggle.com/learn) <!--- comment -->
 - [Google Machine Learning Courses](https://developers.google.com/machine-learning) <!--- comment -->
 - [End to End Machine Learning by Brandon Rohrer](https://end-to-end-machine-learning.teachable.com/courses/) <!--- comment -->
-- [Машинное Обучение в Python: Большой Курс для Начинающих](https://stepik.org/course/129449/info)  `paid`
+- [Машинное Обучение в Python: Большой Курс для Начинающих](https://stepik.org/course/129449/info)
 - [Обучение работе с ML‑сервисами от Yandex Cloud](https://yandex.cloud/ru/training/ml)
 - [Introduction to Machine Learning (I2ML)](https://slds-lmu.github.io/i2ml/)
 - [MACHINE LEARNING @ VU](https://mlvu.github.io)
@@ -211,11 +212,11 @@ For interview preparation and learning
 ### Books
 
 - [Учебник по машинному обучению от ШАД](https://education.yandex.ru/handbook/ml/)
-- [An Introduction to Statistical Learning](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani  <!--- comment -->
+- [An Introduction to Statistical Learning](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani<!--- comment -->
 - [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
-- [Machine Learning Simplified: A gentle introduction to supervised learning](https://themlsbook.com/read) by Andrew Wolf  <!--- comment -->
+- [Machine Learning Simplified: A gentle introduction to supervised learning](https://themlsbook.com/read) by Andrew Wolf<!--- comment -->
 - [The Kaggle Book](https://www.kaggle.com/discussions/general/320574)
-- [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/index.html) by Max Kuhn and Kjell Johnson  <!--- comment -->
+- [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/index.html) by Max Kuhn and Kjell Johnson<!--- comment -->
 - [Clean Machine Learning Code](https://leanpub.com/cleanmachinelearningcode)
 - [Interpreting Machine Learning Models With SHAP: A Guide With Python Examples And Theory On Shapley Values](https://www.amazon.com/dp/B0CHL7W1DL)
 - [Interpretable Machine Learning. A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
@@ -231,9 +232,9 @@ For interview preparation and learning
 <!-- omit in toc -->
 ### Cheetsheets
 
-- [Supervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)  
-- [Unsupervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)  
-- [Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)  
+- [Supervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
+- [Unsupervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)
+- [Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
 - [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet?tab=readme-ov-file)
 - [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)
 
@@ -263,14 +264,14 @@ For interview preparation and learning
 
 - [Applying Machine Learning by Eugene Yan](https://applyingml.com/)
 - [Eugene Yan](https://eugeneyan.com/)
-  - [Data Science Project Quick-Start](https://eugeneyan.com/writing/project-quick-start/) `datascience` `engineering` `productivity`
-  - [Writing is Learning: How I Learned an Easier Way to Write](https://eugeneyan.com/writing/reading-note-taking-writing/) `writing` `learning`
-  - [Uncommon Uses of Python in Commonly Used Libraries](https://eugeneyan.com/writing/uncommon-python/) `python` `engineering`
+- [Data Science Project Quick-Start](https://eugeneyan.com/writing/project-quick-start/) `datascience` `engineering` `productivity`
+- [Writing is Learning: How I Learned an Easier Way to Write](https://eugeneyan.com/writing/reading-note-taking-writing/) `writing` `learning`
+- [Uncommon Uses of Python in Commonly Used Libraries](https://eugeneyan.com/writing/uncommon-python/) `python` `engineering`
 - [Andrey Lukyanenko](https://andlukyane.com/)
-  - [A third life of a personal pet-project for handwritten digit recognition](https://andlukyane.com/blog/a-third-life-of-a-personal-project)
+- [A third life of a personal pet-project for handwritten digit recognition](https://andlukyane.com/blog/a-third-life-of-a-personal-project)
 - [Dan Bader](https://dbader.org/)
 - [Matthew Brett](https://matthew-brett.github.io/teaching/index.html)
-  - [Introducing principal component analysis](https://matthew-brett.github.io/teaching/pca_introduction.html)
+- [Introducing principal component analysis](https://matthew-brett.github.io/teaching/pca_introduction.html)
 - [Amit Chaudhary](https://amitness.com/)
 - [Andrej Karpathy](http://karpathy.github.io/)
 - [Jay Alammar](https://jalammar.github.io/)
@@ -328,19 +329,19 @@ For interview preparation and learning
 
 - [StatQuest with Josh Starmer](https://www.youtube.com/@statquest/videos) <!--- comment -->
 - A new perspective on Shapley values:
-  - [Part I: Intro to Shapley and SHAP](https://edden-gerber.github.io/shapley-part-1/)
-  - [Part II: The Naïve Shapley method](https://edden-gerber.github.io/shapley-part-2/)
-- [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808)  <!--- comment -->
+- [Part I: Intro to Shapley and SHAP](https://edden-gerber.github.io/shapley-part-1/)
+- [Part II: The Naïve Shapley method](https://edden-gerber.github.io/shapley-part-2/)
+- [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808)<!--- comment -->
 - [How to avoid machine learning pitfalls: a guide for academic researchers by Michael A. Lones](https://arxiv.org/abs/2108.02497)
 - [Core Machine Learning Skills](https://neetcode.io/practice?subpage=practice&tab=coreSkills&topic=Machine%20Learning)
-- [Discover machine learning, data science & robotics competitions](https://mlcontests.com)  
+- [Discover machine learning, data science & robotics competitions](https://mlcontests.com)
 
 ## MLOps
 
 <!-- omit in toc -->
 ### General
 
-- [FastAPI for Machine Learning: Live coding an ML web application with the creator of FastAPI  Sebastián Ramírez](https://www.youtube.com/watch?v=_BZGtifh_gw&ab_channel=DeepLearningAI) `video`
+- [FastAPI for Machine Learning: Live coding an ML web application with the creator of FastAPISebastián Ramírez](https://www.youtube.com/watch?v=_BZGtifh_gw&ab_channel=DeepLearningAI) `video`
 - [Build your MLOps stack](https://mymlops.com/)
 - [MLOps и production подход к ML исследованиям](https://ods.ai/tracks/ml-in-production-spring-22) `course` `rus`
 - [MLOps Guide](https://mlops-guide.github.io/) <!--- comment -->
@@ -361,9 +362,9 @@ For interview preparation and learning
 ### Books
 
 - [The Little Book of Deep Learning by François Fleuret](https://fleuret.org/public/lbdl.pdf)
-- [Deep Learning with Python by François Chollet](https://www.manning.com/books/deep-learning-with-python-second-edition) `paid`
+- [Deep Learning with Python by François Chollet](https://www.manning.com/books/deep-learning-with-python-second-edition)
 - [Multimodal Deep Learning](https://slds-lmu.github.io/seminar_multimodal_dl/index.html)
-- [Dive into Deep Learning](https://d2l.ai/index.html)  
+- [Dive into Deep Learning](https://d2l.ai/index.html)
 I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter_appendix-tools-for-deep-learning/sagemaker.html) <!--- comment -->
 - [Understanding Deep Learning by Simon J.D. Prince](https://udlbook.github.io/udlbook/) <!--- comment -->
 - [What are embeddings by Vicki Boykis](https://vickiboykis.com/what_are_embeddings/index.html) <!--- comment -->
@@ -374,7 +375,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 <!-- omit in toc -->
 ### Courses
 
-- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) `paid`
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
 - [Full Stack Deep Learning - Course 2022](https://fullstackdeeplearning.com/course/2022/) <!--- comment -->
 - [11-785 Introduction to Deep Learning from Carnegie Mellon University](https://www.youtube.com/playlist?list=PLp-0K3kfddPxRmjgjm0P1WT6H-gTqE8j9)
@@ -390,9 +391,9 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Artificial Intelligence for Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S24/index.html) + [11785 Spring 2024 Lectures](https://www.youtube.com/playlist?list=PLp-0K3kfddPxUJzAW0KxNNjGiK_hISFas)
 - [Stanford CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) `cheatsheet` <!--- comment -->
-  - [Convolutional Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
-  - [Recurrent Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
-  - [Deep Learning Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
+- [Convolutional Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+- [Recurrent Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+- [Deep Learning Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
 - [CS 330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
 - [Deep Learning with Catalyst](https://github.com/catalyst-team/dl-course)
 - [Practical DL](https://github.com/yandexdataschool/Practical_DL)
@@ -401,6 +402,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Школа глубокого обучения](https://dls.samcs.ru/)
 - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) by Andrej Karpathy <!--- comment -->
 - CUDA Mode: [Lectures](https://github.com/cuda-mode/lectures?tab=readme-ov-file) + [Video](https://www.youtube.com/@CUDAMODE?app=desktop)
+- [Deep Learning IP-Paris](https://m2dsupsdlclass.github.io/lectures-labs/)
 
 <!-- omit in toc -->
 ### Tutorials
@@ -509,6 +511,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Elicit Machine Learning Reading List](https://github.com/elicit/machine-learning-list)
 - [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
 - [llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
+- [LLM Twin Course: Building Your Production-Ready AI Replica](https://github.com/decodingml/llm-twin-course)
 
 <!-- omit in toc -->
 ### Reading papers with AI
@@ -668,7 +671,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 
 - [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) `course` <!--- comment -->
 - [ML System Design](https://ods.ai/tracks/ml-system-design-23) `course` `rus`
-- [Шаблон ML System Design Doc от телеграм-канала Reliable ML](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru) `repo` `rus`  
+- [Шаблон ML System Design Doc от телеграм-канала Reliable ML](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru) `repo` `rus`
 [ML System Design - ML System Design Doc. Лекция-бонус от Reliable ML](https://www.youtube.com/watch?v=PW9TGNr1Vqk&ab_channel=ODSAIRu) `rus` `video`
 - [Machine learning design primer by Ibragim Badertdinov](https://github.com/ibragim-bad/machine-learning-design-primer) `repo`
 - [ml-design-doc](https://github.com/eugeneyan/ml-design-docs) `repo`
@@ -681,3 +684,4 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [ML system design: 300 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
 - [Machine Learning System Design Interview by Ali Aminian, Alex Xu](https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127) + [Solutions](https://leetcode.com/discuss/interview-question/system-design/3133672/New-Book-by-Alex-Xu-or-Machine-Learning-System-Design-My-Solutions)
 - [The 9-Step ML System Design Formula](https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLSD/ml-system-design.md)
+- CSCE 585 Machine Learning Systems: [Lectures](https://pooyanjamshidi.github.io/mls/lectures/) + [Video](https://www.youtube.com/playlist?app=desktop&list=PLtkQf9LiEmLFS56WTpRJ3PZwwCYyi2Cdu)
