@@ -6,8 +6,6 @@ For interview preparation and learning
 **Table of Contents**:
 
 - [Interview Preparation](#interview-preparation)
-      - [Courses](#courses)
-      - [Questions](#questions-1)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Python](#python)
 - [SQL](#sql-1)
@@ -92,11 +90,13 @@ For interview preparation and learning
 <!-- omit in toc -->
 #### Behavioural interview
 
+<!-- omit in toc -->
 ##### Courses
 
 - [Grokking the Behavioral Interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
 - [Rock the Behavioral Interview](https://leetcode.com/explore/interview/card/leapai/)
 
+<!-- omit in toc -->
 ##### Questions
 
 - [Популярные HR вопросы](https://docs.google.com/spreadsheets/u/0/d/18cKFaH11p9TjeKjcupt03Dz5873iKIQ65hvH0QFKpEg/htmlview?pli=1)
@@ -106,6 +106,7 @@ For interview preparation and learning
 - [The 50 Amazon Behavioral Interview Questions with Answers](https://futureofworking.com/amazon-behavioral-interview-questions/)
 - [Behavioural Questions Answered](https://github.com/wdan/behavior-questions-answers)
 
+<!-- omit in toc -->
 ##### Mock Interviews and Pieces of Advice
 
 - Валерий Бабушкин:
