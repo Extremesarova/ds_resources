@@ -5,14 +5,15 @@ For interview preparation and learning
 
 **Table of Contents**:
 
+- [Interview Preparation](#interview-preparation)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Python](#python)
-- [SQL](#sql)
-- [Machine Learning](#machine-learning)
+- [SQL](#sql-1)
+- [Machine Learning](#machine-learning-1)
 - [MLOps](#mlops)
-- [Deep Learning](#deep-learning)
+- [Deep Learning](#deep-learning-1)
 - [Generative AI](#generative-ai)
-- [NLP](#nlp)
+- [NLP](#nlp-1)
 - [Computer Vision](#computer-vision)
 - [Graphs](#graphs)
 - [Reinforcement Learning](#reinforcement-learning)
@@ -21,6 +22,156 @@ For interview preparation and learning
 - [Big Data](#big-data)
 - [System Design](#system-design)
 - [Machine Learning System Design](#machine-learning-system-design)
+- [Math](#math)
+
+## Interview Preparation
+
+<!-- omit in toc -->
+### Questions
+
+<!-- omit in toc -->
+#### Data Science
+
+- [OVER 100 Data Scientist Interview Questions and Answers by Terence Shin](https://towardsdatascience.com/over-100-data-scientist-interview-questions-and-answers-c5a66186769a)
+- [Data Science Interviews by Alexey Grigoriev](https://ds-interviews.org/)
+- [Data-Science-Interview-Questions by Youssef Hosni](https://github.com/youssefHosni/Data-Science-Interview-Questions)
+- [Data-Science-Interview-Preparation-Resources by Youssef Hosni](https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources)
+- [Data science interview questions with answers](https://github.com/iamtodor/data-science-interview-questions-and-answers)
+- [120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
+- [Вопросы для интервью по специальности Data Science](https://interview-mds.ru/)
+- [Interview Questions from interviewquery.com](https://www.interviewquery.com/questions?searchQuery=&searchQuestionTag=&searchCompany=&ordering=Recommended&pageSize=20&page=0)
+- [Вопросы с собеседовании по машинному обучению](https://uproger.com/45-voprosov-dlya-sobesedovaniya-po-mashinnomu-obucheniyu-statya-v-razrabotke/)
+- [100 вопросов для подготовки к собесу Data Science](https://habr.com/ru/articles/783766/)
+- [The Data Science Interview Book](https://book.thedatascienceinterviewproject.com)
+- [Collection of Interview Questions](https://github.com/masmahbubalom/InterviewQuestions/tree/main)
+- [Top 100 Data science interview questions](https://nitin-panwar.github.io/Top-100-Data-science-interview-questions/)
+- [100 вопросов c собесов в Data Science и ML](https://uproger.com/100-voprosov-c-sobesov-v-data-science-i-ml/)
+
+<!-- omit in toc -->
+#### Machine Learning
+
+- [Machine Learning FAQ by Sebastian Raschka](https://sebastianraschka.com/faq/)
+- [Machine Learning FAQ by X](https://machinelearningfaq.com/)
+- [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
+- [A Guide for Machine Learning Technical Interviews (FAANG Companies)](https://github.com/alirezadir/machine-learning-interview-enlightener)
+- [Introduction to Machine Learning Interviews Book by Chip Huyen](https://huyenchip.com/ml-interviews-book/) + [Answers](https://github.com/zafstojano/ml-interview-questions-and-answers?trk=comments_comments-list_comment-text)
+- [Machine Learning Interviews by Susan Shu Chang](https://www.oreilly.com/library/view/machine-learning-interviews/9781098146535/)
+- [100 Machine Learning interview questions 2024](https://github.com/masmahbubalom/InterviewQuestions/tree/main/ML%20Interview%20Question)
+- [Crack the top 40 machine learning interview questions](https://www.educative.io/blog/top-machine-learning-interview-questions)
+
+<!-- omit in toc -->
+#### Deep Learning
+
+- [Вопросы тестов по курсу «Глубокое обучение» Александр Дьяконов](https://github.com/Dyakonov/BOOKs/blob/main/DLtest_Dyakonov.pdf)
+- [50 Deep Learning interview questions 2024](https://github.com/masmahbubalom/InterviewQuestions/tree/main/Deep%20Learning%20Interview%20Questions)
+- [50 Computer Vision interview questions 2024](https://github.com/masmahbubalom/InterviewQuestions/tree/main/Computer%20Vision%20Interview%20Questions)
+
+<!-- omit in toc -->
+#### SQL
+
+- [Вопросы с собеседования по анализу данных SQL в 2023 году](https://uproger.com/voprosy-dlya-sobesedovaniya-po-sql-2023/)
+
+<!-- omit in toc -->
+#### NLP
+
+- [63 Must-Know LLMs Interview Questions](https://github.com/Devinterview-io/llms-interview-questions)
+- [100 вопросов про NLP](https://dynamic-epoch-4bb.notion.site/100-questions-about-NLP-549ccde0d81a4689b5635888b9d0d7e6)
+- [50 NLP (Natural Language Processing) interview questions 2024](https://github.com/masmahbubalom/InterviewQuestions/tree/main/NLP%20Interview%20Questions)
+
+<!-- omit in toc -->
+#### Programming
+
+- [Awesome interview questions repository](https://github.com/DopplerHQ/awesome-interview-questions?tab=readme-ov-file#python)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Шпаргалка для технического собеседования](https://habr.com/ru/companies/vk/articles/350326/)
+- [Моя любимая задача для собеседований по программированию](https://habr.com/ru/companies/ruvds/articles/775570/)
+- [Top 100 Python ML Interview Questions](https://github.com/Devinterview-io/python-ml-interview-questions)
+
+<!-- omit in toc -->
+#### Behavioural interview
+
+- [41 Behavioural Interview Questions You Must Know (Best Answers Included)](https://www.themartec.com/insidelook/behavioral-interview-questions)
+- [How to Answer Top Interview Questions by Self Made Millennial](https://www.youtube.com/playlist?app=desktop&list=PL30MQiePH_cM6vGE9B_o1_TMsXK71XVCz)
+- [Awesome Behavioral Interviews](https://github.com/ashishps1/awesome-behavioral-interviews)
+- [Популярные HR вопросы](https://docs.google.com/spreadsheets/u/0/d/18cKFaH11p9TjeKjcupt03Dz5873iKIQ65hvH0QFKpEg/htmlview?pli=1)
+- [Interview Warmup by Google](https://grow.google/certificates/interview-warmup/)
+
+<!-- omit in toc -->
+#### English
+
+- [Как пройти собеседование на английском языке | StarTalk](https://www.youtube.com/watch?v=0zhFfpVuDbQ&ab_channel=GlobalCareer)  
+- [Лена Кочева и Таня Дурова - Как эффективно подготовиться к собеседованию на английском](https://youtu.be/qGKBvm4zm48)
+- [Как я устроился в Амазон и перестал переживать за свой английский](https://vc.ru/life/1024429-kak-ya-ustroilsya-v-amazon-i-perestal-perezhivat-za-svoy-angliyskiy)
+
+<!-- omit in toc -->
+### Tips
+
+- [How I Got 15 More Data Science Interviews in One Month?](https://medium.com/geekculture/i-got-15-more-data-science-interviews-with-these-5-tips-87ed03fdcfc7)
+- [Как я проходил собеседования на Machine Learning Engineer](https://habr.com/ru/post/704128/)
+- [Google ML engineer interview: the only post you’ll need to read](https://igotanoffer.com/blogs/tech/google-machine-learning-engineer-interview)
+- [Amazon Data Scientist Interview Guide](https://faangpath.com/blog/amazon-data-scientist-interview/)
+- [The Trimodal Nature of Software Engineering Salaries in the Netherlands and Europe](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
+- [Гайд по подготовке CV+Portfolio+Self Presentation+Home task](https://hannalias.notion.site/hannalias/CV-Portfolio-Self-Presentation-Home-task-7c9879f5e2cb4ba9b097a92660c93193)
+- [Методика STAR для прохождения структурированных собеседований](https://hr-portal.ru/story/metodika-star-dlya-prohozhdeniya-strukturirovannyh-sobesedovaniy)
+- [Гостевое выступление Тати Габрусевой, Staff Machine Learning Engineer, NLP, LinkedIn 25.05.2022](https://youtu.be/Q3i90zkupmA)  
+- [Полезные ссылки: Как проходить интервью в DS от Айры](https://docs.google.com/document/d/1N8qCJIUZe9xl_-wYkSmxatQABsttqqDB2rnftCjkP7s/edit)
+- [FAANG Interview. Бортовые заметки сообщества](https://faang-interview.github.io/)
+- [You should Review These Topics Before Data Science Technical Interview](https://medium.com/geekculture/you-should-review-these-topics-before-data-science-technical-interview-fed456b60aea)
+- [Crack the Amazon Data Scientist Interviews | Ex-FAANG Data Scientist by Dan Lee](https://medium.com/datainterview/crack-the-amazon-data-scientist-interviews-ex-faang-data-scientist-78189a5a689e)
+- [Дайджест уходящего года: релокейт в Европу и США, главное о карьере и сверхзанятости](https://habr.com/ru/amp/post/707854/)
+- [How I got in to Amazon, Microsoft, Google. All from studying these resources](https://levelup.gitconnected.com/how-i-got-in-to-amazon-microsoft-google-all-from-studying-these-resources-31724508ce0e)
+- [Articles, books and videos to help get well-paying tech jobs by TechPays](https://techpays.eu/resources)
+- [How I Cracked the Meta Machine Learning Engineering Interview](https://towardsdatascience.com/how-i-cracked-the-meta-machine-learning-engineering-interview-aa32f64b8e4b)
+- [What we look for in a resume by Chip Huyen](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html#one-page)
+- [Не принимай оффер в Data Science, пока…](https://habr.com/ru/company/alfa/blog/709416/)
+- [Стратегия поиска работы за границей: что писать, с кем говорить и к чему готовиться](https://www.forbes.ru/mneniya/484547-strategia-poiska-raboty-za-granicej-cto-pisat-s-kem-govorit-i-k-cemu-gotovit-sa)
+- [Data Science Interview Guide](https://docs.google.com/spreadsheets/d/1djhTq4vD72lzuLY2rCMOkkSuNG2rRf_C5PwNMjcIAMk/edit#gid=859146723)
+- [Tech Interview Handbook. Free curated interview preparation materials for busy people](https://www.techinterviewhandbook.org/)
+- [Разбор резюме Data Scientist в прямом эфире](https://www.youtube.com/live/Khh5D97nqpE?feature=share)  
+- [А как собеседоваться в 2023?](https://vas3k.club/post/20213/)
+- [Amazon, Microsoft, Facebook, Tesla, Lyft — история поиска работы мечты, или «Вредные» советы для карьерного развития](https://habr.com/ru/articles/552294/)
+- [Как нанимать сотрудников класса А? Выжимка из книги "Who: The A Method For Hiring"](https://vc.ru/tribuna/272027-kak-nanimat-sotrudnikov-klassa-a-vyzhimka-iz-knigi-who-the-a-method-for-hiring)
+- [Your personal guide to Software Engineering technical interviews](https://github.com/kdn251/interviews)
+- [Что делать при отказе на собеседовании?](https://vc.ru/hr/998074-chto-delat-pri-otkaze-na-sobesedovanii)
+- [FAANG Interview Chronicles. My experience and recommendations](https://amarchenko.dev/blog/2024-01-17-interview-experience/)
+- [How to Crack Machine learning Interviews at FAANG!](https://medium.com/@reachpriyaa/how-to-crack-machine-learning-interviews-at-faang-78a2882a05c5)
+- [How to Find a Data Science Job in 2024 (with experience)](https://vtitko.com/2024/04/13/find-data-science-job/)
+- [Applied ML Scientist. Юра — Рыночек 0:10](https://vas3k.club/post/22053/) + [Applied ML Scientist. 2 тайм. Юра — Рыночек 2:16](https://vas3k.club/post/24878/) + [Домашнее задание vs. Онлайн-кодинг](https://vas3k.club/post/18668/)
+- [Как я готовился к собеседованию на позицию Senior ML Engineer by Zarin Gleb](https://zaringleb.medium.com/%D0%BA%D0%B0%D0%BA-%D1%8F-%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D0%BB%D1%81%D1%8F-%D0%BA-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E-%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8E-senior-ml-engineer-f2f6d8effa50)
+- [How I landed 18 FAANG+ software engineer offers after not interviewing for 5 years](https://medium.com/@stevenzhang/how-i-landed-18-faang-software-engineer-offers-after-not-interviewing-for-5-years-fc0dfc957a5d)
+- [На что обращать внимание на алгоритмических секциях собеседований](https://habr.com/ru/company/avito/blog/662922/)
+- [Что нужно знать, чтобы найти работу, пройти собеседование и выбрать оффер](https://habr.com/ru/company/getmatch/blog/685200)
+- [Interview Query is the best adaptive learning platform for Data Scientists by Data Scientists](https://www.interviewquery.com/)
+- [Как не провалить интервью. Исследование из Стэнфорда о пользе самоуверенности](https://habr.com/ru/company/getmatch/blog/707954/)
+
+<!-- omit in toc -->
+### Resources
+
+- [На этой странице вы узнаете про Data Science направление в Маркете, наш стек технологий, этапы собеседований и материалы, которые могут пригодиться](https://yandex.ru/promo/rec-comms/vkl/market/datascience)
+- [IT-собеседование в Тинькофф](https://github.com/Tinkoff/career/tree/main/interview)
+- [Материалы для подготовки по машинному обучению от Тинькофф](https://www.tinkoff.ru/career/it/interview/ml/)
+- [Что надо знать сотруднику Цельса?](https://telegra.ph/CHto-nado-znat-ML-inzheneru-v-Celse-02-10)
+- [Программа Академии Data Science от Тинькофф](https://fintech.tinkoff.ru/academy/master/#%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0)
+
+<!-- omit in toc -->
+### Courses
+
+- [Хочу крутой оффер](https://stepik.org/course/121958/)
+
+<!-- omit in toc -->
+### Other
+
+- [Data Scientist total compensation and salaries in the Netherlands](https://techpays.com/europe/netherlands/data_scientist)
+- [Programmer Competency Matrix](https://sijinjoseph.netlify.app/programmer-competency-matrix/)
+- [Just know stuff (or, how to achieve success in a machine learning PhD)](https://kidger.site/thoughts/just-know-stuff/)
+- [A Guide to Data Roles](https://www.datacaptains.com/blog/guide-to-data-roles)
+- [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
+- [Nurturing a non-linear career](https://leaddev.com/personal-development/nurturing-non-linear-career)
+- [Path to Senior Engineer Handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+- [Interview Principals](https://almond-rule-130.notion.site/Interviews-6182a38503224359b8f839022e2b8f9e)
+- [The difference between good and great engineers](https://www.intercom.com/blog/traits-of-exceptional-engineers/)
+- [Understanding and Cracking Data Science Interviews](https://www.youtube.com/live/bO7Vp-IvTcs?app=desktop)
+- [Собеседования от karpov.courses](https://www.youtube.com/playlist?list=PLBRXq5LaddfzDBjg6soIwJJA2klXXs6ni)
 
 ## Algorithms and Data Structures
 
@@ -685,3 +836,72 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Machine Learning System Design Interview by Ali Aminian, Alex Xu](https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127) + [Solutions](https://leetcode.com/discuss/interview-question/system-design/3133672/New-Book-by-Alex-Xu-or-Machine-Learning-System-Design-My-Solutions)
 - [The 9-Step ML System Design Formula](https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLSD/ml-system-design.md)
 - CSCE 585 Machine Learning Systems: [Lectures](https://pooyanjamshidi.github.io/mls/lectures/) + [Video](https://www.youtube.com/playlist?app=desktop&list=PLtkQf9LiEmLFS56WTpRJ3PZwwCYyi2Cdu)
+
+## Math
+
+<!-- omit in toc -->
+### General
+
+- [В Data Science не нужна математика (Почти)](https://habr.com/ru/company/ruvds/blog/676114/)
+- [Mathematics Of Machine Learning | MIT](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/)  <!--- comment -->
+- [How to beat maths anxiety](https://psyche.co/guides/how-to-beat-maths-anxiety-and-even-find-you-enjoy-it)
+- [Engineering Math: Differential Equations and Dynamical Systems](https://youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&si=ChsaQA_sF6ae8ymY)
+- [Mathematics for Machine Learning](https://mml-book.github.io) <!--- comment -->
+
+<!-- omit in toc -->
+### Linear Algebra
+
+- [Introduction to Linear Algebra by Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html)
+- [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/) <!--- comment -->
+- [Linear Algebra for Data Science](https://www.youtube.com/playlist?app=desktop&list=PLB3yPBd26tWyDNoUpEGVsyI-sygPLqYa1)
+- [immersive linear algebra by J. Ström, K. Åström, and T. Akenine-Möller](https://immersivemath.com/ila/index.html) <!--- comment -->
+
+<!-- omit in toc -->
+### Probability and Statistics
+
+- [Основы статистики](https://stepik.org/course/76/info) + [Основы статистики. Часть 2](https://stepik.org/course/524/info) + [Основы статистики. Часть 3](https://stepik.org/course/2152/info)  
+- [Statistics and probability from Khan Academy](https://www.khanacademy.org/math/statistics-probability)  <!--- comment -->
+- [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/cs109/) + [Course Book](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html) + [Video](https://www.youtube.com/watch?v=2MuDZIAzBMY&list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)  <!--- comment -->
+- [Математическая статистика и AB-тестирование](https://github.com/FUlyankin/matstat_coursera)
+- [12 бесплатных материалов по статистике – разберется каждый](https://uproger.com/12-besplatnyh-materialov-po-statistike-razberetsya-kazhdyj/)
+- [Математическая статистика. Начало](http://www.mathprofi.ru/matematicheskaya_statistika.html)
+- [Z Statistics by Justin Zeltzer](http://www.zstatistics.com/videos/)
+- [The Beginner's Guide to Statistical Analysis by Scribbr](https://www.scribbr.com/category/statistics/)
+- [Прикладная статистика. Репозиторий для линейки онлайн-курсов по статистике](https://github.com/FUlyankin/matstat-AB)
+- [Multivariate statistics](https://www.youtube.com/playlist?app=desktop&list=PLLTSM0eKjC2fZqeVFWBBBr8KSqnBIPMQD)  
+- [R2D3 is an experiment in expressing statistical thinking with interactive design](http://www.r2d3.us/)  <!--- comment -->  
+- [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2023?tab=readme-ov-file)
+- [Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks by Will Kurt](https://www.amazon.com/Bayesian-Statistics-Fun-Will-Kurt/dp/1593279566)
+- [Seeing theory. A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html)  <!--- comment -->
+- [The Book of Statistical Proofs](https://statproofbook.github.io/)
+- [Lessons in Statistical Thinking by Daniel Kaplan](https://dtkaplan.github.io/Lessons-in-statistical-thinking/)   <!--- comment -->
+- [Прикладная статистика](https://www.youtube.com/@user-bg8cd4fn7d/playlists)
+- [Statistics For Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) + [Video](https://www.youtube.com/playlist?app=desktop&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+- [Вся основная теория по A/B-экспериментам](https://colab.research.google.com/drive/1_CY_8DJRLm70gl9RjTz1vmPoLMwCeT0u?usp=sharing)
+- [Курс по Прикладной статистике от Академии Аналитиков Авито](https://avito.tech/education/statistics)
+- [Causal Inference and Its Applications in Online Industry](https://alexdeng.github.io/causal/index.html)
+- [Statistics 110: Probability](https://www.youtube.com/playlist?app=desktop&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+- [Introduction to Statistical Learning using Python](https://r4ds.github.io/bookclub-islp/)
+
+<!-- omit in toc -->
+### A/B Tests
+
+<!-- omit in toc -->
+#### General
+
+- [Подборка ссылок по A/B тестированию от Валеры Бабушкина](https://uberkinder.notion.site/A-B-8bcc0fdc69bb4a0997a7d767e1a9d94b)
+- [Most cited sources in A/B Testing by Ron Kohavi](https://docs.google.com/spreadsheets/u/0/d/1PAWG7NWVEwAwwfrd9b-V5o5q4nB6i67N2ITrzyrIdP0/htmlview?pli=1)
+- [A/B Testing RoadMap](https://roadmap.sh/r/ab-testing-roadmap-copy)
+- [Чеклист А/Б эксперимента](https://docs.google.com/spreadsheets/u/0/d/14t58zgoCCCS6RhRR11c_TjaNnlzOyoGvhUe8VAYRS_A/htmlview) + [Шаблон проведения А/Б эксперимента](https://docs.google.com/document/u/0/d/1z_Xtvkt3NUXGNRCswngaHe1PGOe8YFvSvjALVQiP12w/mobilebasic)
+
+<!-- omit in toc -->
+#### Blog posts
+
+- [Шесть причин, почему ваши A/B-тесты не работают](https://habr.com/ru/company/ozontech/blog/712306/)
+- [АБ-тесты — это не только ценный мех… Но еще и процессы](https://habr.com/ru/company/ods/blog/716110/)
+- [Стратификация. Как разбиение выборки повышает чувствительность A/B теста](https://habr.com/ru/company/X5Tech/blog/596279/)
+
+<!-- omit in toc -->
+#### Metrics
+
+- [Продуктовому аналитику: 7 методик, чтобы находить кратные точки роста продукта](https://vc.ru/avito/857911-produktovomu-analitiku-7-metodik-chtoby-nahodit-kratnye-tochki-rosta-produkta)
