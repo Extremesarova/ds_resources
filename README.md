@@ -6,6 +6,8 @@ For interview preparation and learning
 **Table of Contents**:
 
 - [Interview Preparation](#interview-preparation)
+      - [Courses](#courses)
+      - [Questions](#questions-1)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Python](#python)
 - [SQL](#sql-1)
@@ -90,10 +92,30 @@ For interview preparation and learning
 <!-- omit in toc -->
 #### Behavioural interview
 
-- [41 Behavioural Interview Questions You Must Know (Best Answers Included)](https://www.themartec.com/insidelook/behavioral-interview-questions)
-- [How to Answer Top Interview Questions by Self Made Millennial](https://www.youtube.com/playlist?app=desktop&list=PL30MQiePH_cM6vGE9B_o1_TMsXK71XVCz)
-- [Awesome Behavioral Interviews](https://github.com/ashishps1/awesome-behavioral-interviews)
+##### Courses
+
+- [Grokking the Behavioral Interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
+- [Rock the Behavioral Interview](https://leetcode.com/explore/interview/card/leapai/)
+
+##### Questions
+
 - [Популярные HR вопросы](https://docs.google.com/spreadsheets/u/0/d/18cKFaH11p9TjeKjcupt03Dz5873iKIQ65hvH0QFKpEg/htmlview?pli=1)
+- [Awesome Behavioral Interviews](https://github.com/ashishps1/awesome-behavioral-interviews)
+- [Amazon Behavioral Interview Questions Guide](https://www.careerflow.ai/blog/amazon-behavioral-interview-questions)
+- [41 Behavioural Interview Questions You Must Know (Best Answers Included)](https://www.themartec.com/insidelook/behavioral-interview-questions)
+- [The 50 Amazon Behavioral Interview Questions with Answers](https://futureofworking.com/amazon-behavioral-interview-questions/)
+- [Behavioural Questions Answered](https://github.com/wdan/behavior-questions-answers)
+
+##### Mock Interviews and Pieces of Advice
+
+- Валерий Бабушкин:
+  - [Выпуск 1](https://www.youtube.com/watch?v=facQgiPlQeM): Технический директор karpov.courses Кирилл Черепанов
+  - [Выпуск 2](https://www.youtube.com/watch?v=64yoZSMEhoY): Артур Кузин, Kaggle Grandmaster, Head of Deep Learning в компании Eqvilent. В прошлом – Head of Computer Vision Platform в SberDevices
+  - [Выпуск 3](https://www.youtube.com/watch?v=gujnUx7fveY): Дарья — ведущий аналитик данных и продуктовый аналитик в X5 Group
+- [Episode 07: Intro to Behavioural Interviews](https://www.youtube.com/watch?v=PJKYqLP6MRE)
+- [Dan Croitor](https://www.youtube.com/c/DanCroitor)
+- [Tips for answering few tricky behavioural interview questions](https://leetcode.com/discuss/interview-experience/1532708/tips-for-answering-few-tricky-behavioural-interview-questions)
+- [How to Answer Top Interview Questions](https://www.youtube.com/playlist?app=desktop&list=PL30MQiePH_cM6vGE9B_o1_TMsXK71XVCz)
 - [Interview Warmup by Google](https://grow.google/certificates/interview-warmup/)
 
 <!-- omit in toc -->
