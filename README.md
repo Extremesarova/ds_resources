@@ -216,7 +216,7 @@ List of questions with patterns + tips
 - [Тренировки по алгоритмам от Яндекса 5](https://yandex.ru/yaintern/algorithm-training)
 - [Интенсив по алгоритмам от Яндекса](https://www.youtube.com/playlist?list=PLQC2_0cDcSKAzLqqXUidKBJsy1Im44aOo)
 - [Algorithmic concepts By Afshine Amidi and Shervine Amidi](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts/)
-- [NeetCode. A better way to prepare for coding interviews.](https://neetcode.io/roadmap)
+- [NeetCode. A better way to prepare for coding interviews.](https://neetcode.io/roadmap) <!--- comment -->
 - [The Algorithms. Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language](https://github.com/TheAlgorithms)
 - [Алгоритмы и структуры данных простыми словами](https://codonaft.com/%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D0%B8-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%BC%D0%B8-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8/)
 - [Алгоритмика](https://ru.algorithmica.org/)
@@ -279,7 +279,7 @@ List of questions with patterns + tips
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org)
 - [A collection of design patterns and idioms in Python](https://github.com/faif/python-patterns)
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/cheatsheet/basics)
-- [Write faster Python code, and ship your code faster](https://pythonspeed.com)
+- [Write faster Python code, and ship your code faster](https://pythonspeed.com) <!--- comment -->
 
 <!-- omit in toc -->
 ### Questions
@@ -323,7 +323,7 @@ List of questions with patterns + tips
 ### Practice
 
 - [Онлайн тренажер SQL Academy](https://sql-academy.org/) <!--- comment -->
-- [Ace the SQL Interview](https://datalemur.com/questions?category=SQL)
+- [Ace the SQL Interview](https://datalemur.com/questions?category=SQL)  <!--- comment -->
 - [Practice SQL](https://www.sql-practice.com/)
 - [SQLBolt. Learn SQL with simple, interactive exercises.](https://sqlbolt.com/)
 - [SQL Tutorial by w3schools](https://www.w3schools.com/sql/)
