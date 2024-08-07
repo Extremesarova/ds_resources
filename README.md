@@ -46,6 +46,7 @@ For interview preparation and learning
 - [Collection of Interview Questions](https://github.com/masmahbubalom/InterviewQuestions/tree/main)
 - [Top 100 Data science interview questions](https://nitin-panwar.github.io/Top-100-Data-science-interview-questions/)
 - [100 вопросов c собесов в Data Science и ML](https://uproger.com/100-voprosov-c-sobesov-v-data-science-i-ml/)
+- [ML-Interview](https://github.com/Pe4enIks/ML-Interview)
 
 <!-- omit in toc -->
 #### Machine Learning
@@ -127,6 +128,14 @@ For interview preparation and learning
 - [Как я устроился в Амазон и перестал переживать за свой английский](https://vc.ru/life/1024429-kak-ya-ustroilsya-v-amazon-i-perestal-perezhivat-za-svoy-angliyskiy)
 
 <!-- omit in toc -->
+### Home Assignments
+
+- [Тестовые задания](https://postypashki.ru/2024/07/29/машинное-обучение/)
+- [Сборник тестовых заданий для Product Analyst и Data Analyst](https://pavelbukhtik.notion.site/pavelbukhtik/Product-Analyst-Data-Analyst-a5f7bea5a0064960bbdb7a3ee1e46e97)
+- [Тестовые задания по DS](https://github.com/slgero/testovoe)
+- [Список тестовых заданий для прокачки](https://github.com/Hexlet/ru-test-assignments)
+
+<!-- omit in toc -->
 ### Tips
 
 - [How I Got 15 More Data Science Interviews in One Month?](https://medium.com/geekculture/i-got-15-more-data-science-interviews-with-these-5-tips-87ed03fdcfc7)
@@ -166,6 +175,8 @@ For interview preparation and learning
 - [Что нужно знать, чтобы найти работу, пройти собеседование и выбрать оффер](https://habr.com/ru/company/getmatch/blog/685200)
 - [Interview Query is the best adaptive learning platform for Data Scientists by Data Scientists](https://www.interviewquery.com/)
 - [Как не провалить интервью. Исследование из Стэнфорда о пользе самоуверенности](https://habr.com/ru/company/getmatch/blog/707954/)
+- [Собеседования в ML](https://telegra.ph/Sobesedovaniya-v-ML-08-03)
+- [Евгений Смирнов | Десять вопросов, которые нужно задать перед трудоустройством](https://www.youtube.com/watch?app=desktop&v=czT4sr1AooI)
 
 <!-- omit in toc -->
 ### Resources
@@ -195,13 +206,14 @@ For interview preparation and learning
 - [The difference between good and great engineers](https://www.intercom.com/blog/traits-of-exceptional-engineers/)
 - [Understanding and Cracking Data Science Interviews](https://www.youtube.com/live/bO7Vp-IvTcs?app=desktop)
 - [Собеседования от karpov.courses](https://www.youtube.com/playlist?list=PLBRXq5LaddfzDBjg6soIwJJA2klXXs6ni)
+- [Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resourcess)
 
 ## Algorithms and Data Structures
 
 <!-- omit in toc -->
 ### Platforms
 
-- [LeetCode](https://leetcode.com/)
+- [LeetCode](https://leetcode.com/) <!--- [Yandex Interview Kit](https://docs.google.com/spreadsheets/u/0/d/1vgoyVzOqueURT7jNXuoEec5dQnIdtUCEqVPX1x0Vx6A/htmlview#gid=0) -->
 - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
 List of questions with patterns + tips
 - [LeetCode Explore](https://leetcode.com/explore/)
@@ -577,6 +589,8 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) by Andrej Karpathy <!--- comment -->
 - CUDA Mode: [Lectures](https://github.com/cuda-mode/lectures?tab=readme-ov-file) + [Video](https://www.youtube.com/@CUDAMODE?app=desktop)
 - [Deep Learning IP-Paris](https://m2dsupsdlclass.github.io/lectures-labs/)
+- [CS565600 Deep Learning. Fundamentals of machine learning, deep learning, and AI](https://nthu-datalab.github.io/ml/)
+- [Introduction to Deep Learning (I2DL) (IN2346)](https://niessner.github.io/I2DL/)
 
 <!-- omit in toc -->
 ### Tutorials
@@ -593,7 +607,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [AI Fundamentals. Concepts, Definitions, Terms](https://aman.ai/primers/ai/?trk=feed_main-feed-card-text)
 - [A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning?tab=readme-ov-file)
 - [A Gentle Introduction to torch.autograd](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html)
-
+- [Introduction to deep learning](https://carpentries-incubator.github.io/deep-learning-intro/1-introduction.html)
 <!-- omit in toc -->
 ### Blog posts
 
@@ -686,6 +700,8 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
 - [llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
 - [LLM Twin Course: Building Your Production-Ready AI Replica](https://github.com/decodingml/llm-twin-course)
+- [Educational resources on LLMs](https://parlance-labs.com/education/)
+- [A Visual Guide to Quantization. Demystifying the Compression of Large Language Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 
 <!-- omit in toc -->
 ### Reading papers with AI
