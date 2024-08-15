@@ -23,6 +23,7 @@ For interview preparation and learning
 - [System Design](#system-design)
 - [Machine Learning System Design](#machine-learning-system-design)
 - [Math](#math)
+- [Other](#other-7)
 
 ## Interview Preparation
 
@@ -123,7 +124,7 @@ For interview preparation and learning
 <!-- omit in toc -->
 #### English
 
-- [Как пройти собеседование на английском языке | StarTalk](https://www.youtube.com/watch?v=0zhFfpVuDbQ&ab_channel=GlobalCareer)  
+- [Как пройти собеседование на английском языке | StarTalk](https://www.youtube.com/watch?v=0zhFfpVuDbQ&ab_channel=GlobalCareer)
 - [Лена Кочева и Таня Дурова - Как эффективно подготовиться к собеседованию на английском](https://youtu.be/qGKBvm4zm48)
 - [Как я устроился в Амазон и перестал переживать за свой английский](https://vc.ru/life/1024429-kak-ya-ustroilsya-v-amazon-i-perestal-perezhivat-za-svoy-angliyskiy)
 
@@ -145,7 +146,7 @@ For interview preparation and learning
 - [The Trimodal Nature of Software Engineering Salaries in the Netherlands and Europe](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
 - [Гайд по подготовке CV+Portfolio+Self Presentation+Home task](https://hannalias.notion.site/hannalias/CV-Portfolio-Self-Presentation-Home-task-7c9879f5e2cb4ba9b097a92660c93193)
 - [Методика STAR для прохождения структурированных собеседований](https://hr-portal.ru/story/metodika-star-dlya-prohozhdeniya-strukturirovannyh-sobesedovaniy)
-- [Гостевое выступление Тати Габрусевой, Staff Machine Learning Engineer, NLP, LinkedIn 25.05.2022](https://youtu.be/Q3i90zkupmA)  
+- [Гостевое выступление Тати Габрусевой, Staff Machine Learning Engineer, NLP, LinkedIn 25.05.2022](https://youtu.be/Q3i90zkupmA)
 - [Полезные ссылки: Как проходить интервью в DS от Айры](https://docs.google.com/document/d/1N8qCJIUZe9xl_-wYkSmxatQABsttqqDB2rnftCjkP7s/edit)
 - [FAANG Interview. Бортовые заметки сообщества](https://faang-interview.github.io/)
 - [You should Review These Topics Before Data Science Technical Interview](https://medium.com/geekculture/you-should-review-these-topics-before-data-science-technical-interview-fed456b60aea)
@@ -159,7 +160,7 @@ For interview preparation and learning
 - [Стратегия поиска работы за границей: что писать, с кем говорить и к чему готовиться](https://www.forbes.ru/mneniya/484547-strategia-poiska-raboty-za-granicej-cto-pisat-s-kem-govorit-i-k-cemu-gotovit-sa)
 - [Data Science Interview Guide](https://docs.google.com/spreadsheets/d/1djhTq4vD72lzuLY2rCMOkkSuNG2rRf_C5PwNMjcIAMk/edit#gid=859146723)
 - [Tech Interview Handbook. Free curated interview preparation materials for busy people](https://www.techinterviewhandbook.org/)
-- [Разбор резюме Data Scientist в прямом эфире](https://www.youtube.com/live/Khh5D97nqpE?feature=share)  
+- [Разбор резюме Data Scientist в прямом эфире](https://www.youtube.com/live/Khh5D97nqpE?feature=share)
 - [А как собеседоваться в 2023?](https://vas3k.club/post/20213/)
 - [Amazon, Microsoft, Facebook, Tesla, Lyft — история поиска работы мечты, или «Вредные» советы для карьерного развития](https://habr.com/ru/articles/552294/)
 - [Как нанимать сотрудников класса А? Выжимка из книги "Who: The A Method For Hiring"](https://vc.ru/tribuna/272027-kak-nanimat-sotrudnikov-klassa-a-vyzhimka-iz-knigi-who-the-a-method-for-hiring)
@@ -358,7 +359,7 @@ List of questions with patterns + tips
 ### Practice
 
 - [Онлайн тренажер SQL Academy](https://sql-academy.org/) <!--- comment -->
-- [Ace the SQL Interview](https://datalemur.com/questions?category=SQL)  <!--- comment -->
+- [Ace the SQL Interview](https://datalemur.com/questions?category=SQL) <!--- comment -->
 - [Practice SQL](https://www.sql-practice.com/)
 - [SQLBolt. Learn SQL with simple, interactive exercises.](https://sqlbolt.com/)
 - [SQL Tutorial by w3schools](https://www.w3schools.com/sql/)
@@ -882,7 +883,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 ### General
 
 - [В Data Science не нужна математика (Почти)](https://habr.com/ru/company/ruvds/blog/676114/)
-- [Mathematics Of Machine Learning | MIT](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/)  <!--- comment -->
+- [Mathematics Of Machine Learning | MIT](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/) <!--- comment -->
 - [How to beat maths anxiety](https://psyche.co/guides/how-to-beat-maths-anxiety-and-even-find-you-enjoy-it)
 - [Engineering Math: Differential Equations and Dynamical Systems](https://youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&si=ChsaQA_sF6ae8ymY)
 - [Mathematics for Machine Learning](https://mml-book.github.io) <!--- comment -->
@@ -898,22 +899,22 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 <!-- omit in toc -->
 ### Probability and Statistics
 
-- [Основы статистики](https://stepik.org/course/76/info) + [Основы статистики. Часть 2](https://stepik.org/course/524/info) + [Основы статистики. Часть 3](https://stepik.org/course/2152/info)  
-- [Statistics and probability from Khan Academy](https://www.khanacademy.org/math/statistics-probability)  <!--- comment -->
-- [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/cs109/) + [Course Book](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html) + [Video](https://www.youtube.com/watch?v=2MuDZIAzBMY&list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)  <!--- comment -->
+- [Основы статистики](https://stepik.org/course/76/info) + [Основы статистики. Часть 2](https://stepik.org/course/524/info) + [Основы статистики. Часть 3](https://stepik.org/course/2152/info)
+- [Statistics and probability from Khan Academy](https://www.khanacademy.org/math/statistics-probability) <!--- comment -->
+- [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/cs109/) + [Course Book](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html) + [Video](https://www.youtube.com/watch?v=2MuDZIAzBMY&list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg) <!--- comment -->
 - [Математическая статистика и AB-тестирование](https://github.com/FUlyankin/matstat_coursera)
 - [12 бесплатных материалов по статистике – разберется каждый](https://uproger.com/12-besplatnyh-materialov-po-statistike-razberetsya-kazhdyj/)
 - [Математическая статистика. Начало](http://www.mathprofi.ru/matematicheskaya_statistika.html)
 - [Z Statistics by Justin Zeltzer](http://www.zstatistics.com/videos/)
 - [The Beginner's Guide to Statistical Analysis by Scribbr](https://www.scribbr.com/category/statistics/)
 - [Прикладная статистика. Репозиторий для линейки онлайн-курсов по статистике](https://github.com/FUlyankin/matstat-AB)
-- [Multivariate statistics](https://www.youtube.com/playlist?app=desktop&list=PLLTSM0eKjC2fZqeVFWBBBr8KSqnBIPMQD)  
-- [R2D3 is an experiment in expressing statistical thinking with interactive design](http://www.r2d3.us/)  <!--- comment -->  
+- [Multivariate statistics](https://www.youtube.com/playlist?app=desktop&list=PLLTSM0eKjC2fZqeVFWBBBr8KSqnBIPMQD)
+- [R2D3 is an experiment in expressing statistical thinking with interactive design](http://www.r2d3.us/) <!--- comment -->  
 - [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2023?tab=readme-ov-file)
 - [Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks by Will Kurt](https://www.amazon.com/Bayesian-Statistics-Fun-Will-Kurt/dp/1593279566)
-- [Seeing theory. A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html)  <!--- comment -->
+- [Seeing theory. A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html) <!--- comment -->
 - [The Book of Statistical Proofs](https://statproofbook.github.io/)
-- [Lessons in Statistical Thinking by Daniel Kaplan](https://dtkaplan.github.io/Lessons-in-statistical-thinking/)   <!--- comment -->
+- [Lessons in Statistical Thinking by Daniel Kaplan](https://dtkaplan.github.io/Lessons-in-statistical-thinking/) <!--- comment -->
 - [Прикладная статистика](https://www.youtube.com/@user-bg8cd4fn7d/playlists)
 - [Statistics For Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) + [Video](https://www.youtube.com/playlist?app=desktop&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 - [Вся основная теория по A/B-экспериментам](https://colab.research.google.com/drive/1_CY_8DJRLm70gl9RjTz1vmPoLMwCeT0u?usp=sharing)
@@ -921,6 +922,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Causal Inference and Its Applications in Online Industry](https://alexdeng.github.io/causal/index.html)
 - [Statistics 110: Probability](https://www.youtube.com/playlist?app=desktop&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 - [Introduction to Statistical Learning using Python](https://r4ds.github.io/bookclub-islp/)
+- [Applied Causal Inference Powered by ML and AI](https://causalml-book.org) <!--- comment -->
 
 <!-- omit in toc -->
 ### A/B Tests
@@ -944,3 +946,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 #### Metrics
 
 - [Продуктовому аналитику: 7 методик, чтобы находить кратные точки роста продукта](https://vc.ru/avito/857911-produktovomu-analitiku-7-metodik-chtoby-nahodit-kratnye-tochki-rosta-produkta)
+
+## Other
+
+- [Interactive Tools for Machine Learning, Deep Learning, and Math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools?tab=readme-ov-file)
