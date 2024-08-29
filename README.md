@@ -394,6 +394,7 @@ List of questions with patterns + tips
 - [Обучение работе с ML‑сервисами от Yandex Cloud](https://yandex.cloud/ru/training/ml)
 - [Introduction to Machine Learning (I2ML)](https://slds-lmu.github.io/i2ml/)
 - [MACHINE LEARNING @ VU](https://mlvu.github.io)
+- [Practical Machine Learning](https://practical-ml-fmi.github.io/ML/)
 
 <!-- omit in toc -->
 ### Books
@@ -558,6 +559,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org)
 - [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD by Jeremy Howard and Sylvain Gugger](https://course.fast.ai/Resources/book.html)
 - [Deep Learning. Foundations and Concepts by Chris Bishop and Hugh Bishop](https://www.bishopbook.com)
+- [Mastering PyTorch by Ashish Ranjan Jha](https://www.oreilly.com/library/view/mastering-pytorch/9781801074308/?_gl=1*10hryeg*_ga*MTc1MTUyNjI1OS4xNzI0MjMyMzk4*_ga_092EL089CH*MTcyNDIzMjM5OC4xLjEuMTcyNDIzMjQyMy4zNS4wLjA)
 
 <!-- omit in toc -->
 ### Courses
@@ -703,6 +705,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [LLM Twin Course: Building Your Production-Ready AI Replica](https://github.com/decodingml/llm-twin-course)
 - [Educational resources on LLMs](https://parlance-labs.com/education/)
 - [A Visual Guide to Quantization. Demystifying the Compression of Large Language Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
+- [Super Study Guide: Transformers & Large Language Models](https://www.reddit.com/r/MachineLearning/comments/1ew1hws/p_illustrated_book_to_learn_about_transformers/?rdt=56835)
 
 <!-- omit in toc -->
 ### Reading papers with AI
@@ -724,6 +727,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Advanced Prompt Engineering](https://towardsdatascience.com/advanced-prompt-engineering-f07f9e55fe01)
 - [Prompt engineering Guide by Open.ai](https://platform.openai.com/docs/guides/prompt-engineering) <!--- comment -->
 - [Prompt Of The Year: 2023](https://github.com/successfulstudy/promptoftheyear/tree/main)
+- [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
 
 <!-- omit in toc -->
 ### Tutorials
@@ -857,6 +861,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Intro to System Design](https://github.com/alexngn/intro-to-system-design) `repo`
 - [System Design Newsletter](https://github.com/systemdesign42/system-design)
 - [Awesome System Design](https://github.com/madd86/awesome-system-design)
+- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 
 ## Machine Learning System Design
 
@@ -876,6 +881,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Machine Learning System Design Interview by Ali Aminian, Alex Xu](https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127) + [Solutions](https://leetcode.com/discuss/interview-question/system-design/3133672/New-Book-by-Alex-Xu-or-Machine-Learning-System-Design-My-Solutions)
 - [The 9-Step ML System Design Formula](https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLSD/ml-system-design.md)
 - CSCE 585 Machine Learning Systems: [Lectures](https://pooyanjamshidi.github.io/mls/lectures/) + [Video](https://www.youtube.com/playlist?app=desktop&list=PLtkQf9LiEmLFS56WTpRJ3PZwwCYyi2Cdu)
+- [Machine Learning in Production: From Models to Products](https://mlip-cmu.github.io/book/#machine-learning-in-production-from-models-to-products)
 
 ## Math
 
