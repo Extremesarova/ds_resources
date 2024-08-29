@@ -372,7 +372,7 @@ List of questions with patterns + tips
 ### Sites
 
 - [Machine Learning Mastery by Jason Brownlee](https://machinelearningmastery.com/)
-- [Машинное обучение для людей. Разбираемся простыми словами](https://vas3k.blog/blog/machine_learning/)<!--- comment -->
+- [Машинное обучение для людей. Разбираемся простыми словами](https://vas3k.blog/blog/machine_learning/) <!--- comment -->
 - [Анализ малых данных](https://dyakonov.org/ag/)
 - [Kaggle Competitions](https://www.kaggle.com/competitions)
 - [The Illustrated Machine Learning](https://illustrated-machine-learning.github.io/)
@@ -382,17 +382,17 @@ List of questions with patterns + tips
 <!-- omit in toc -->
 ### Courses
 
-- [Open Machine Learning Course](https://mlcourse.ai/book/index.html) by Yury Kashnitsky<!--- comment -->
+- [Open Machine Learning Course](https://mlcourse.ai/book/index.html) by Yury Kashnitsky <!--- comment -->
 - [Машинное обучение](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%BE) (курс лекций, К.В.Воронцов)
 - [Прикладные задачи анализа данных](https://github.com/Dyakonov/PZAD/tree/master) (курс лекций, А.Г.Дьяконов) [video](https://www.youtube.com/playlist?list=PLaRUeIuewv8CMFox0oEjlyePUhUmo-x0h)
 - [Алгоритмы Машинного обучения с нуля](https://stepik.org/course/68260/promo)
-- [Stanford CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) by Andrew Ng<!--- comment -->
+- [Stanford CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) by Andrew Ng <!--- comment -->
 - [Kaggle Learn](https://www.kaggle.com/learn) <!--- comment -->
 - [Google Machine Learning Courses](https://developers.google.com/machine-learning) <!--- comment -->
 - [End to End Machine Learning by Brandon Rohrer](https://end-to-end-machine-learning.teachable.com/courses/) <!--- comment -->
 - [Машинное Обучение в Python: Большой Курс для Начинающих](https://stepik.org/course/129449/info)
 - [Обучение работе с ML‑сервисами от Yandex Cloud](https://yandex.cloud/ru/training/ml)
-- [Introduction to Machine Learning (I2ML)](https://slds-lmu.github.io/i2ml/)
+- [Introduction to Machine Learning (I2ML)](https://slds-lmu.github.io/i2ml/) <!--- comment -->
 - [MACHINE LEARNING @ VU](https://mlvu.github.io)
 - [Practical Machine Learning](https://practical-ml-fmi.github.io/ML/)
 
@@ -400,11 +400,11 @@ List of questions with patterns + tips
 ### Books
 
 - [Учебник по машинному обучению от ШАД](https://education.yandex.ru/handbook/ml/)
-- [An Introduction to Statistical Learning](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani<!--- comment -->
+- [An Introduction to Statistical Learning](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani <!--- comment -->
 - [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
-- [Machine Learning Simplified: A gentle introduction to supervised learning](https://themlsbook.com/read) by Andrew Wolf<!--- comment -->
+- [Machine Learning Simplified: A gentle introduction to supervised learning](https://themlsbook.com/read) by Andrew Wolf <!--- comment -->
 - [The Kaggle Book](https://www.kaggle.com/discussions/general/320574)
-- [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/index.html) by Max Kuhn and Kjell Johnson<!--- comment -->
+- [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/index.html) by Max Kuhn and Kjell Johnson <!--- comment -->
 - [Clean Machine Learning Code](https://leanpub.com/cleanmachinelearningcode)
 - [Interpreting Machine Learning Models With SHAP: A Guide With Python Examples And Theory On Shapley Values](https://www.amazon.com/dp/B0CHL7W1DL)
 - [Interpretable Machine Learning. A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
@@ -519,7 +519,7 @@ List of questions with patterns + tips
 - A new perspective on Shapley values:
 - [Part I: Intro to Shapley and SHAP](https://edden-gerber.github.io/shapley-part-1/)
 - [Part II: The Naïve Shapley method](https://edden-gerber.github.io/shapley-part-2/)
-- [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808)<!--- comment -->
+- [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808) <!--- comment -->
 - [How to avoid machine learning pitfalls: a guide for academic researchers by Michael A. Lones](https://arxiv.org/abs/2108.02497)
 - [Core Machine Learning Skills](https://neetcode.io/practice?subpage=practice&tab=coreSkills&topic=Machine%20Learning)
 - [Discover machine learning, data science & robotics competitions](https://mlcontests.com)
