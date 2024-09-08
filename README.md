@@ -434,6 +434,8 @@ List of questions with patterns + tips
 - [ML Papers of The Week by DAIR.AI](https://github.com/dair-ai/ML-Papers-of-the-Week)
 - [word2vec Parameter Learning Explained](https://arxiv.org/pdf/1411.2738.pdf)
 - [Ilya 30u30](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
+- [Introduction to Machine Learning by Laurent Younes](https://arxiv.org/pdf/2409.02668)
+- [A Comprehensive Benchmark of Machine and Deep Learning Across Diverse Tabular Datasets](https://arxiv.org/pdf/2408.14817)
 
 <!-- omit in toc -->
 ### Applied ML
@@ -560,6 +562,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD by Jeremy Howard and Sylvain Gugger](https://course.fast.ai/Resources/book.html)
 - [Deep Learning. Foundations and Concepts by Chris Bishop and Hugh Bishop](https://www.bishopbook.com)
 - [Mastering PyTorch by Ashish Ranjan Jha](https://www.oreilly.com/library/view/mastering-pytorch/9781801074308/?_gl=1*10hryeg*_ga*MTc1MTUyNjI1OS4xNzI0MjMyMzk4*_ga_092EL089CH*MTcyNDIzMjM5OC4xLjEuMTcyNDIzMjQyMy4zNS4wLjA)
+- [The Tensor Cookbook by Thomas Dybdahl Ahle](https://tensorcookbook.com)
 
 <!-- omit in toc -->
 ### Courses
@@ -594,6 +597,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Deep Learning IP-Paris](https://m2dsupsdlclass.github.io/lectures-labs/)
 - [CS565600 Deep Learning. Fundamentals of machine learning, deep learning, and AI](https://nthu-datalab.github.io/ml/)
 - [Introduction to Deep Learning (I2DL) (IN2346)](https://niessner.github.io/I2DL/)
+- [CS 886: Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
 
 <!-- omit in toc -->
 ### Tutorials
@@ -611,6 +615,8 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning?tab=readme-ov-file)
 - [A Gentle Introduction to torch.autograd](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html)
 - [Introduction to deep learning](https://carpentries-incubator.github.io/deep-learning-intro/1-introduction.html)
+- [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/)
+
 <!-- omit in toc -->
 ### Blog posts
 
@@ -706,6 +712,8 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Educational resources on LLMs](https://parlance-labs.com/education/)
 - [A Visual Guide to Quantization. Demystifying the Compression of Large Language Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 - [Super Study Guide: Transformers & Large Language Models](https://www.reddit.com/r/MachineLearning/comments/1ew1hws/p_illustrated_book_to_learn_about_transformers/?rdt=56835)
+- [Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems](https://github.com/NirDiamant/RAG_Techniques)
+- [CUDA-Free Inference for LLMs](https://pytorch.org/blog/cuda-free-inference-for-llms/?utm_content=306418723&utm_medium=social&utm_source=twitter&hss_channel=tw-776585502606721024)
 
 <!-- omit in toc -->
 ### Reading papers with AI
@@ -728,6 +736,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Prompt engineering Guide by Open.ai](https://platform.openai.com/docs/guides/prompt-engineering) <!--- comment -->
 - [Prompt Of The Year: 2023](https://github.com/successfulstudy/promptoftheyear/tree/main)
 - [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
+- [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608)
 
 <!-- omit in toc -->
 ### Tutorials
@@ -823,7 +832,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Forecasting time series with gradient boosting: Skforecast, XGBoost, LightGBM, Scikit-learn and CatBoost](https://cienciadedatos.net/documentos/py39-forecasting-time-series-with-skforecast-xgboost-lightgbm-catboost) by Joaquín Amat Rodrigo, Javier Escobar Ortiz
 - [ARIMA and SARIMAX models with Python](https://cienciadedatos.net/documentos/py51-arima-sarimax-models-python.html) by Joaquín Amat Rodrigo, Javier Escobar Ortiz
 - Груздев А.В., Рафферти Г. [Прогнозирование временных рядов с помощью Prophet, sktime, ETNA и Greykite](https://dmkpress.com/catalog/computer/data/978-5-93700-212-9/)
-- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
+- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/) <!--- comment -->
 
 ## Big Data
 
@@ -893,6 +902,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [How to beat maths anxiety](https://psyche.co/guides/how-to-beat-maths-anxiety-and-even-find-you-enjoy-it)
 - [Engineering Math: Differential Equations and Dynamical Systems](https://youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&si=ChsaQA_sF6ae8ymY)
 - [Mathematics for Machine Learning](https://mml-book.github.io) <!--- comment -->
+- [The Complete Mathematics of Neural Networks and Deep Learning](https://www.youtube.com/watch?app=desktop&v=Ixl3nykKG9M)
 
 <!-- omit in toc -->
 ### Linear Algebra
@@ -901,6 +911,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/) <!--- comment -->
 - [Linear Algebra for Data Science](https://www.youtube.com/playlist?app=desktop&list=PLB3yPBd26tWyDNoUpEGVsyI-sygPLqYa1)
 - [immersive linear algebra by J. Ström, K. Åström, and T. Akenine-Möller](https://immersivemath.com/ila/index.html) <!--- comment -->
+- [Linear Algebra Review and Reference by Zico Kolter](https://cs229.stanford.edu/lectures-spring2022/cs229-linear_algebra_review.pdf)
 
 <!-- omit in toc -->
 ### Probability and Statistics
@@ -916,7 +927,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Прикладная статистика. Репозиторий для линейки онлайн-курсов по статистике](https://github.com/FUlyankin/matstat-AB)
 - [Multivariate statistics](https://www.youtube.com/playlist?app=desktop&list=PLLTSM0eKjC2fZqeVFWBBBr8KSqnBIPMQD)
 - [R2D3 is an experiment in expressing statistical thinking with interactive design](http://www.r2d3.us/) <!--- comment -->  
-- [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2023?tab=readme-ov-file)
+- [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2024?tab=readme-ov-file)
 - [Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks by Will Kurt](https://www.amazon.com/Bayesian-Statistics-Fun-Will-Kurt/dp/1593279566)
 - [Seeing theory. A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html) <!--- comment -->
 - [The Book of Statistical Proofs](https://statproofbook.github.io/)
@@ -929,6 +940,8 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Statistics 110: Probability](https://www.youtube.com/playlist?app=desktop&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 - [Introduction to Statistical Learning using Python](https://r4ds.github.io/bookclub-islp/)
 - [Applied Causal Inference Powered by ML and AI](https://causalml-book.org) <!--- comment -->
+- [Economertrics Notes by Peter Hull](https://sites.google.com/site/aboutpeterhull/metrix?authuser=0)
+- [The Cartoon Guide to Statistics](https://archive.org/details/TheCartoonGuideToStatistics/page/n11/mode/2up) <!--- comment -->
 
 <!-- omit in toc -->
 ### A/B Tests
@@ -940,6 +953,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Most cited sources in A/B Testing by Ron Kohavi](https://docs.google.com/spreadsheets/u/0/d/1PAWG7NWVEwAwwfrd9b-V5o5q4nB6i67N2ITrzyrIdP0/htmlview?pli=1)
 - [A/B Testing RoadMap](https://roadmap.sh/r/ab-testing-roadmap-copy)
 - [Чеклист А/Б эксперимента](https://docs.google.com/spreadsheets/u/0/d/14t58zgoCCCS6RhRR11c_TjaNnlzOyoGvhUe8VAYRS_A/htmlview) + [Шаблон проведения А/Б эксперимента](https://docs.google.com/document/u/0/d/1z_Xtvkt3NUXGNRCswngaHe1PGOe8YFvSvjALVQiP12w/mobilebasic)
+- [Practitioner’s Guide to Statistical Tests by VK Team](https://vkteam.medium.com/practitioners-guide-to-statistical-tests-ed2d580ef04f)
 
 <!-- omit in toc -->
 #### Blog posts
