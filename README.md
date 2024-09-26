@@ -541,7 +541,7 @@ List of questions with patterns + tips
 - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) <!--- comment -->
 - MLOps и production подход к ML исследованиям 2.0: [Видео](https://www.youtube.com/playlist?app=desktop&list=PLUJY3Hn1BMCIiVRaQyKDA_molGS3-R1d_) + [Курс](https://ods.ai/tracks/ml-in-production-spring-23)
 - [THE ULTIMATE DOCKER COMPOSE CHEAT SHEET](https://devopscycle.com/blog/the-ultimate-docker-compose-cheat-sheet/)
-- [Practitioners guide to MLOps by Google](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
+- [Practitioner's guide to MLOps by Google](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf) <!--- comment -->
 
 <!-- omit in toc -->
 ### Other
