@@ -178,6 +178,7 @@ For interview preparation and learning
 - [Как не провалить интервью. Исследование из Стэнфорда о пользе самоуверенности](https://habr.com/ru/company/getmatch/blog/707954/)
 - [Собеседования в ML](https://telegra.ph/Sobesedovaniya-v-ML-08-03)
 - [Евгений Смирнов | Десять вопросов, которые нужно задать перед трудоустройством](https://www.youtube.com/watch?app=desktop&v=czT4sr1AooI)
+- [Стрим про карьеру, собеседования и бигтех](https://www.youtube.com/watch?app=desktop&v=6E2JWezLzs4)
 
 <!-- omit in toc -->
 ### Resources
@@ -337,6 +338,7 @@ List of questions with patterns + tips
 - [Задачи по Python и машинному обучению](https://t.me/python_tasks)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning#python)
 - [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices)
+- [Python Training by J.P.Morgan](https://github.com/jpmorganchase/python-training)
 
 ## SQL
 
@@ -539,6 +541,7 @@ List of questions with patterns + tips
 - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) <!--- comment -->
 - MLOps и production подход к ML исследованиям 2.0: [Видео](https://www.youtube.com/playlist?app=desktop&list=PLUJY3Hn1BMCIiVRaQyKDA_molGS3-R1d_) + [Курс](https://ods.ai/tracks/ml-in-production-spring-23)
 - [THE ULTIMATE DOCKER COMPOSE CHEAT SHEET](https://devopscycle.com/blog/the-ultimate-docker-compose-cheat-sheet/)
+- [Practitioners guide to MLOps by Google](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
 
 <!-- omit in toc -->
 ### Other
@@ -557,7 +560,6 @@ List of questions with patterns + tips
 - [Dive into Deep Learning](https://d2l.ai/index.html)
 I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter_appendix-tools-for-deep-learning/sagemaker.html) <!--- comment -->
 - [Understanding Deep Learning by Simon J.D. Prince](https://udlbook.github.io/udlbook/) <!--- comment -->
-- [What are embeddings by Vicki Boykis](https://vickiboykis.com/what_are_embeddings/index.html) <!--- comment -->
 - [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org)
 - [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD by Jeremy Howard and Sylvain Gugger](https://course.fast.ai/Resources/book.html)
 - [Deep Learning. Foundations and Concepts by Chris Bishop and Hugh Bishop](https://www.bishopbook.com)
@@ -655,7 +657,6 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Stanford CS224U: Natural Language Understanding](https://web.stanford.edu/class/cs224u/index.html)
 - [Введение в обработку естественного языка](https://compscicenter.ru/courses/introduction-nlp/2019-autumn/)
 - [Stanford CS 224V Conversational Virtual Assistants with Deep Learning](https://web.stanford.edu/class/cs224v/schedule.html)
-- [Learn to Love Working with Vector Embeddings by Pinecone](https://www.pinecone.io/learn/)
 - [CS11-711 Advanced Natural Language Processing (at Carnegie Mellon University's Language Technology Institute)](http://www.phontron.com/class/anlp2022/) + [Video](https://youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z) + [Assignments](https://github.com/neubig/nlp-from-scratch-assignment-2022)
 - [Linguistics for Language Technology](https://bylinina.github.io/ling_course/)
 
@@ -664,8 +665,6 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 
 - [Recommendations for Getting Started with NLP by Elvis](https://elvissaravia.substack.com/p/my-recommendations-for-getting-started)
 - [Чат по NLP](https://t.me/natural_language_processing)
-- [100 вопросов про NLP](https://dynamic-epoch-4bb.notion.site/100-questions-about-NLP-549ccde0d81a4689b5635888b9d0d7e6)
-- [The 1950-2024 Text Embeddings Evolution Poster](https://jina.ai/news/the-1950-2024-text-embeddings-evolution-poster/)
 - [awesome-nlp. A curated list of resources dedicated to Natural Language Processing](https://github.com/keon/awesome-nlp)
 - [NLP Cheatsheet: Master NLP](https://www.kaggle.com/code/rftexas/nlp-cheatsheet-master-nlp)
 
@@ -714,6 +713,19 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Super Study Guide: Transformers & Large Language Models](https://www.reddit.com/r/MachineLearning/comments/1ew1hws/p_illustrated_book_to_learn_about_transformers/?rdt=56835)
 - [Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems](https://github.com/NirDiamant/RAG_Techniques)
 - [CUDA-Free Inference for LLMs](https://pytorch.org/blog/cuda-free-inference-for-llms/?utm_content=306418723&utm_medium=social&utm_source=twitter&hss_channel=tw-776585502606721024)
+- [Изучаю LLM by Evgenii Nikitin](https://telegra.ph/Izuchayu-LLM-09-25)
+- [Build a Large Language Model (From Scratch) by Sebastian Raschka](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+- [What is the Role of Small Models in the LLM Era: A Survey](https://arxiv.org/abs/2409.06857)
+- [Building LLMs from the Ground Up: A 3-hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
+- [AI Prompt Engineering: A Deep Dive](https://www.youtube.com/watch?app=desktop&v=T9aRN5JkmL8)
+
+<!-- omit in toc -->
+### Embeddings
+
+- [Новый взгляд на оценку русскоязычных моделей: обновлённый бенчмарк ruMTEB и лидерборд](https://habr.com/ru/companies/X5Tech/articles/845398/)
+- [What are embeddings by Vicki Boykis](https://vickiboykis.com/what_are_embeddings/index.html) <!--- comment -->
+- [Learn to Love Working with Vector Embeddings by Pinecone](https://www.pinecone.io/learn/)
+- [The 1950-2024 Text Embeddings Evolution Poster](https://jina.ai/news/the-1950-2024-text-embeddings-evolution-poster/)
 
 <!-- omit in toc -->
 ### Reading papers with AI
@@ -737,6 +749,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Prompt Of The Year: 2023](https://github.com/successfulstudy/promptoftheyear/tree/main)
 - [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
 - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608)
+- [Prompt Engineering Guide by Antrophic](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 
 <!-- omit in toc -->
 ### Tutorials
@@ -891,6 +904,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [The 9-Step ML System Design Formula](https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLSD/ml-system-design.md)
 - CSCE 585 Machine Learning Systems: [Lectures](https://pooyanjamshidi.github.io/mls/lectures/) + [Video](https://www.youtube.com/playlist?app=desktop&list=PLtkQf9LiEmLFS56WTpRJ3PZwwCYyi2Cdu)
 - [Machine Learning in Production: From Models to Products](https://mlip-cmu.github.io/book/#machine-learning-in-production-from-models-to-products)
+- [ML System Design by Machine Learning REPA](https://github.com/mlrepa/ml-system-design)
 
 ## Math
 
@@ -912,7 +926,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Linear Algebra for Data Science](https://www.youtube.com/playlist?app=desktop&list=PLB3yPBd26tWyDNoUpEGVsyI-sygPLqYa1)
 - [immersive linear algebra by J. Ström, K. Åström, and T. Akenine-Möller](https://immersivemath.com/ila/index.html) <!--- comment -->
 - [Linear Algebra Review and Reference by Zico Kolter](https://cs229.stanford.edu/lectures-spring2022/cs229-linear_algebra_review.pdf)
-
+- [Linear Algebra for Data Science](https://kyunghyuncho.me/linear-algebra-for-data-science/)
 <!-- omit in toc -->
 ### Probability and Statistics
 
