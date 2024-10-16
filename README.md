@@ -246,12 +246,12 @@ List of questions with patterns + tips
 ### Resources
 
 - Тренировки по алгоритмам от Яндекса:
-- [Тренировки по алгоритмам от Яндекса 1](https://yandex.ru/yaintern/algorithm-training_1)
-- [Тренировки по алгоритмам от Яндекса 2](https://yandex.ru/yaintern/algorithm-training_2)
-- [Тренировки по алгоритмам от Яндекса 3](https://yandex.ru/yaintern/training/algorithm-training_3)
-- [Тренировки по алгоритмам от Яндекса 4](https://yandex.ru/yaintern/training/algorithm-training_4)
-- [Тренировки по алгоритмам от Яндекса 5](https://yandex.ru/yaintern/algorithm-training)
-- [Интенсив по алгоритмам от Яндекса](https://www.youtube.com/playlist?list=PLQC2_0cDcSKAzLqqXUidKBJsy1Im44aOo)
+  - [Тренировки по алгоритмам от Яндекса 1](https://yandex.ru/yaintern/algorithm-training_1)
+  - [Тренировки по алгоритмам от Яндекса 2](https://yandex.ru/yaintern/algorithm-training_2)
+  - [Тренировки по алгоритмам от Яндекса 3](https://yandex.ru/yaintern/training/algorithm-training_3)
+  - [Тренировки по алгоритмам от Яндекса 4](https://yandex.ru/yaintern/training/algorithm-training_4)
+  - [Тренировки по алгоритмам от Яндекса 5](https://yandex.ru/yaintern/algorithm-training)
+  - [Интенсив по алгоритмам от Яндекса](https://www.youtube.com/playlist?list=PLQC2_0cDcSKAzLqqXUidKBJsy1Im44aOo)
 - [Algorithmic concepts By Afshine Amidi and Shervine Amidi](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts/)
 - [NeetCode. A better way to prepare for coding interviews.](https://neetcode.io/roadmap) <!--- comment -->
 - [The Algorithms. Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language](https://github.com/TheAlgorithms)
@@ -285,7 +285,7 @@ List of questions with patterns + tips
 - [Elements of Programming Interviews in Python: The Insiders' Guide](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [Problem Solving with Algorithms and Data Structures using Python by Brad Miller and David Ranum, Luther College](https://runestone.academy/ns/books/published/pythonds/index.html)
-- [Competitive Programmer's Handbook by Antti Laaksonen](https://cses.fi/book/book.pdf)
+- [Competitive Programmer's Handbook by Antti Laaksonen](https://cses.fi/book/book.pdf) <!--- comment -->
 - [Competitive Programming by Steven Halim](https://www.amazon.com/Competitive-Programming-4-Book-2/dp/B093K67NVN?crid=C4TR8FKXSWW1&keywords=competitive+programming+4&qid=1654975173&sprefix=competitive+programming+4,aps,131&sr=8-1&linkCode=sl1&tag=alexcancode0d-20&linkId=014a5744e277b65b2a6251d9884c031d&language=en_US&ref_=as_li_ss_tl)
 
 ## Python
