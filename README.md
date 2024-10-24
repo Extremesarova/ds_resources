@@ -14,10 +14,12 @@ For interview preparation and learning
 - [Deep Learning](#deep-learning-1)
 - [Generative AI](#generative-ai)
 - [NLP](#nlp-1)
+  - [Packages](#packages)
 - [Computer Vision](#computer-vision)
 - [Graphs](#graphs)
 - [Reinforcement Learning](#reinforcement-learning)
 - [RecSys](#recsys)
+  - [Packages](#packages-1)
 - [Time Series](#time-series)
 - [Big Data](#big-data)
 - [System Design](#system-design)
@@ -179,6 +181,7 @@ For interview preparation and learning
 - [Собеседования в ML](https://telegra.ph/Sobesedovaniya-v-ML-08-03)
 - [Евгений Смирнов | Десять вопросов, которые нужно задать перед трудоустройством](https://www.youtube.com/watch?app=desktop&v=czT4sr1AooI)
 - [Стрим про карьеру, собеседования и бигтех](https://www.youtube.com/watch?app=desktop&v=6E2JWezLzs4)
+- [Guide to ML Engineer Job Hunting](https://www.yuan-meng.com/posts/mle_interviews/?trk=feed_main-feed-card_feed-article-content)
 
 <!-- omit in toc -->
 ### Resources
@@ -366,7 +369,7 @@ List of questions with patterns + tips
 - [SQLBolt. Learn SQL with simple, interactive exercises.](https://sqlbolt.com/)
 - [SQL Tutorial by w3schools](https://www.w3schools.com/sql/)
 - [PostgreSQL Exercises](https://pgexercises.com/)
-- [The Querynomicon. An Introduction to SQL for Wary Data Scientists](https://gvwilson.github.io/sql-tutorial/)
+- [The Querynomicon. An Introduction to SQL for Wary Data Scientists](https://gvwilson.github.io/sql-tutorial/) <!--- comment -->
 
 ## Machine Learning
 
@@ -377,6 +380,7 @@ List of questions with patterns + tips
 - [Машинное обучение для людей. Разбираемся простыми словами](https://vas3k.blog/blog/machine_learning/) <!--- comment -->
 - [Анализ малых данных](https://dyakonov.org/ag/)
 - [Kaggle Competitions](https://www.kaggle.com/competitions)
+  - [How to Win a Kaggle Competition](https://www.kaggle.com/code/thedrcat/how-to-win-a-kaggle-competition)
 - [The Illustrated Machine Learning](https://illustrated-machine-learning.github.io/)
 - [MLU-EXPLAIN](https://mlu-explain.github.io/)
 - [ML Code Challenges](https://www.deep-ml.com)
@@ -490,6 +494,7 @@ List of questions with patterns + tips
 - [The Illustrated Machine Learning](https://illustrated-machine-learning.github.io/) <!--- comment -->
 - [ML Primer by Boris Tseytlin](https://btseytlin.notion.site/ML-Primer-53c3d8666da1438c8eab4389321d44a2)
 - [Decision Trees. The unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)
+- [Ensemble Methods and Decision Trees](https://aman.ai/primers/ai/ensemble-methods-and-decision-trees/)
 
 <!-- omit in toc -->
 ### Blog posts
@@ -565,6 +570,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Deep Learning. Foundations and Concepts by Chris Bishop and Hugh Bishop](https://www.bishopbook.com)
 - [Mastering PyTorch by Ashish Ranjan Jha](https://www.oreilly.com/library/view/mastering-pytorch/9781801074308/?_gl=1*10hryeg*_ga*MTc1MTUyNjI1OS4xNzI0MjMyMzk4*_ga_092EL089CH*MTcyNDIzMjM5OC4xLjEuMTcyNDIzMjQyMy4zNS4wLjA)
 - [The Tensor Cookbook by Thomas Dybdahl Ahle](https://tensorcookbook.com)
+- [Deep Learning and Computational Physics](https://arxiv.org/pdf/2301.00942v1)
 
 <!-- omit in toc -->
 ### Courses
@@ -620,12 +626,13 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/)
 
 <!-- omit in toc -->
-### Blog posts
+### Blogs & Blog posts
 
 - [WHAT IS TORCH.NN REALLY? by Jeremy Howard, fast.ai](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
 - [О «раздутом пузыре» нейросетей](https://habr.com/ru/post/718996/)
 - [Cтатьи от команды DeepSchool](https://deepschool-pro.notion.site/9a613d3c8d3644faa8e396bd083f2bc2?v=524b15c7ce9f49d094f94cd699c2c621)
 - [Полезные материалы про PyTorch](https://telegra.ph/PyTorch-i-okolo-nego-04-12)
+- [AstraBlog](https://astralord.github.io)
 
 <!-- omit in toc -->
 ### Other
@@ -794,6 +801,13 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html), Taori et al., Alpaca: A Strong, Replicable Instruction-Following Model
 - [LLaMA](https://arxiv.org/abs/2302.13971), Touvron, et al., LLaMA: Open and Efficient Foundation Language Models
 
+### Packages
+
+- [Turbo-Alignment](https://github.com/turbo-llm/turbo-alignment)  
+Turbo-Alignment is a library designed to streamline the fine-tuning and alignment of large language models, leveraging advanced techniques to enhance efficiency and scalability
+- [LitGPT](https://github.com/Lightning-AI/litgpt)  
+Every LLM is implemented from scratch with no abstractions and full control, making them blazing fast, minimal, and performant at enterprise scale.
+
 ## Computer Vision
 
 - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/info)
@@ -835,6 +849,10 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Recommenders. Best Practices on Recommendation Systems](https://github.com/recommenders-team/recommenders)
 - [Рекомендательные системы](https://education.yandex.ru/knowledge/rekomendatelnye-sistemy.-mashinnoe-obuchenie)
 - [Рекомендательные системы: идеи, подходы, задачи](https://habr.com/ru/companies/jetinfosystems/articles/453792/)
+
+### Packages
+
+- [Revisiting BPR](https://github.com/Nemexur/revisit-bpr)
 
 ## Time Series
 
@@ -905,6 +923,8 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - CSCE 585 Machine Learning Systems: [Lectures](https://pooyanjamshidi.github.io/mls/lectures/) + [Video](https://www.youtube.com/playlist?app=desktop&list=PLtkQf9LiEmLFS56WTpRJ3PZwwCYyi2Cdu)
 - [Machine Learning in Production: From Models to Products](https://mlip-cmu.github.io/book/#machine-learning-in-production-from-models-to-products)
 - [ML System Design by Machine Learning REPA](https://github.com/mlrepa/ml-system-design)
+- [ML for Developers](https://madewithml.com/#mlops)  
+Learn how to combine machine learning with software engineering to design, develop, deploy and iterate on production ML applications
 
 ## Math
 
@@ -975,6 +995,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Шесть причин, почему ваши A/B-тесты не работают](https://habr.com/ru/company/ozontech/blog/712306/)
 - [АБ-тесты — это не только ценный мех… Но еще и процессы](https://habr.com/ru/company/ods/blog/716110/)
 - [Стратификация. Как разбиение выборки повышает чувствительность A/B теста](https://habr.com/ru/company/X5Tech/blog/596279/)
+- [50 оттенков линейной регрессии, или почему всё, что вы знаете об A/B тестах, помещается в одно уравнение](https://habr.com/ru/companies/X5Tech/articles/846298/)
 
 <!-- omit in toc -->
 #### Metrics
