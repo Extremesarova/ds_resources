@@ -380,10 +380,10 @@ List of questions with patterns + tips
 - [Машинное обучение для людей. Разбираемся простыми словами](https://vas3k.blog/blog/machine_learning/) <!--- comment -->
 - [Анализ малых данных](https://dyakonov.org/ag/)
 - [Kaggle Competitions](https://www.kaggle.com/competitions)
-  - [How to Win a Kaggle Competition](https://www.kaggle.com/code/thedrcat/how-to-win-a-kaggle-competition)
-- [The Illustrated Machine Learning](https://illustrated-machine-learning.github.io/)
-- [MLU-EXPLAIN](https://mlu-explain.github.io/)
-- [ML Code Challenges](https://www.deep-ml.com)
+  - [How to Win a Kaggle Competition](https://www.kaggle.com/code/thedrcat/how-to-win-a-kaggle-competition) <!--- comment -->
+- [The Illustrated Machine Learning](https://illustrated-machine-learning.github.io/) <!--- comment -->
+- [MLU-EXPLAIN](https://mlu-explain.github.io/) <!--- comment -->
+- [ML Code Challenges](https://www.deep-ml.com) <!--- comment -->
 
 <!-- omit in toc -->
 ### Courses
@@ -399,7 +399,7 @@ List of questions with patterns + tips
 - [Машинное Обучение в Python: Большой Курс для Начинающих](https://stepik.org/course/129449/info)
 - [Обучение работе с ML‑сервисами от Yandex Cloud](https://yandex.cloud/ru/training/ml)
 - [Introduction to Machine Learning (I2ML)](https://slds-lmu.github.io/i2ml/) <!--- comment -->
-- [MACHINE LEARNING @ VU](https://mlvu.github.io)
+- [MACHINE LEARNING @ VU](https://mlvu.github.io) <!--- comment -->
 - [Practical Machine Learning](https://practical-ml-fmi.github.io/ML/)
 
 <!-- omit in toc -->
