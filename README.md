@@ -422,6 +422,7 @@ List of questions with patterns + tips
 - [Supervised Machine Learning for Science by Christoph Molnar & Timo Freiesleben](https://ml-science-book.com)
 - [Machine Learning Refined: Notes, Exercises, Presentations, and Sample Chapters](https://github.com/neonwatty/machine_learning_refined)
 - [Дьяконов А.Г. "Машинное обучение и анализ данных"](https://github.com/Dyakonov/MLDM_BOOK)
+- [Виктор Владимирович Китов. Машинное обучение](https://deepmachinelearning.ru/docs/Machine-learning/book-title)
 
 <!-- omit in toc -->
 ### Cheetsheets
@@ -571,6 +572,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Mastering PyTorch by Ashish Ranjan Jha](https://www.oreilly.com/library/view/mastering-pytorch/9781801074308/?_gl=1*10hryeg*_ga*MTc1MTUyNjI1OS4xNzI0MjMyMzk4*_ga_092EL089CH*MTcyNDIzMjM5OC4xLjEuMTcyNDIzMjQyMy4zNS4wLjA)
 - [The Tensor Cookbook by Thomas Dybdahl Ahle](https://tensorcookbook.com)
 - [Deep Learning and Computational Physics](https://arxiv.org/pdf/2301.00942v1)
+- [Виктор Владимирович Китов. Глубокое обучение](https://deepmachinelearning.ru/docs/Neural-networks/book-title)
 
 <!-- omit in toc -->
 ### Courses
@@ -902,6 +904,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [System Design Newsletter](https://github.com/systemdesign42/system-design)
 - [Awesome System Design](https://github.com/madd86/awesome-system-design)
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
+- [System Design Fight Club](https://github.com/systemdesignfightclub/SDFC)
 
 ## Machine Learning System Design
 
@@ -917,7 +920,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Machine Learning System Design by Valerii Babushkin and Arseny Kravchenko](https://www.manning.com/books/machine-learning-system-design) <!--- comment -->
 - [Designing Machine Learning Systems by Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - [Machine Learning Engineering Online Book](https://github.com/stas00/ml-engineering) <!--- comment -->
-- [ML system design: 300 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
+- [ML system design: 500 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
 - [Machine Learning System Design Interview by Ali Aminian, Alex Xu](https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127) + [Solutions](https://leetcode.com/discuss/interview-question/system-design/3133672/New-Book-by-Alex-Xu-or-Machine-Learning-System-Design-My-Solutions)
 - [The 9-Step ML System Design Formula](https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLSD/ml-system-design.md)
 - CSCE 585 Machine Learning Systems: [Lectures](https://pooyanjamshidi.github.io/mls/lectures/) + [Video](https://www.youtube.com/playlist?app=desktop&list=PLtkQf9LiEmLFS56WTpRJ3PZwwCYyi2Cdu)
