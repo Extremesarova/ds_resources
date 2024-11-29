@@ -950,6 +950,7 @@ Learn how to combine machine learning with software engineering to design, devel
 - [immersive linear algebra by J. Ström, K. Åström, and T. Akenine-Möller](https://immersivemath.com/ila/index.html) <!--- comment -->
 - [Linear Algebra Review and Reference by Zico Kolter](https://cs229.stanford.edu/lectures-spring2022/cs229-linear_algebra_review.pdf)
 - [Linear Algebra for Data Science](https://kyunghyuncho.me/linear-algebra-for-data-science/)
+
 <!-- omit in toc -->
 ### Probability and Statistics
 
