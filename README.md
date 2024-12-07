@@ -271,7 +271,7 @@ List of questions with patterns + tips
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university/)
 - [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 - [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
-- [Data Structures & Algorithms by Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms)
+- [Data Structures & Algorithms by Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms) <!--- comment -->
 - [Design and Analysis of Algorithms](https://eecs376.github.io/notes/algorithms.html)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html)
 
@@ -484,7 +484,7 @@ List of questions with patterns + tips
 - [Kaggle Tips for Feature Engineering and Selection | by Gilberto Titericz | Kaggle Days Meetup Madrid](https://www.youtube.com/watch?app=desktop&v=RtqtM1UJfZc)
 - [featurewiz is the best feature selection library for boosting your machine learning performance with minimal effort and maximum relevance using the famous MRMR algorithm](https://github.com/AutoViML/featurewiz)
 - [Feature Ranking and Selection](https://www.youtube.com/watch?app=desktop&v=u7TVqtW7jM0)
-- [Feature Engineering A-Z](https://feaz-book.com)
+- [Feature Engineering A-Z](https://feaz-book.com) <!--- comment -->
 
 <!-- omit in toc -->
 #### Tutorials
@@ -560,7 +560,7 @@ List of questions with patterns + tips
 <!-- omit in toc -->
 ### Books
 
-- [The Little Book of Deep Learning by François Fleuret](https://fleuret.org/public/lbdl.pdf)
+- [The Little Book of Deep Learning by François Fleuret](https://fleuret.org/francois/lbdl.html) <!--- comment -->
 - [Deep Learning with Python by François Chollet](https://www.manning.com/books/deep-learning-with-python-second-edition) <!--- comment -->
 - [Multimodal Deep Learning](https://slds-lmu.github.io/seminar_multimodal_dl/index.html)
 - [Dive into Deep Learning](https://d2l.ai/index.html)
