@@ -651,7 +651,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 ### Books
 
 - [Natural Language Processing with Transformers](https://transformersbook.com) by Lewis Tunstall, Leandro von Werra adn Thomas Wolf
-- [Speech and Language Processing by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
+- [Speech and Language Processing by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/) <!--- comment -->
 - [Transformers for Natural Language Processing](https://www.amazon.com/Transformers-Natural-Language-Processing-architectures-ebook/dp/B09T34LVRM?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.wa38PcGXRxWshcH7rjbD4IcG9iwmHqu-ncXj6wO9_XMOVAx0cny9f6lqwV0McsOKUhvnNw-lAB6HtM35nxTl9z34_sglVNO4zrYs-3pvp9Y.-9Y0jF1BIRd4hjHermJekTA7kM2UDOJpGjgvguDKdpk&dib_tag=AUTHOR) by Denis Rothman
 
 <!-- omit in toc -->
@@ -662,7 +662,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [NLP Course | For You by Lena Voita](https://lena-voita.github.io/nlp_course.html) + [YSDA Natural Language Processing course](https://github.com/yandexdataschool/nlp_course)
 - [Hugging Face course](https://huggingface.co/course/chapter0) <!--- comment -->
 - [Natural Language Processing course by Valentin Malykh](https://ods.ai/tracks/nlp-course)
-- [Stanford LSA 311: Computational Lexical Semantics by Dan Jurafsky](https://web.stanford.edu/~jurafsky/li15/)
+- [Stanford LSA 311: Computational Lexical Semantics by Dan Jurafsky](https://web.stanford.edu/~jurafsky/li15/) <!--- comment -->
 - [Stanford CS224U: Natural Language Understanding](https://web.stanford.edu/class/cs224u/index.html)
 - [Введение в обработку естественного языка](https://compscicenter.ru/courses/introduction-nlp/2019-autumn/)
 - [Stanford CS 224V Conversational Virtual Assistants with Deep Learning](https://web.stanford.edu/class/cs224v/schedule.html)
@@ -987,6 +987,7 @@ Learn how to combine machine learning with software engineering to design, devel
 <!-- omit in toc -->
 #### General
 
+- [Trustworthy Online Controlled Experiments by Ron Kohavi](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264) <!--- comment -->
 - [Подборка ссылок по A/B тестированию от Валеры Бабушкина](https://uberkinder.notion.site/A-B-8bcc0fdc69bb4a0997a7d767e1a9d94b)
 - [Most cited sources in A/B Testing by Ron Kohavi](https://docs.google.com/spreadsheets/u/0/d/1PAWG7NWVEwAwwfrd9b-V5o5q4nB6i67N2ITrzyrIdP0/htmlview?pli=1)
 - [A/B Testing RoadMap](https://roadmap.sh/r/ab-testing-roadmap-copy)
