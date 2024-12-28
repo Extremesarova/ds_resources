@@ -409,7 +409,7 @@ List of questions with patterns + tips
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani <!--- comment -->
 - [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
 - [Machine Learning Simplified: A gentle introduction to supervised learning](https://themlsbook.com/read) by Andrew Wolf <!--- comment -->
-- [The Kaggle Book](https://www.kaggle.com/discussions/general/320574)
+- [The Kaggle Book](https://www.kaggle.com/discussions/general/320574) <!--- comment -->
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/index.html) by Max Kuhn and Kjell Johnson <!--- comment -->
 - [Clean Machine Learning Code](https://leanpub.com/cleanmachinelearningcode)
 - [Interpreting Machine Learning Models With SHAP: A Guide With Python Examples And Theory On Shapley Values](https://www.amazon.com/dp/B0CHL7W1DL)
@@ -608,6 +608,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [CS565600 Deep Learning. Fundamentals of machine learning, deep learning, and AI](https://nthu-datalab.github.io/ml/)
 - [Introduction to Deep Learning (I2DL) (IN2346)](https://niessner.github.io/I2DL/)
 - [CS 886: Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
+- [DEEP LEARNING COURSE](https://fleuret.org/dlc/)
 
 <!-- omit in toc -->
 ### Tutorials
@@ -927,7 +928,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Machine Learning in Production: From Models to Products](https://mlip-cmu.github.io/book/#machine-learning-in-production-from-models-to-products)
 - [ML System Design by Machine Learning REPA](https://github.com/mlrepa/ml-system-design)
 - [ML for Developers](https://madewithml.com/#mlops)  
-Learn how to combine machine learning with software engineering to design, develop, deploy and iterate on production ML applications
+- [Machine Learning System Design Doc Examples](https://github.com/ML-SystemDesign/MLSystemDesign)
 
 ## Math
 
@@ -940,6 +941,7 @@ Learn how to combine machine learning with software engineering to design, devel
 - [Engineering Math: Differential Equations and Dynamical Systems](https://youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&si=ChsaQA_sF6ae8ymY)
 - [Mathematics for Machine Learning](https://mml-book.github.io) <!--- comment -->
 - [The Complete Mathematics of Neural Networks and Deep Learning](https://www.youtube.com/watch?app=desktop&v=Ixl3nykKG9M)
+- [Математика для анализа данных](https://education.yandex.ru/handbook/math)
 
 <!-- omit in toc -->
 ### Linear Algebra
