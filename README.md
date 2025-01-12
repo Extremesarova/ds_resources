@@ -370,6 +370,7 @@ List of questions with patterns + tips
 - [SQL Tutorial by w3schools](https://www.w3schools.com/sql/)
 - [PostgreSQL Exercises](https://pgexercises.com/)
 - [The Querynomicon. An Introduction to SQL for Wary Data Scientists](https://gvwilson.github.io/sql-tutorial/) <!--- comment -->
+- [SQL Challenges](https://platform.datavidhya.com/coding-problems)
 
 ## Machine Learning
 
@@ -496,6 +497,7 @@ List of questions with patterns + tips
 - [ML Primer by Boris Tseytlin](https://btseytlin.notion.site/ML-Primer-53c3d8666da1438c8eab4389321d44a2)
 - [Decision Trees. The unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)
 - [Ensemble Methods and Decision Trees](https://aman.ai/primers/ai/ensemble-methods-and-decision-trees/)
+- [Awesome CatBoost](https://github.com/valeman/Awesome_CatBoost)
 
 <!-- omit in toc -->
 ### Blog posts
@@ -728,6 +730,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [What is the Role of Small Models in the LLM Era: A Survey](https://arxiv.org/abs/2409.06857)
 - [Building LLMs from the Ground Up: A 3-hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
 - [AI Prompt Engineering: A Deep Dive](https://www.youtube.com/watch?app=desktop&v=T9aRN5JkmL8)
+- [LLM Resources Hub](https://llmresourceshub.vercel.app)
 
 <!-- omit in toc -->
 ### Embeddings
@@ -976,12 +979,17 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Statistics For Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) + [Video](https://www.youtube.com/playlist?app=desktop&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 - [Вся основная теория по A/B-экспериментам](https://colab.research.google.com/drive/1_CY_8DJRLm70gl9RjTz1vmPoLMwCeT0u?usp=sharing)
 - [Курс по Прикладной статистике от Академии Аналитиков Авито](https://avito.tech/education/statistics)
-- [Causal Inference and Its Applications in Online Industry](https://alexdeng.github.io/causal/index.html)
 - [Statistics 110: Probability](https://www.youtube.com/playlist?app=desktop&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 - [Introduction to Statistical Learning using Python](https://r4ds.github.io/bookclub-islp/)
-- [Applied Causal Inference Powered by ML and AI](https://causalml-book.org) <!--- comment -->
 - [Economertrics Notes by Peter Hull](https://sites.google.com/site/aboutpeterhull/metrix?authuser=0)
 - [The Cartoon Guide to Statistics](https://archive.org/details/TheCartoonGuideToStatistics/page/n11/mode/2up) <!--- comment -->
+
+<!-- omit in toc -->
+### Causal Inference
+
+- [Causal Inference: What If](https://miguelhernan.org/whatifbook)
+- [Causal Inference and Its Applications in Online Industry](https://alexdeng.github.io/causal/index.html)
+- [Applied Causal Inference Powered by ML and AI](https://causalml-book.org) <!--- comment -->
 
 <!-- omit in toc -->
 ### A/B Tests
