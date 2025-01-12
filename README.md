@@ -14,12 +14,10 @@ For interview preparation and learning
 - [Deep Learning](#deep-learning-1)
 - [Generative AI](#generative-ai)
 - [NLP](#nlp-1)
-  - [Packages](#packages)
 - [Computer Vision](#computer-vision)
 - [Graphs](#graphs)
 - [Reinforcement Learning](#reinforcement-learning)
 - [RecSys](#recsys)
-  - [Packages](#packages-1)
 - [Time Series](#time-series)
 - [Big Data](#big-data)
 - [System Design](#system-design)
@@ -807,6 +805,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html), Taori et al., Alpaca: A Strong, Replicable Instruction-Following Model
 - [LLaMA](https://arxiv.org/abs/2302.13971), Touvron, et al., LLaMA: Open and Efficient Foundation Language Models
 
+<!-- omit in toc -->
 ### Packages
 
 - [Turbo-Alignment](https://github.com/turbo-llm/turbo-alignment)  
@@ -856,6 +855,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Рекомендательные системы](https://education.yandex.ru/knowledge/rekomendatelnye-sistemy.-mashinnoe-obuchenie)
 - [Рекомендательные системы: идеи, подходы, задачи](https://habr.com/ru/companies/jetinfosystems/articles/453792/)
 
+<!-- omit in toc -->
 ### Packages
 
 - [Revisiting BPR](https://github.com/Nemexur/revisit-bpr)
