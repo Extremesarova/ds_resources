@@ -232,13 +232,13 @@ List of questions with patterns + tips
 
 - [Algoprog](https://algoprog.ru/)
 - Яндекс:
-- [Основы алгоритмов | Академия Яндекса](https://academy.yandex.ru/handbook/algorithms)
-- [Бесплатный курс «Подготовка к алгоритмическому собеседованию» от ЯП](https://practicum.yandex.ru/algorithms-interview/)
-- [Курс «Алгоритмы и структуры данных» от ЯП](https://practicum.yandex.ru/algorithms/)
-- [Курс «Алгоритмы и структуры данных поиска»](https://www.youtube.com/playlist?app=desktop&list=PLJOzdkh8T5koEPv-R5W0ovmL_T2BjB1HX)
+  - [Основы алгоритмов | Академия Яндекса](https://academy.yandex.ru/handbook/algorithms)
+  - [Бесплатный курс «Подготовка к алгоритмическому собеседованию» от ЯП](https://practicum.yandex.ru/algorithms-interview/)
+  - [Курс «Алгоритмы и структуры данных» от ЯП](https://practicum.yandex.ru/algorithms/)
+  - [Курс «Алгоритмы и структуры данных поиска»](https://www.youtube.com/playlist?app=desktop&list=PLJOzdkh8T5koEPv-R5W0ovmL_T2BjB1HX)
 - Computer Science Center:
-- [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info)
-- [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/info)
+  - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info)
+  - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/info)
 - [Подготовься к алгоритмическому собеседованию за 30 недель](https://balun.courses/courses/algorithmic_interview#program)
 - [Introduction To Algorithms by MIT](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/) <!--- comment -->
 - [Algorithms](https://cs50.harvard.edu/x/2024/weeks/3/) + [Data Structures](https://cs50.harvard.edu/x/2024/weeks/5/) from [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)
@@ -253,7 +253,6 @@ List of questions with patterns + tips
   - [Тренировки по алгоритмам от Яндекса 4](https://yandex.ru/yaintern/training/algorithm-training_4)
   - [Тренировки по алгоритмам от Яндекса 5](https://yandex.ru/yaintern/algorithm-training)
   - [Интенсив по алгоритмам от Яндекса](https://www.youtube.com/playlist?list=PLQC2_0cDcSKAzLqqXUidKBJsy1Im44aOo)
-- [Algorithmic concepts By Afshine Amidi and Shervine Amidi](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts/)
 - [NeetCode. A better way to prepare for coding interviews.](https://neetcode.io/roadmap) <!--- comment -->
 - [The Algorithms. Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language](https://github.com/TheAlgorithms)
 - [Алгоритмы и структуры данных простыми словами](https://codonaft.com/%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D0%B8-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%BC%D0%B8-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8/)
@@ -282,7 +281,7 @@ List of questions with patterns + tips
 <!-- omit in toc -->
 ### Books
 
-- [Grokking Algorithms. An illustrated guide for programmers and other curious people](https://www.manning.com/books/grokking-algorithms)
+- [Grokking Algorithms. An illustrated guide for programmers and other curious people](https://www.manning.com/books/grokking-algorithms) <!--- comment -->
 - [Elements of Programming Interviews in Python: The Insiders' Guide](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [Problem Solving with Algorithms and Data Structures using Python by Brad Miller and David Ranum, Luther College](https://runestone.academy/ns/books/published/pythonds/index.html)
@@ -304,9 +303,9 @@ List of questions with patterns + tips
 - [Python: основы и применение](https://stepik.org/course/512/info)
 - [Программирование на Python](https://stepik.org/course/67/info)
 - Поколение Python:
-- [Курс для начинающих](https://stepik.org/course/58852)
-- [Курс для продвинутых](https://stepik.org/course/68343)
-- [Курс для профессионалов](https://stepik.org/course/82541)
+  - [Курс для начинающих](https://stepik.org/course/58852)
+  - [Курс для продвинутых](https://stepik.org/course/68343)
+  - [Курс для профессионалов](https://stepik.org/course/82541)
 - [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
 - [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/) <!--- comment -->
 - [Python Tutorial for Beginners (with mini-projects)](https://www.youtube.com/watch?v=qwAFL1597eM)
@@ -324,9 +323,9 @@ List of questions with patterns + tips
 
 - [53 Python Interview Questions and Answers](https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f)
 - Python: вопросы на собеседовании:
-- [Часть I. Junior](<https://pythonist.ru/> python-voprosy-sobesedovaniya-chast-i-junior/)
-- [Часть II. Middle](https://pythonist.ru/python-voprosy-sobesedovaniya-chast-ii-middle/)
-- [Часть III. Senior](https://pythonist.ru/python-voprosy-sobesedovaniya-chast-iii-senior/)
+  - [Часть I. Junior](https://pythonist.ru/python-voprosy-sobesedovaniya-chast-i-junior/)
+  - [Часть II. Middle](https://pythonist.ru/python-voprosy-sobesedovaniya-chast-ii-middle/)
+  - [Часть III. Senior](https://pythonist.ru/python-voprosy-sobesedovaniya-chast-iii-senior/)
 
 <!-- omit in toc -->
 ### Other
@@ -369,6 +368,7 @@ List of questions with patterns + tips
 - [PostgreSQL Exercises](https://pgexercises.com/)
 - [The Querynomicon. An Introduction to SQL for Wary Data Scientists](https://gvwilson.github.io/sql-tutorial/) <!--- comment -->
 - [SQL Challenges](https://platform.datavidhya.com/coding-problems)
+- [SQL Squid Game](https://datalemur.com/sql-game)
 
 ## Machine Learning
 
@@ -527,8 +527,8 @@ List of questions with patterns + tips
 
 - [StatQuest with Josh Starmer](https://www.youtube.com/@statquest/videos) <!--- comment -->
 - A new perspective on Shapley values:
-- [Part I: Intro to Shapley and SHAP](https://edden-gerber.github.io/shapley-part-1/)
-- [Part II: The Naïve Shapley method](https://edden-gerber.github.io/shapley-part-2/)
+  - [Part I: Intro to Shapley and SHAP](https://edden-gerber.github.io/shapley-part-1/)
+  - [Part II: The Naïve Shapley method](https://edden-gerber.github.io/shapley-part-2/)
 - [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808) <!--- comment -->
 - [How to avoid machine learning pitfalls: a guide for academic researchers by Michael A. Lones](https://arxiv.org/abs/2108.02497)
 - [Core Machine Learning Skills](https://neetcode.io/practice?subpage=practice&tab=coreSkills&topic=Machine%20Learning)
