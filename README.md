@@ -412,11 +412,11 @@ List of questions with patterns + tips
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/index.html) by Max Kuhn and Kjell Johnson <!--- comment -->
 - [Clean Machine Learning Code](https://leanpub.com/cleanmachinelearningcode)
 - [Interpreting Machine Learning Models With SHAP: A Guide With Python Examples And Theory On Shapley Values](https://www.amazon.com/dp/B0CHL7W1DL)
-- [Interpretable Machine Learning. A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
+- [Interpretable Machine Learning. A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) <!--- comment -->
 - [Machine Learning Q and AI. Expand Your Machine Learning & AI Knowledge With 30 In-Depth Questions and Answers by Sebastian Raschka](https://leanpub.com/machine-learning-q-and-ai/)
 - [Reliable Machine Learning: Applying SRE Principles to ML in Production by Cathy Chen](https://www.amazon.com/Reliable-Machine-Learning-Principles-Production/dp/1098106229/ref=sr_1_9?crid=2LKWLWL9VVED7&keywords=SRE&qid=1677242699&sprefix=sre%2Caps%2C244&sr=8-9)
 - [Machine Learning Refined: Foundations, Algorithms, and Applications](https://www.amazon.com/Machine-Learning-Refined-Foundations-Applications/dp/1107123526)
-- [Models Demystified. A Practical Guide from t-tests to Deep Learning](https://m-clark.github.io/book-of-models/) by Michael Clark & Seth Berry
+- [Models Demystified. A Practical Guide from Linear Regression to Deep Learning](https://m-clark.github.io/book-of-models/)  <!--- comment -->
 - [Machine Learning from Scratch. Derivations in Concept and Code](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [Supervised Machine Learning for Science by Christoph Molnar & Timo Freiesleben](https://ml-science-book.com)
 - [Machine Learning Refined: Notes, Exercises, Presentations, and Sample Chapters](https://github.com/neonwatty/machine_learning_refined)
@@ -563,7 +563,7 @@ List of questions with patterns + tips
 - [The Little Book of Deep Learning by François Fleuret](https://fleuret.org/francois/lbdl.html) <!--- comment -->
 - [Deep Learning with Python by François Chollet](https://www.manning.com/books/deep-learning-with-python-second-edition) <!--- comment -->
 - [Multimodal Deep Learning](https://slds-lmu.github.io/seminar_multimodal_dl/index.html)
-- [Dive into Deep Learning](https://d2l.ai/index.html)
+- [Dive into Deep Learning](https://d2l.ai/index.html) <!--- comment -->
 I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter_appendix-tools-for-deep-learning/sagemaker.html) <!--- comment -->
 - [Understanding Deep Learning by Simon J.D. Prince](https://udlbook.github.io/udlbook/) <!--- comment -->
 - [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org)
