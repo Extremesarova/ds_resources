@@ -400,6 +400,7 @@ List of questions with patterns + tips
 - [Introduction to Machine Learning (I2ML)](https://slds-lmu.github.io/i2ml/) <!--- comment -->
 - [MACHINE LEARNING @ VU](https://mlvu.github.io) <!--- comment -->
 - [Practical Machine Learning](https://practical-ml-fmi.github.io/ML/)
+- [Machine Learning Engineer Learning Path](https://www.cloudskillsboost.google/paths/17)
 
 <!-- omit in toc -->
 ### Books
@@ -609,6 +610,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Introduction to Deep Learning (I2DL) (IN2346)](https://niessner.github.io/I2DL/)
 - [CS 886: Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
 - [DEEP LEARNING COURSE](https://fleuret.org/dlc/)
+- [CS236 Deep Generative Models](https://deepgenerativemodels.github.io)
 
 <!-- omit in toc -->
 ### Tutorials
@@ -729,6 +731,8 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Building LLMs from the Ground Up: A 3-hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
 - [AI Prompt Engineering: A Deep Dive](https://www.youtube.com/watch?app=desktop&v=T9aRN5JkmL8)
 - [LLM Resources Hub](https://llmresourceshub.vercel.app)
+- [🤗 AI Agents Course by Hugging Face](https://huggingface.co/learn/agents-course) <!--- comment -->
+- [LLM Engineering Essentials](https://academy.nebius.com/llm-engineering-essentials/)
 
 <!-- omit in toc -->
 ### Embeddings
@@ -746,6 +750,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Reimagine Research](https://www.researchrabbit.ai)
 - [Discover scientific knowledge and stay connected to the world of science](https://www.researchgate.net)
 - [Get scientific answers by asking millions of research papers](https://scienceos.ai)
+- [Otio](https://otio.ai/?ref=poonam&trk=feed_main-feed-card-text)
 
 <!-- omit in toc -->
 ### Prompt Engineering
@@ -932,6 +937,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [ML System Design by Machine Learning REPA](https://github.com/mlrepa/ml-system-design)
 - [ML for Developers](https://madewithml.com/#mlops)  
 - [Machine Learning System Design Doc Examples](https://github.com/ML-SystemDesign/MLSystemDesign)
+- [Machine Learning in Production by Carnegie Mellon University](https://mlip-cmu.github.io/s2025/) <!--- comment -->
 
 ## Math
 
@@ -1020,3 +1026,4 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 ## Other
 
 - [Interactive Tools for Machine Learning, Deep Learning, and Math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools?tab=readme-ov-file)
+- [Ilya Sutskever’s Reading List](https://vinija.ai/nlp/papers/#introduction)
