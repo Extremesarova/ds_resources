@@ -579,7 +579,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 ### Courses
 
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-- [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
+- [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) <!--- comment -->
 - [Full Stack Deep Learning - Course 2022](https://fullstackdeeplearning.com/course/2022/) <!--- comment -->
 - [11-785 Introduction to Deep Learning from Carnegie Mellon University](https://www.youtube.com/playlist?list=PLp-0K3kfddPxRmjgjm0P1WT6H-gTqE8j9)
 - [Neuromatch Academy: Deep Learning](https://deeplearning.neuromatch.io/tutorials/intro.html)
