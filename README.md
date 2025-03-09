@@ -79,6 +79,7 @@ For interview preparation and learning
 - [63 Must-Know LLMs Interview Questions](https://github.com/Devinterview-io/llms-interview-questions)
 - [100 вопросов про NLP](https://dynamic-epoch-4bb.notion.site/100-questions-about-NLP-549ccde0d81a4689b5635888b9d0d7e6)
 - [50 NLP (Natural Language Processing) interview questions 2024](https://github.com/masmahbubalom/InterviewQuestions/tree/main/NLP%20Interview%20Questions)
+- [LLM (ML) Job Interviews - Resources](https://mimansajaiswal.github.io/posts/llm-ml-job-interviews-resources/)
 
 <!-- omit in toc -->
 #### Programming
@@ -277,6 +278,7 @@ List of questions with patterns + tips
 
 - [Как проходят алгоритмические секции на собеседованиях в Яндекс](https://habr.com/ru/companies/yandex/articles/449890/)
 - [How to effectively use LeetCode to prepare for interviews](https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews)
+- [How To Answer Algorithm Interview Questions? The REACTO Method](https://medium.com/sounds-klever/how-to-answer-algorithm-interview-questions-the-reacto-method-389a0be47d2f)
 
 <!-- omit in toc -->
 ### Books
@@ -733,6 +735,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [LLM Resources Hub](https://llmresourceshub.vercel.app)
 - [🤗 AI Agents Course by Hugging Face](https://huggingface.co/learn/agents-course) <!--- comment -->
 - [LLM Engineering Essentials](https://academy.nebius.com/llm-engineering-essentials/)
+- [Hugging Face Reasoning Course](https://huggingface.co/reasoning-course?trk=feed-detail_main-feed-card-text)
 
 <!-- omit in toc -->
 ### Embeddings
@@ -914,6 +917,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Awesome System Design](https://github.com/madd86/awesome-system-design)
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 - [System Design Fight Club](https://github.com/systemdesignfightclub/SDFC)
+- [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when) <!--- comment -->
 
 ## Machine Learning System Design
 
@@ -938,6 +942,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [ML for Developers](https://madewithml.com/#mlops)  
 - [Machine Learning System Design Doc Examples](https://github.com/ML-SystemDesign/MLSystemDesign)
 - [Machine Learning in Production by Carnegie Mellon University](https://mlip-cmu.github.io/s2025/) <!--- comment -->
+- [Crack ML System Design Interviews Like a Pro](https://www.mlwhiz.com/p/crack-ml-system-design-interviews?trk=feed_main-feed-card_feed-article-content)
 
 ## Math
 
