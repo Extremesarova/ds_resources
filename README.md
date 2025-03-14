@@ -311,11 +311,11 @@ List of questions with patterns + tips
 - [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
 - [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/) <!--- comment -->
 - [Python Tutorial for Beginners (with mini-projects)](https://www.youtube.com/watch?v=qwAFL1597eM)
-- [What the f*ck Python! Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
+- [What the f*ck Python! Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython) <!--- comment -->
 - [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
 - [Python Koans. An interactive tutorial for learning the Python programming language by making tests pass](https://github.com/gregmalcolm/python_koans)
 - [Full Speed Python. Learning Python using a practical approach](https://github.com/joaoventura/full-speed-python?tab=readme-ov-file)
-- [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org)
+- [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org) <!--- comment -->
 - [A collection of design patterns and idioms in Python](https://github.com/faif/python-patterns)
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/cheatsheet/basics)
 - [Write faster Python code, and ship your code faster](https://pythonspeed.com) <!--- comment -->
@@ -569,7 +569,7 @@ List of questions with patterns + tips
 - [Dive into Deep Learning](https://d2l.ai/index.html) <!--- comment -->
 I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter_appendix-tools-for-deep-learning/sagemaker.html) <!--- comment -->
 - [Understanding Deep Learning by Simon J.D. Prince](https://udlbook.github.io/udlbook/) <!--- comment -->
-- [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org)
+- [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org) <!--- comment -->
 - [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD by Jeremy Howard and Sylvain Gugger](https://course.fast.ai/Resources/book.html)
 - [Deep Learning. Foundations and Concepts by Chris Bishop and Hugh Bishop](https://www.bishopbook.com)
 - [Mastering PyTorch by Ashish Ranjan Jha](https://www.oreilly.com/library/view/mastering-pytorch/9781801074308/?_gl=1*10hryeg*_ga*MTc1MTUyNjI1OS4xNzI0MjMyMzk4*_ga_092EL089CH*MTcyNDIzMjM5OC4xLjEuMTcyNDIzMjQyMy4zNS4wLjA)
@@ -837,7 +837,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 ## Reinforcement Learning
 
 - [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/index.html) <!--- comment -->
-- [🤗 Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+- [🤗 Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction) <!--- comment -->
 - [Practical RL](https://github.com/yandexdataschool/Practical_RL)
 
 ## RecSys
@@ -884,8 +884,8 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 <!-- omit in toc -->
 ### Books
 
-- Перрен Ж.Ж. [Spark в действии](https://dmkpress.com/catalog/computer/data/978-5-97060-879-1/) / [Spark in Action](https://www.manning.com/books/spark-in-action-second-edition) by Jean-Georges Perrin
-- [Learning Spark](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf)
+- Перрен Ж.Ж. [Spark в действии](https://dmkpress.com/catalog/computer/data/978-5-97060-879-1/) / [Spark in Action](https://www.manning.com/books/spark-in-action-second-edition) by Jean-Georges Perrin <!--- comment -->
+- [Learning Spark](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf) <!--- comment -->
 - [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark) <!--- comment -->
 
 <!-- omit in toc -->
