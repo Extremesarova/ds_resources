@@ -546,7 +546,7 @@ List of questions with patterns + tips
 - [Build your MLOps stack](https://mymlops.com/)
 - [MLOps и production подход к ML исследованиям](https://ods.ai/tracks/ml-in-production-spring-22)
 - [MLOps Guide](https://mlops-guide.github.io/) <!--- comment -->
-- [MLOps guide by Chip Hyyen](https://huyenchip.com/mlops/)
+- [MLOps guide by Chip Hyyen](https://huyenchip.com/mlops/) <!--- comment -->
 - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) <!--- comment -->
 - MLOps и production подход к ML исследованиям 2.0: [Видео](https://www.youtube.com/playlist?app=desktop&list=PLUJY3Hn1BMCIiVRaQyKDA_molGS3-R1d_) + [Курс](https://ods.ai/tracks/ml-in-production-spring-23)
 - [THE ULTIMATE DOCKER COMPOSE CHEAT SHEET](https://devopscycle.com/blog/the-ultimate-docker-compose-cheat-sheet/)
@@ -619,7 +619,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 
 - [Introduction to Deep Learning by Sebastian Raschka](https://sebastianraschka.com/blog/2021/dl-course.html#l19-self-attention-and-transformer-networks)
 - [Коллекция ручных задачек о нейросетях](https://fulyankin.github.io/deep_learning_masha_book/intro.html)
-- [A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks by Sebastian Raschka](https://github.com/rasbt/deeplearning-models)
+- [A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks by Sebastian Raschka](https://github.com/rasbt/deeplearning-models) <!--- comment -->
 - [Deep Learning Tuning Playbook by Google](https://github.com/google-research/tuning_playbook)
 - [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 - [PyTorch Fundamentals by Microsoft](https://learn.microsoft.com/en-us/training/paths/pytorch-fundamentals/?wt.mc_id=aiml-26954-cxa)
@@ -640,6 +640,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Cтатьи от команды DeepSchool](https://deepschool-pro.notion.site/9a613d3c8d3644faa8e396bd083f2bc2?v=524b15c7ce9f49d094f94cd699c2c621)
 - [Полезные материалы про PyTorch](https://telegra.ph/PyTorch-i-okolo-nego-04-12)
 - [AstraBlog](https://astralord.github.io)
+- [PyTorch internals](https://blog.ezyang.com/2019/05/pytorch-internals/)
 
 <!-- omit in toc -->
 ### Other
