@@ -314,7 +314,7 @@ List of questions with patterns + tips
 - [What the f*ck Python! Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython) <!--- comment -->
 - [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
 - [Python Koans. An interactive tutorial for learning the Python programming language by making tests pass](https://github.com/gregmalcolm/python_koans)
-- [Full Speed Python. Learning Python using a practical approach](https://github.com/joaoventura/full-speed-python?tab=readme-ov-file)
+- [Full Speed Python. Learning Python using a practical approach](https://github.com/joaoventura/full-speed-python?tab=readme-ov-file) <!--- comment -->
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org) <!--- comment -->
 - [A collection of design patterns and idioms in Python](https://github.com/faif/python-patterns)
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/cheatsheet/basics)
@@ -571,7 +571,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Understanding Deep Learning by Simon J.D. Prince](https://udlbook.github.io/udlbook/) <!--- comment -->
 - [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org) <!--- comment -->
 - [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD by Jeremy Howard and Sylvain Gugger](https://course.fast.ai/Resources/book.html)
-- [Deep Learning. Foundations and Concepts by Chris Bishop and Hugh Bishop](https://www.bishopbook.com)
+- [Deep Learning. Foundations and Concepts by Chris Bishop and Hugh Bishop](https://www.bishopbook.com) <!--- comment -->
 - [Mastering PyTorch by Ashish Ranjan Jha](https://www.oreilly.com/library/view/mastering-pytorch/9781801074308/?_gl=1*10hryeg*_ga*MTc1MTUyNjI1OS4xNzI0MjMyMzk4*_ga_092EL089CH*MTcyNDIzMjM5OC4xLjEuMTcyNDIzMjQyMy4zNS4wLjA)
 - [The Tensor Cookbook by Thomas Dybdahl Ahle](https://tensorcookbook.com)
 - [Deep Learning and Computational Physics](https://arxiv.org/pdf/2301.00942v1)
@@ -588,7 +588,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Efficient Deep Learning Systems by Yandex School of Data Analysis](https://github.com/mryab/efficient-dl-systems)
 - [Short Courses by DeepLearning.AI](https://www.deeplearning.ai/short-courses/) <!--- comment -->
 - [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940) <!--- comment -->
-- [Practical Deep Learning](https://course.fast.ai/)
+- [Practical Deep Learning](https://course.fast.ai/) <!--- comment -->
 - [Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html)
 - [PyTorch for Deep Learning & Machine Learning (video)](https://www.youtube.com/watch?v=V_xro1bcAuA) + [Learn PyTorch for Deep Learning: Zero to Mastery book (site)](https://www.learnpytorch.io/)
 - [Deep Learning Fundamentals by Sebastian Raschka and Lightning AI](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
@@ -957,6 +957,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Mathematics for Machine Learning](https://mml-book.github.io) <!--- comment -->
 - [The Complete Mathematics of Neural Networks and Deep Learning](https://www.youtube.com/watch?app=desktop&v=Ixl3nykKG9M)
 - [Математика для анализа данных](https://education.yandex.ru/handbook/math)
+- [Pen and Paper Exercises in Machine Learning by Michael Gutmann](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) <!--- comment -->
 
 <!-- omit in toc -->
 ### Linear Algebra
