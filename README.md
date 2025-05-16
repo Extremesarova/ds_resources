@@ -403,13 +403,14 @@ List of questions with patterns + tips
 - [MACHINE LEARNING @ VU](https://mlvu.github.io) <!--- comment -->
 - [Practical Machine Learning](https://practical-ml-fmi.github.io/ML/)
 - [Machine Learning Engineer Learning Path](https://www.cloudskillsboost.google/paths/17)
+- [Machine Learning Course Notes](https://github.com/dair-ai/ml-course-notes)
 
 <!-- omit in toc -->
 ### Books
 
 - [Учебник по машинному обучению от ШАД](https://education.yandex.ru/handbook/ml/)
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani <!--- comment -->
-- [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
+- [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani, Jerome Friedman <!--- comment -->
 - [Machine Learning Simplified: A gentle introduction to supervised learning](https://themlsbook.com/read) by Andrew Wolf <!--- comment -->
 - [The Kaggle Book](https://www.kaggle.com/discussions/general/320574) <!--- comment -->
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/index.html) by Max Kuhn and Kjell Johnson <!--- comment -->
@@ -988,7 +989,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2024?tab=readme-ov-file)
 - [Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks by Will Kurt](https://www.amazon.com/Bayesian-Statistics-Fun-Will-Kurt/dp/1593279566)
 - [Seeing theory. A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html) <!--- comment -->
-- [The Book of Statistical Proofs](https://statproofbook.github.io/)
+- [The Book of Statistical Proofs](https://statproofbook.github.io/) <!--- comment -->
 - [Lessons in Statistical Thinking by Daniel Kaplan](https://dtkaplan.github.io/Lessons-in-statistical-thinking/) <!--- comment -->
 - [Прикладная статистика](https://www.youtube.com/@user-bg8cd4fn7d/playlists)
 - [Statistics For Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) + [Video](https://www.youtube.com/playlist?app=desktop&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
