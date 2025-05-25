@@ -419,11 +419,10 @@ List of questions with patterns + tips
 - [Interpretable Machine Learning. A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) <!--- comment -->
 - [Machine Learning Q and AI. Expand Your Machine Learning & AI Knowledge With 30 In-Depth Questions and Answers by Sebastian Raschka](https://leanpub.com/machine-learning-q-and-ai/)
 - [Reliable Machine Learning: Applying SRE Principles to ML in Production by Cathy Chen](https://www.amazon.com/Reliable-Machine-Learning-Principles-Production/dp/1098106229/ref=sr_1_9?crid=2LKWLWL9VVED7&keywords=SRE&qid=1677242699&sprefix=sre%2Caps%2C244&sr=8-9)
-- [Machine Learning Refined: Foundations, Algorithms, and Applications](https://www.amazon.com/Machine-Learning-Refined-Foundations-Applications/dp/1107123526)
 - [Models Demystified. A Practical Guide from Linear Regression to Deep Learning](https://m-clark.github.io/book-of-models/)  <!--- comment -->
-- [Machine Learning from Scratch. Derivations in Concept and Code](https://dafriedman97.github.io/mlbook/content/introduction.html)
-- [Supervised Machine Learning for Science by Christoph Molnar & Timo Freiesleben](https://ml-science-book.com)
-- [Machine Learning Refined: Notes, Exercises, Presentations, and Sample Chapters](https://github.com/neonwatty/machine_learning_refined)
+- [Machine Learning from Scratch. Derivations in Concept and Code](https://dafriedman97.github.io/mlbook/content/introduction.html) <!--- comment -->
+- [Supervised Machine Learning for Science by Christoph Molnar & Timo Freiesleben](https://ml-science-book.com) <!--- comment -->
+- [Machine Learning Refined: Notes, Exercises, Presentations, and Sample Chapters](https://github.com/neonwatty/machine_learning_refined) <!--- comment -->
 - [Дьяконов А.Г. "Машинное обучение и анализ данных"](https://github.com/Dyakonov/MLDM_BOOK)
 - [Виктор Владимирович Китов. Машинное обучение](https://deepmachinelearning.ru/docs/Machine-learning/book-title)
 
