@@ -443,7 +443,7 @@ List of questions with patterns + tips
 - [ML Papers of The Week by DAIR.AI](https://github.com/dair-ai/ML-Papers-of-the-Week)
 - [word2vec Parameter Learning Explained](https://arxiv.org/pdf/1411.2738.pdf)
 - [Ilya 30u30](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
-- [Introduction to Machine Learning by Laurent Younes](https://arxiv.org/pdf/2409.02668)
+- [Introduction to Machine Learning by Laurent Younes](https://arxiv.org/pdf/2409.02668) <!--- comment -->
 - [A Comprehensive Benchmark of Machine and Deep Learning Across Diverse Tabular Datasets](https://arxiv.org/pdf/2408.14817)
 
 <!-- omit in toc -->
@@ -565,7 +565,7 @@ List of questions with patterns + tips
 
 - [The Little Book of Deep Learning by François Fleuret](https://fleuret.org/francois/lbdl.html) <!--- comment -->
 - [Deep Learning with Python by François Chollet](https://www.manning.com/books/deep-learning-with-python-second-edition) <!--- comment -->
-- [Multimodal Deep Learning](https://slds-lmu.github.io/seminar_multimodal_dl/index.html)
+- [Multimodal Deep Learning](https://slds-lmu.github.io/seminar_multimodal_dl/index.html) <!--- comment -->
 - [Dive into Deep Learning](https://d2l.ai/index.html) <!--- comment -->
 I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter_appendix-tools-for-deep-learning/sagemaker.html) <!--- comment -->
 - [Understanding Deep Learning by Simon J.D. Prince](https://udlbook.github.io/udlbook/) <!--- comment -->
@@ -573,7 +573,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD by Jeremy Howard and Sylvain Gugger](https://course.fast.ai/Resources/book.html)
 - [Deep Learning. Foundations and Concepts by Chris Bishop and Hugh Bishop](https://www.bishopbook.com) <!--- comment -->
 - [Mastering PyTorch by Ashish Ranjan Jha](https://www.oreilly.com/library/view/mastering-pytorch/9781801074308/?_gl=1*10hryeg*_ga*MTc1MTUyNjI1OS4xNzI0MjMyMzk4*_ga_092EL089CH*MTcyNDIzMjM5OC4xLjEuMTcyNDIzMjQyMy4zNS4wLjA)
-- [The Tensor Cookbook by Thomas Dybdahl Ahle](https://tensorcookbook.com)
+- [The Tensor Cookbook by Thomas Dybdahl Ahle](https://tensorcookbook.com) <!--- comment -->
 - [Deep Learning and Computational Physics](https://arxiv.org/pdf/2301.00942v1)
 - [Виктор Владимирович Китов. Глубокое обучение](https://deepmachinelearning.ru/docs/Neural-networks/book-title)
 
