@@ -602,7 +602,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [CS 330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
 - [Deep Learning with Catalyst](https://github.com/catalyst-team/dl-course)
 - [Practical DL](https://github.com/yandexdataschool/Practical_DL)
-- [Deep Learning from the Foundations by fast.ai](https://course19.fast.ai/part2.html)
+- [Deep Learning from the Foundations by fast.ai](https://course19.fast.ai/part2.html) <!--- comment -->
 - [PyTorch Tutorials - Complete Beginner Course](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
 - [Школа глубокого обучения](https://dls.samcs.ru/)
 - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) by Andrej Karpathy <!--- comment -->
@@ -856,7 +856,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 ### Books
 
 - К. Фальк. [Рекомендательные системы на практике](https://dmkpress.com/catalog/computer/data/978-5-97060-774-9/) / [Practical Recommender Systems](https://www.manning.com/books/practical-recommender-systems) by Kim Falk <!--- comment -->
-- [Personalized Machine Learning](https://cseweb.ucsd.edu/~jmcauley/pml/)
+- [Personalized Machine Learning](https://cseweb.ucsd.edu/~jmcauley/pml/) <!--- comment -->
 
 <!-- omit in toc -->
 ### Other
