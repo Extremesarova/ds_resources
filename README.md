@@ -316,7 +316,7 @@ List of questions with patterns + tips
 - [Python Koans. An interactive tutorial for learning the Python programming language by making tests pass](https://github.com/gregmalcolm/python_koans)
 - [Full Speed Python. Learning Python using a practical approach](https://github.com/joaoventura/full-speed-python?tab=readme-ov-file) <!--- comment -->
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org) <!--- comment -->
-- [A collection of design patterns and idioms in Python](https://github.com/faif/python-patterns)
+- [A collection of design patterns and idioms in Python](https://github.com/faif/python-patterns) <!--- comment -->
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/cheatsheet/basics)
 - [Write faster Python code, and ship your code faster](https://pythonspeed.com) <!--- comment -->
 
@@ -533,7 +533,7 @@ List of questions with patterns + tips
   - [Part I: Intro to Shapley and SHAP](https://edden-gerber.github.io/shapley-part-1/)
   - [Part II: The Naïve Shapley method](https://edden-gerber.github.io/shapley-part-2/)
 - [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808) <!--- comment -->
-- [How to avoid machine learning pitfalls: a guide for academic researchers by Michael A. Lones](https://arxiv.org/abs/2108.02497)
+- [How to avoid machine learning pitfalls: a guide for academic researchers by Michael A. Lones](https://arxiv.org/abs/2108.02497) <!--- comment -->
 - [Core Machine Learning Skills](https://neetcode.io/practice?subpage=practice&tab=coreSkills&topic=Machine%20Learning)
 - [Discover machine learning, data science & robotics competitions](https://mlcontests.com)
 
