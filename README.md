@@ -590,8 +590,8 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940) <!--- comment -->
 - [Practical Deep Learning](https://course.fast.ai/) <!--- comment -->
 - [Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html)
-- [PyTorch for Deep Learning & Machine Learning (video)](https://www.youtube.com/watch?v=V_xro1bcAuA) + [Learn PyTorch for Deep Learning: Zero to Mastery book (site)](https://www.learnpytorch.io/)
-- [Deep Learning Fundamentals by Sebastian Raschka and Lightning AI](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
+- [PyTorch for Deep Learning & Machine Learning (video)](https://www.youtube.com/watch?v=V_xro1bcAuA) + [Learn PyTorch for Deep Learning: Zero to Mastery book (site)](https://www.learnpytorch.io/) <!--- comment -->
+- [Deep Learning Fundamentals by Sebastian Raschka and Lightning AI](https://lightning.ai/pages/courses/deep-learning-fundamentals/) <!--- comment -->
 - [Future of AI is Foundation Models & Self-Supervised Learning](https://www.futureofai.mit.edu/)
 - [Artificial Intelligence for Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S24/index.html) + [11785 Spring 2024 Lectures](https://www.youtube.com/playlist?list=PLp-0K3kfddPxUJzAW0KxNNjGiK_hISFas)
