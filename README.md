@@ -770,7 +770,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Prompt engineering Guide by Open.ai](https://platform.openai.com/docs/guides/prompt-engineering) <!--- comment -->
 - [Prompt Of The Year: 2023](https://github.com/successfulstudy/promptoftheyear/tree/main)
 - [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
-- [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608)
+- [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608) <!--- comment -->
 - [Prompt Engineering Guide by Antrophic](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 
 <!-- omit in toc -->
@@ -969,7 +969,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Linear Algebra for Data Science](https://www.youtube.com/playlist?app=desktop&list=PLB3yPBd26tWyDNoUpEGVsyI-sygPLqYa1)
 - [immersive linear algebra by J. Ström, K. Åström, and T. Akenine-Möller](https://immersivemath.com/ila/index.html) <!--- comment -->
 - [Linear Algebra Review and Reference by Zico Kolter](https://cs229.stanford.edu/lectures-spring2022/cs229-linear_algebra_review.pdf)
-- [Linear Algebra for Data Science](https://kyunghyuncho.me/linear-algebra-for-data-science/)
+- [Linear Algebra for Data Science](https://kyunghyuncho.me/linear-algebra-for-data-science/) <!--- comment -->
 
 <!-- omit in toc -->
 ### Probability and Statistics
