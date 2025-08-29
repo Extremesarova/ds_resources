@@ -286,7 +286,7 @@ List of questions with patterns + tips
 - [Grokking Algorithms. An illustrated guide for programmers and other curious people](https://www.manning.com/books/grokking-algorithms) <!--- comment -->
 - [Elements of Programming Interviews in Python: The Insiders' Guide](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
-- [Problem Solving with Algorithms and Data Structures using Python by Brad Miller and David Ranum, Luther College](https://runestone.academy/ns/books/published/pythonds/index.html)
+- [Problem Solving with Algorithms and Data Structures using Python by Brad Miller and David Ranum, Luther College](https://runestone.academy/ns/books/published/pythonds/index.html) <!--- comment -->
 - [Competitive Programmer's Handbook by Antti Laaksonen](https://cses.fi/book/book.pdf) <!--- comment -->
 - [Competitive Programming by Steven Halim](https://www.amazon.com/Competitive-Programming-4-Book-2/dp/B093K67NVN?crid=C4TR8FKXSWW1&keywords=competitive+programming+4&qid=1654975173&sprefix=competitive+programming+4,aps,131&sr=8-1&linkCode=sl1&tag=alexcancode0d-20&linkId=014a5744e277b65b2a6251d9884c031d&language=en_US&ref_=as_li_ss_tl)
 
@@ -487,6 +487,7 @@ List of questions with patterns + tips
 - [featurewiz is the best feature selection library for boosting your machine learning performance with minimal effort and maximum relevance using the famous MRMR algorithm](https://github.com/AutoViML/featurewiz)
 - [Feature Ranking and Selection](https://www.youtube.com/watch?app=desktop&v=u7TVqtW7jM0)
 - [Feature Engineering A-Z](https://feaz-book.com) <!--- comment -->
+- [Feature Selection in Machine Learning by Soledad Galli](https://leanpub.com/feature-selection-in-machine-learning?trk=feed_main-feed-card_comment-text) <!--- comment -->
 
 <!-- omit in toc -->
 #### Tutorials
@@ -574,7 +575,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Deep Learning. Foundations and Concepts by Chris Bishop and Hugh Bishop](https://www.bishopbook.com) <!--- comment -->
 - [Mastering PyTorch by Ashish Ranjan Jha](https://www.oreilly.com/library/view/mastering-pytorch/9781801074308/?_gl=1*10hryeg*_ga*MTc1MTUyNjI1OS4xNzI0MjMyMzk4*_ga_092EL089CH*MTcyNDIzMjM5OC4xLjEuMTcyNDIzMjQyMy4zNS4wLjA)
 - [The Tensor Cookbook by Thomas Dybdahl Ahle](https://tensorcookbook.com) <!--- comment -->
-- [Deep Learning and Computational Physics](https://arxiv.org/pdf/2301.00942v1)
+- [Deep Learning and Computational Physics](https://arxiv.org/pdf/2301.00942v1) <!--- comment -->
 - [Виктор Владимирович Китов. Глубокое обучение](https://deepmachinelearning.ru/docs/Neural-networks/book-title)
 
 <!-- omit in toc -->
