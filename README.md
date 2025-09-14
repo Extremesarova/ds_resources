@@ -356,7 +356,7 @@ List of questions with patterns + tips
 - [Проектирование баз данных](https://stepik.org/course/51675/info)
 - [PostgreSQL Tutorial for Beginners](https://www.youtube.com/watch?v=SpfIwlAYaKk)
 - [Оконные функции SQL](https://stepik.org/course/95367/promo)
-- [SQL Tutorial](https://mode.com/sql-tutorial/)
+- [SQL Tutorial](https://mode.com/sql-tutorial/) <!--- comment -->
 - [The Ultimate SQL Guide](https://blog.count.co/the-ultimate-sql-guide/) <!--- comment -->
 
 <!-- omit in toc -->
