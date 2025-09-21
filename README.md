@@ -8,6 +8,7 @@ For interview preparation and learning
 - [Interview Preparation](#interview-preparation)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Python](#python)
+  - [Courses](#courses-3)
 - [SQL](#sql-1)
 - [Machine Learning](#machine-learning-1)
 - [MLOps](#mlops)
@@ -292,6 +293,18 @@ List of questions with patterns + tips
 
 ## Python
 
+### Courses
+
+- [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/) <!--- comment -->
+- [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/) <!--- comment -->
+- [Основы Python](https://education.yandex.ru/handbook/python)
+- [Python: основы и применение](https://stepik.org/course/512/info)
+- [Программирование на Python](https://stepik.org/course/67/info)
+- Поколение Python:
+  - [Курс для начинающих](https://stepik.org/course/58852)
+  - [Курс для продвинутых](https://stepik.org/course/68343)
+  - [Курс для профессионалов](https://stepik.org/course/82541)
+
 <!-- omit in toc -->
 ### Clean Code
 
@@ -301,15 +314,6 @@ List of questions with patterns + tips
 <!-- omit in toc -->
 ### Theory
 
-- [Основы Python](https://education.yandex.ru/handbook/python)
-- [Python: основы и применение](https://stepik.org/course/512/info)
-- [Программирование на Python](https://stepik.org/course/67/info)
-- Поколение Python:
-  - [Курс для начинающих](https://stepik.org/course/58852)
-  - [Курс для продвинутых](https://stepik.org/course/68343)
-  - [Курс для профессионалов](https://stepik.org/course/82541)
-- [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
-- [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/) <!--- comment -->
 - [Python Tutorial for Beginners (with mini-projects)](https://www.youtube.com/watch?v=qwAFL1597eM)
 - [What the f*ck Python! Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython) <!--- comment -->
 - [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
@@ -358,6 +362,7 @@ List of questions with patterns + tips
 - [Оконные функции SQL](https://stepik.org/course/95367/promo)
 - [SQL Tutorial](https://mode.com/sql-tutorial/) <!--- comment -->
 - [The Ultimate SQL Guide](https://blog.count.co/the-ultimate-sql-guide/) <!--- comment -->
+- [CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/sql/)
 
 <!-- omit in toc -->
 ### Practice
