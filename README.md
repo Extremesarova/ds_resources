@@ -535,9 +535,9 @@ List of questions with patterns + tips
 ### Other
 
 - [StatQuest with Josh Starmer](https://www.youtube.com/@statquest/videos) <!--- comment -->
-- A new perspective on Shapley values:
-  - [Part I: Intro to Shapley and SHAP](https://edden-gerber.github.io/shapley-part-1/)
-  - [Part II: The Naïve Shapley method](https://edden-gerber.github.io/shapley-part-2/)
+- A new perspective on Shapley values: <!--- comment -->
+  - [Part I: Intro to Shapley and SHAP](https://edden-gerber.github.io/shapley-part-1/) <!--- comment -->
+  - [Part II: The Naïve Shapley method](https://edden-gerber.github.io/shapley-part-2/) <!--- comment -->
 - [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808) <!--- comment -->
 - [How to avoid machine learning pitfalls: a guide for academic researchers by Michael A. Lones](https://arxiv.org/abs/2108.02497) <!--- comment -->
 - [Core Machine Learning Skills](https://neetcode.io/practice?subpage=practice&tab=coreSkills&topic=Machine%20Learning)
