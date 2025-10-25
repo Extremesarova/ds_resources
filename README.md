@@ -1042,3 +1042,4 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 
 - [Interactive Tools for Machine Learning, Deep Learning, and Math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools?tab=readme-ov-file)
 - [Ilya Sutskever’s Reading List](https://vinija.ai/nlp/papers/#introduction)
+- [Robotics Course by Hugging Face](https://huggingface.co/robotics-course) <!--- comment -->
