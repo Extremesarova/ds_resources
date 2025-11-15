@@ -833,7 +833,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 ## Computer Vision
 
 - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/info)
-- [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/schedule.html) + [Videos](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&ab_channel=StanfordUniversitySchoolofEngineering)
+- [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/schedule.html) + [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) <!--- comment -->
 - [EECS 442: Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/) + [Videos](https://m.bilibili.com/video/BV1BV411n7Km)
 - [Foundations of Computer Vision by Antonio Torralba, Phillip Isola and William T. Freeman](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/)
 
@@ -940,10 +940,10 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Почему анализ ошибок – это начало разработки ML системы, а не конец?](https://habr.com/ru/articles/760550/#)
 - [ML Systems Design Interview Guide](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
 - [Machine Learning System Design by Valerii Babushkin and Arseny Kravchenko](https://www.manning.com/books/machine-learning-system-design) <!--- comment -->
-- [Designing Machine Learning Systems by Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
+- [Designing Machine Learning Systems by Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) <!--- comment -->
 - [Machine Learning Engineering Online Book](https://github.com/stas00/ml-engineering) <!--- comment -->
-- [ML system design: 500 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
-- [Machine Learning System Design Interview by Ali Aminian, Alex Xu](https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127) + [Solutions](https://leetcode.com/discuss/interview-question/system-design/3133672/New-Book-by-Alex-Xu-or-Machine-Learning-System-Design-My-Solutions)
+- [ML system design: 500 case studies to learn from](https://www.evidentlyai.com/ml-system-design) <!--- comment -->
+- [Machine Learning System Design Interview by Ali Aminian, Alex Xu](https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127) + [Solutions](https://leetcode.com/discuss/interview-question/system-design/3133672/New-Book-by-Alex-Xu-or-Machine-Learning-System-Design-My-Solutions) <!--- comment -->
 - [The 9-Step ML System Design Formula](https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLSD/ml-system-design.md)
 - CSCE 585 Machine Learning Systems: [Lectures](https://pooyanjamshidi.github.io/mls/lectures/) + [Video](https://www.youtube.com/playlist?app=desktop&list=PLtkQf9LiEmLFS56WTpRJ3PZwwCYyi2Cdu)
 - [Machine Learning in Production: From Models to Products](https://mlip-cmu.github.io/book/#machine-learning-in-production-from-models-to-products)
