@@ -1016,6 +1016,11 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 ### A/B Tests
 
 <!-- omit in toc -->
+#### Courses
+
+- [A/B TESTING](https://www.lektorium.tv/ab-test)
+
+<!-- omit in toc -->
 #### General
 
 - [Trustworthy Online Controlled Experiments by Ron Kohavi](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264) <!--- comment -->
