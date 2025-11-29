@@ -999,7 +999,6 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Прикладная статистика](https://www.youtube.com/@user-bg8cd4fn7d/playlists)
 - [Statistics For Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) + [Video](https://www.youtube.com/playlist?app=desktop&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 - [Вся основная теория по A/B-экспериментам](https://colab.research.google.com/drive/1_CY_8DJRLm70gl9RjTz1vmPoLMwCeT0u?usp=sharing)
-- [Курс по Прикладной статистике от Академии Аналитиков Авито](https://avito.tech/education/statistics)
 - [Statistics 110: Probability](https://www.youtube.com/playlist?app=desktop&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 - [Introduction to Statistical Learning using Python](https://r4ds.github.io/bookclub-islp/)
 - [Economertrics Notes by Peter Hull](https://sites.google.com/site/aboutpeterhull/metrix?authuser=0)
@@ -1019,6 +1018,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 #### Courses
 
 - [A/B TESTING](https://www.lektorium.tv/ab-test) <!--- comment -->
+- [Курс по Прикладной статистике от Академии Аналитиков Авито](https://avito.tech/education/statistics)
 
 <!-- omit in toc -->
 #### General
