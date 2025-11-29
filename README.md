@@ -1018,7 +1018,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 <!-- omit in toc -->
 #### Courses
 
-- [A/B TESTING](https://www.lektorium.tv/ab-test)
+- [A/B TESTING](https://www.lektorium.tv/ab-test) <!--- comment -->
 
 <!-- omit in toc -->
 #### General
