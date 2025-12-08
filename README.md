@@ -636,7 +636,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning?tab=readme-ov-file)
 - [A Gentle Introduction to torch.autograd](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html)
 - [Introduction to deep learning](https://carpentries-incubator.github.io/deep-learning-intro/1-introduction.html)
-- [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/)
+- [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/) <!--- comment -->
 
 <!-- omit in toc -->
 ### Blogs & Blog posts
@@ -646,7 +646,6 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Cтатьи от команды DeepSchool](https://deepschool-pro.notion.site/9a613d3c8d3644faa8e396bd083f2bc2?v=524b15c7ce9f49d094f94cd699c2c621)
 - [Полезные материалы про PyTorch](https://telegra.ph/PyTorch-i-okolo-nego-04-12)
 - [AstraBlog](https://astralord.github.io)
-- [PyTorch internals](https://blog.ezyang.com/2019/05/pytorch-internals/)
 
 <!-- omit in toc -->
 ### Other
