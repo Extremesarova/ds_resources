@@ -267,7 +267,7 @@ List of questions with patterns + tips
 - [Algorithmic Thinking](https://labuladong.gitbook.io/algo-en/)
 - [Algorithm Notes](https://liuzhenglaichn.gitbook.io/algorithm/)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university/)
-- [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+- [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet) <!--- comment -->
 - [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
 - [Data Structures & Algorithms by Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms) <!--- comment -->
 - [Design and Analysis of Algorithms](https://eecs376.github.io/notes/algorithms.html)
@@ -626,7 +626,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Introduction to Deep Learning by Sebastian Raschka](https://sebastianraschka.com/blog/2021/dl-course.html#l19-self-attention-and-transformer-networks)
 - [Коллекция ручных задачек о нейросетях](https://fulyankin.github.io/deep_learning_masha_book/intro.html)
 - [A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks by Sebastian Raschka](https://github.com/rasbt/deeplearning-models) <!--- comment -->
-- [Deep Learning Tuning Playbook by Google](https://github.com/google-research/tuning_playbook)
+- [Deep Learning Tuning Playbook by Google](https://github.com/google-research/tuning_playbook) <!--- comment -->
 - [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 - [PyTorch Fundamentals by Microsoft](https://learn.microsoft.com/en-us/training/paths/pytorch-fundamentals/?wt.mc_id=aiml-26954-cxa)
 - [labml.ai Annotated PyTorch Paper Implementations](https://nn.labml.ai/) <!--- comment -->
