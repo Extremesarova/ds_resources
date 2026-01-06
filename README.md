@@ -1018,6 +1018,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 
 - [A/B TESTING](https://www.lektorium.tv/ab-test) <!--- comment -->
 - [Курс по Прикладной статистике от Академии Аналитиков Авито](https://avito.tech/education/statistics)
+- [A/B Testing & Experimentation Roadmap](https://github.com/YuriyBalandin/ab_testing_roadmap/blob/main/Roadmap/Roadmap.md)
 
 <!-- omit in toc -->
 #### General
