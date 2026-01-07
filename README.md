@@ -933,7 +933,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [ML System Design](https://ods.ai/tracks/ml-system-design-23)
 - [Шаблон ML System Design Doc от телеграм-канала Reliable ML](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru)
 [ML System Design - ML System Design Doc. Лекция-бонус от Reliable ML](https://www.youtube.com/watch?v=PW9TGNr1Vqk&ab_channel=ODSAIRu)
-- [Machine learning design primer by Ibragim Badertdinov](https://github.com/ibragim-bad/machine-learning-design-primer)
+- [Machine learning design primer by Ibragim Badertdinov](https://github.com/ibragim-bad/machine-learning-design-primer) <!--- comment -->
 - [ml-design-doc](https://github.com/eugeneyan/ml-design-docs)
 - [Что я бы хотел знать про ML System Design раньше](https://habr.com/ru/amp/publications/698698/)
 - [Почему анализ ошибок – это начало разработки ML системы, а не конец?](https://habr.com/ru/articles/760550/#)
@@ -1018,7 +1018,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 
 - [A/B TESTING](https://www.lektorium.tv/ab-test) <!--- comment -->
 - [Курс по Прикладной статистике от Академии Аналитиков Авито](https://avito.tech/education/statistics)
-- [A/B Testing & Experimentation Roadmap](https://github.com/YuriyBalandin/ab_testing_roadmap/blob/main/Roadmap/Roadmap.md)
+- [A/B Testing & Experimentation Roadmap](https://github.com/YuriyBalandin/ab_testing_roadmap/blob/main/Roadmap/Roadmap.md) <!--- comment -->
 
 <!-- omit in toc -->
 #### General
