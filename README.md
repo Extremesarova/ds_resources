@@ -960,7 +960,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [В Data Science не нужна математика (Почти)](https://habr.com/ru/company/ruvds/blog/676114/)
 - [Mathematics Of Machine Learning | MIT](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/) <!--- comment -->
 - [How to beat maths anxiety](https://psyche.co/guides/how-to-beat-maths-anxiety-and-even-find-you-enjoy-it)
-- [Engineering Math: Differential Equations and Dynamical Systems](https://youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&si=ChsaQA_sF6ae8ymY)
+- [Engineering Math: Differential Equations and Dynamical Systems](https://youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&si=ChsaQA_sF6ae8ymY) <!--- comment -->
 - [Mathematics for Machine Learning](https://mml-book.github.io) <!--- comment -->
 - [The Complete Mathematics of Neural Networks and Deep Learning](https://www.youtube.com/watch?app=desktop&v=Ixl3nykKG9M)
 - [Математика для анализа данных](https://education.yandex.ru/handbook/math)
@@ -975,6 +975,8 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [immersive linear algebra by J. Ström, K. Åström, and T. Akenine-Möller](https://immersivemath.com/ila/index.html) <!--- comment -->
 - [Linear Algebra Review and Reference by Zico Kolter](https://cs229.stanford.edu/lectures-spring2022/cs229-linear_algebra_review.pdf)
 - [Linear Algebra for Data Science](https://kyunghyuncho.me/linear-algebra-for-data-science/) <!--- comment -->
+- [Engineering Math: Vector Calculus and Partial Differential Equations](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S)
+- [Engineering Math: Crash Course in Complex Analysis](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQBRslPb7I0yTnES981R8Cg)
 
 <!-- omit in toc -->
 ### Probability and Statistics
@@ -1002,6 +1004,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Introduction to Statistical Learning using Python](https://r4ds.github.io/bookclub-islp/)
 - [Economertrics Notes by Peter Hull](https://sites.google.com/site/aboutpeterhull/metrix?authuser=0)
 - [The Cartoon Guide to Statistics](https://archive.org/details/TheCartoonGuideToStatistics/page/n11/mode/2up) <!--- comment -->
+- [Probability Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V)
 
 <!-- omit in toc -->
 ### Causal Inference
@@ -1048,3 +1051,4 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Interactive Tools for Machine Learning, Deep Learning, and Math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools?tab=readme-ov-file)
 - [Ilya Sutskever’s Reading List](https://vinija.ai/nlp/papers/#introduction)
 - [Robotics Course by Hugging Face](https://huggingface.co/robotics-course) <!--- comment -->
+- [Machine Learning for Fluid Dynamics](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M)
