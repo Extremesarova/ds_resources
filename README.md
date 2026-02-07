@@ -284,7 +284,7 @@ List of questions with patterns + tips
 ### Books
 
 - [Grokking Algorithms. An illustrated guide for programmers and other curious people](https://www.manning.com/books/grokking-algorithms) <!--- comment -->
-- [Elements of Programming Interviews in Python: The Insiders' Guide](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
+- [Elements of Programming Interviews in Python: The Insiders' Guide](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/) <!--- comment -->
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [Problem Solving with Algorithms and Data Structures using Python by Brad Miller and David Ranum, Luther College](https://runestone.academy/ns/books/published/pythonds/index.html) <!--- comment -->
 - [Competitive Programmer's Handbook by Antti Laaksonen](https://cses.fi/book/book.pdf) <!--- comment -->
@@ -362,7 +362,7 @@ List of questions with patterns + tips
 - [Оконные функции SQL](https://stepik.org/course/95367/promo)
 - [SQL Tutorial](https://mode.com/sql-tutorial/) <!--- comment -->
 - [The Ultimate SQL Guide](https://blog.count.co/the-ultimate-sql-guide/) <!--- comment -->
-- [CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/sql/)
+- [CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/sql/) <!--- comment -->
 
 <!-- omit in toc -->
 ### Practice
