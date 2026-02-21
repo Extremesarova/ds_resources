@@ -419,7 +419,7 @@ List of questions with patterns + tips
 - [Machine Learning Simplified: A gentle introduction to supervised learning](https://themlsbook.com/read) by Andrew Wolf <!--- comment -->
 - [The Kaggle Book](https://www.kaggle.com/discussions/general/320574) <!--- comment -->
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/index.html) by Max Kuhn and Kjell Johnson <!--- comment -->
-- [Clean Machine Learning Code](https://leanpub.com/cleanmachinelearningcode)
+- [Clean Machine Learning Code](https://leanpub.com/cleanmachinelearningcode) <!--- comment -->
 - [Interpreting Machine Learning Models With SHAP: A Guide With Python Examples And Theory On Shapley Values](https://www.amazon.com/dp/B0CHL7W1DL) <!--- comment -->
 - [Interpretable Machine Learning. A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) <!--- comment -->
 - [Machine Learning Q and AI. Expand Your Machine Learning & AI Knowledge With 30 In-Depth Questions and Answers by Sebastian Raschka](https://leanpub.com/machine-learning-q-and-ai/) <!--- comment -->
@@ -846,7 +846,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 
 - [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/index.html) <!--- comment -->
 - [🤗 Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction) <!--- comment -->
-- [Practical RL](https://github.com/yandexdataschool/Practical_RL)
+- [Practical RL](https://github.com/yandexdataschool/Practical_RL) <!--- comment -->
 
 ## RecSys
 
