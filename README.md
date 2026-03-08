@@ -619,6 +619,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [CS 886: Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
 - [DEEP LEARNING COURSE](https://fleuret.org/dlc/)
 - [CS236 Deep Generative Models](https://deepgenerativemodels.github.io)
+- [10-202: Introduction to Modern AI](https://modernaicourse.org)
 
 <!-- omit in toc -->
 ### Tutorials
@@ -934,7 +935,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Шаблон ML System Design Doc от телеграм-канала Reliable ML](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru)
 [ML System Design - ML System Design Doc. Лекция-бонус от Reliable ML](https://www.youtube.com/watch?v=PW9TGNr1Vqk&ab_channel=ODSAIRu)
 - [Machine learning design primer by Ibragim Badertdinov](https://github.com/ibragim-bad/machine-learning-design-primer) <!--- comment -->
-- [ml-design-doc](https://github.com/eugeneyan/ml-design-docs)
+- [How to Write Design Docs for Machine Learning Systems](https://eugeneyan.com/writing/ml-design-docs/) -> [ml-design-doc](https://github.com/eugeneyan/ml-design-docs) <!--- comment -->
 - [Что я бы хотел знать про ML System Design раньше](https://habr.com/ru/amp/publications/698698/)
 - [Почему анализ ошибок – это начало разработки ML системы, а не конец?](https://habr.com/ru/articles/760550/#)
 - [ML Systems Design Interview Guide](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
