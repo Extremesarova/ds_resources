@@ -121,6 +121,7 @@ For interview preparation and learning
 - [Tips for answering few tricky behavioural interview questions](https://leetcode.com/discuss/interview-experience/1532708/tips-for-answering-few-tricky-behavioural-interview-questions)
 - [How to Answer Top Interview Questions](https://www.youtube.com/playlist?app=desktop&list=PL30MQiePH_cM6vGE9B_o1_TMsXK71XVCz)
 - [Interview Warmup by Google](https://grow.google/certificates/interview-warmup/)
+- [ML/Research Engineer interviews 2025](https://asmekal.github.io/blog/posts/interviews-2025-ml-research-engineer-uk) <!--- comment -->
 
 <!-- omit in toc -->
 #### English
