@@ -310,7 +310,7 @@ List of questions with patterns + tips
 ### Clean Code
 
 - [Мартин Р. Чистый код: создание, анализ и рефакторинг](https://www.piter.com/product/chistyy-kod-sozdanie-analiz-i-refaktoring-biblioteka-programmista-45ccca) / [Robert C. Martin. Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) <!--- comment -->
-- Стив Макконнелл. Совершенный код. Мастер-класс / [Steve McConnell. Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+- Стив Макконнелл. Совершенный код. Мастер-класс / [Steve McConnell. Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) <!--- comment -->
 
 <!-- omit in toc -->
 ### Theory
