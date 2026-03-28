@@ -121,7 +121,6 @@ For interview preparation and learning
 - [Tips for answering few tricky behavioural interview questions](https://leetcode.com/discuss/interview-experience/1532708/tips-for-answering-few-tricky-behavioural-interview-questions)
 - [How to Answer Top Interview Questions](https://www.youtube.com/playlist?app=desktop&list=PL30MQiePH_cM6vGE9B_o1_TMsXK71XVCz)
 - [Interview Warmup by Google](https://grow.google/certificates/interview-warmup/)
-- [ML/Research Engineer interviews 2025](https://asmekal.github.io/blog/posts/interviews-2025-ml-research-engineer-uk) <!--- comment -->
 
 <!-- omit in toc -->
 #### English
@@ -182,6 +181,7 @@ For interview preparation and learning
 - [Евгений Смирнов | Десять вопросов, которые нужно задать перед трудоустройством](https://www.youtube.com/watch?app=desktop&v=czT4sr1AooI)
 - [Стрим про карьеру, собеседования и бигтех](https://www.youtube.com/watch?app=desktop&v=6E2JWezLzs4)
 - [Guide to ML Engineer Job Hunting](https://www.yuan-meng.com/posts/mle_interviews/?trk=feed_main-feed-card_feed-article-content)
+- [ML/Research Engineer interviews 2025](https://asmekal.github.io/blog/posts/interviews-2025-ml-research-engineer-uk) <!--- comment -->
 
 <!-- omit in toc -->
 ### Resources
