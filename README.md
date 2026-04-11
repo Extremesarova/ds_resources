@@ -562,7 +562,7 @@ List of questions with patterns + tips
 <!-- omit in toc -->
 ### Other
 
-- [Complete Docker Course - From BEGINNER to PRO!](https://www.youtube.com/watch?v=RqTEHSBrYFw)
+- [Complete Docker Course - From BEGINNER to PRO!](https://www.youtube.com/watch?v=RqTEHSBrYFw) <!--- comment -->
 - [Docker Containers and Kubernetes Fundamentals](https://www.youtube.com/watch?v=kTp5xUtcalw)
 
 ## Deep Learning
