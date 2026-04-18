@@ -7,7 +7,7 @@ For interview preparation and learning
 
 - [Interview Preparation](#interview-preparation)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
-- [Python](#python)
+- [Programming](#programming-1)
 - [SQL](#sql-1)
 - [Machine Learning](#machine-learning-1)
 - [MLOps](#mlops)
@@ -218,21 +218,21 @@ For interview preparation and learning
 <!-- omit in toc -->
 ### Platforms
 
-- [LeetCode](https://leetcode.com/) <!--- [Yandex Interview Kit](https://docs.google.com/spreadsheets/u/0/d/1vgoyVzOqueURT7jNXuoEec5dQnIdtUCEqVPX1x0Vx6A/htmlview#gid=0) -->
-- [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
+- [LeetCode](https://leetcode.com/) `foundations` <!--- [Yandex Interview Kit](https://docs.google.com/spreadsheets/u/0/d/1vgoyVzOqueURT7jNXuoEec5dQnIdtUCEqVPX1x0Vx6A/htmlview#gid=0) -->
+  - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/) `foundations`
 List of questions with patterns + tips
-- [LeetCode Explore](https://leetcode.com/explore/)
+  - [LeetCode Explore](https://leetcode.com/explore/) `foundations`
 - [Codewars](https://www.codewars.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [CodeAbbey](https://www.codeabbey.com/index/task_list)
-- [CodeRun](https://coderun.yandex.ru)
+- [CodeRun](https://coderun.yandex.ru) `lang:rus`
 Инструмент для подготовки к очному собеседованию в Яндексе. Задачи очень похожи на те, что будут на интервью.
-- [Другие](https://en.wikipedia.org/wiki/Competitive_programming#Online_platforms)
+- [Other](https://en.wikipedia.org/wiki/Competitive_programming#Online_platforms)
 
 <!-- omit in toc -->
 ### Courses
 
-- [Algoprog](https://algoprog.ru/)
+- [Algoprog](https://algoprog.ru/) `lang:rus`
 - Яндекс:
   - [Основы алгоритмов | Академия Яндекса](https://academy.yandex.ru/handbook/algorithms)
   - [Бесплатный курс «Подготовка к алгоритмическому собеседованию» от ЯП](https://practicum.yandex.ru/algorithms-interview/)
@@ -242,7 +242,7 @@ List of questions with patterns + tips
   - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info)
   - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/info)
 - [Подготовься к алгоритмическому собеседованию за 30 недель](https://balun.courses/courses/algorithmic_interview#program)
-- [Introduction To Algorithms by MIT](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/) <!--- comment -->
+- [Introduction To Algorithms by MIT](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/) `foundations` <!--- comment -->
 - [Algorithms](https://cs50.harvard.edu/x/2024/weeks/3/) + [Data Structures](https://cs50.harvard.edu/x/2024/weeks/5/) from [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)
 
 <!-- omit in toc -->
@@ -291,13 +291,27 @@ List of questions with patterns + tips
 - [Competitive Programmer's Handbook by Antti Laaksonen](https://cses.fi/book/book.pdf) <!--- comment -->
 - [Competitive Programming by Steven Halim](https://www.amazon.com/Competitive-Programming-4-Book-2/dp/B093K67NVN?crid=C4TR8FKXSWW1&keywords=competitive+programming+4&qid=1654975173&sprefix=competitive+programming+4,aps,131&sr=8-1&linkCode=sl1&tag=alexcancode0d-20&linkId=014a5744e277b65b2a6251d9884c031d&language=en_US&ref_=as_li_ss_tl)
 
-## Python
+## Programming
 
 <!-- omit in toc -->
-### Courses
+### General
 
-- [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/) <!--- comment -->
-- [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/) <!--- comment -->
+- [Exercism](https://exercism.org)
+
+<!-- omit in toc -->
+### Clean Code
+
+- [Мартин Р. Чистый код: создание, анализ и рефакторинг](https://www.piter.com/product/chistyy-kod-sozdanie-analiz-i-refaktoring-biblioteka-programmista-45ccca) / [Robert C. Martin. Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) <!--- comment -->
+- Стив Макконнелл. Совершенный код. Мастер-класс / [Steve McConnell. Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) <!--- comment -->
+
+<!-- omit in toc -->
+### Python
+
+<!-- omit in toc -->
+#### Courses
+
+- [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/) `foundations` <!--- comment -->
+- [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/) `foundations` <!--- comment -->
 - [Основы Python](https://education.yandex.ru/handbook/python)
 - [Python: основы и применение](https://stepik.org/course/512/info)
 - [Программирование на Python](https://stepik.org/course/67/info)
@@ -307,13 +321,7 @@ List of questions with patterns + tips
   - [Курс для профессионалов](https://stepik.org/course/82541)
 
 <!-- omit in toc -->
-### Clean Code
-
-- [Мартин Р. Чистый код: создание, анализ и рефакторинг](https://www.piter.com/product/chistyy-kod-sozdanie-analiz-i-refaktoring-biblioteka-programmista-45ccca) / [Robert C. Martin. Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) <!--- comment -->
-- Стив Макконнелл. Совершенный код. Мастер-класс / [Steve McConnell. Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) <!--- comment -->
-
-<!-- omit in toc -->
-### Theory
+#### Theory
 
 - [Python Tutorial for Beginners (with mini-projects)](https://www.youtube.com/watch?v=qwAFL1597eM)
 - [What the f*ck Python! Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython) <!--- comment -->
@@ -326,7 +334,7 @@ List of questions with patterns + tips
 - [Write faster Python code, and ship your code faster](https://pythonspeed.com) <!--- comment -->
 
 <!-- omit in toc -->
-### Questions
+#### Questions
 
 - [53 Python Interview Questions and Answers](https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f)
 - Python: вопросы на собеседовании:
@@ -335,12 +343,12 @@ List of questions with patterns + tips
   - [Часть III. Senior](https://pythonist.ru/python-voprosy-sobesedovaniya-chast-iii-senior/)
 
 <!-- omit in toc -->
-### Other
+#### Other
 
 - [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html) <!--- comment -->
 
 <!-- omit in toc -->
-### Practice
+#### Practice
 
 - [Задачи по Python и машинному обучению](https://t.me/python_tasks)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning#python)
