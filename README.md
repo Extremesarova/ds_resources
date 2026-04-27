@@ -972,7 +972,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [How to beat maths anxiety](https://psyche.co/guides/how-to-beat-maths-anxiety-and-even-find-you-enjoy-it)
 - [Engineering Math: Differential Equations and Dynamical Systems](https://youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&si=ChsaQA_sF6ae8ymY) <!--- comment -->
 - [Mathematics for Machine Learning](https://mml-book.github.io) <!--- comment -->
-- [The Complete Mathematics of Neural Networks and Deep Learning](https://www.youtube.com/watch?app=desktop&v=Ixl3nykKG9M)
+- [The Complete Mathematics of Neural Networks and Deep Learning](https://www.youtube.com/watch?app=desktop&v=Ixl3nykKG9M) <!--- comment -->
 - [Математика для анализа данных](https://education.yandex.ru/handbook/math)
 - [Pen and Paper Exercises in Machine Learning by Michael Gutmann](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) <!--- comment -->
 
