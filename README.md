@@ -1041,7 +1041,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Most cited sources in A/B Testing by Ron Kohavi](https://docs.google.com/spreadsheets/u/0/d/1PAWG7NWVEwAwwfrd9b-V5o5q4nB6i67N2ITrzyrIdP0/htmlview?pli=1)
 - [A/B Testing RoadMap](https://roadmap.sh/r/ab-testing-roadmap-copy)
 - [Чеклист А/Б эксперимента](https://docs.google.com/spreadsheets/u/0/d/14t58zgoCCCS6RhRR11c_TjaNnlzOyoGvhUe8VAYRS_A/htmlview) + [Шаблон проведения А/Б эксперимента](https://docs.google.com/document/u/0/d/1z_Xtvkt3NUXGNRCswngaHe1PGOe8YFvSvjALVQiP12w/mobilebasic)
-- [Practitioner’s Guide to Statistical Tests by VK Team](https://vkteam.medium.com/practitioners-guide-to-statistical-tests-ed2d580ef04f)
+- [Practitioner’s Guide to Statistical Tests by VK Team](https://vkteam.medium.com/practitioners-guide-to-statistical-tests-ed2d580ef04f) <!--- comment -->
 
 <!-- omit in toc -->
 #### Blog posts
