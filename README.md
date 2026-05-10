@@ -787,6 +787,8 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
 - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608) <!--- comment -->
 - [Prompt Engineering Guide by Antrophic](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+- [Claude 101](https://claude101.com) <!--- comment -->
+- [AI Coding Playbook](https://aicodingplaybook.ru)
 
 <!-- omit in toc -->
 ### Tutorials
