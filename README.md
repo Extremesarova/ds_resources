@@ -912,7 +912,6 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 ### Other
 
 - [Анализируем данные с помощью фреймворка Spark](https://www.youtube.com/watch?v=McXK_ObP00c)
-- [Знакомство с Apache Spark](https://datalearn.ru/kurs-po-getting-start-with-data-engineering)
 - [PySpark для аналитика. Как правильно просить ресурсы и как понять, сколько нужно брать](https://habr.com/ru/companies/avito/articles/732870/?erid=2VtzqxjG1Yk&erid=2Vtzqwxo44G)
 - [PySpark для аналитика. Как выгружать данные с помощью toPandas и его альтернатив](https://habr.com/ru/companies/avito/articles/740232/)
 - [Spark Architecture by FaangTalk](https://www.youtube.com/watch?v=1nzLD5VZE4I&t=132s)
@@ -949,7 +948,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [How to Write Design Docs for Machine Learning Systems](https://eugeneyan.com/writing/ml-design-docs/) -> [ml-design-doc](https://github.com/eugeneyan/ml-design-docs) <!--- comment -->
 - [Что я бы хотел знать про ML System Design раньше](https://habr.com/ru/amp/publications/698698/)
 - [Почему анализ ошибок – это начало разработки ML системы, а не конец?](https://habr.com/ru/articles/760550/#)
-- [ML Systems Design Interview Guide](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
+- [ML Systems Design Interview Guide](http://patrickhalina.com/posts/ml-systems-design-interview-guide/) <!--- comment -->
 - [Machine Learning System Design by Valerii Babushkin and Arseny Kravchenko](https://www.manning.com/books/machine-learning-system-design) <!--- comment -->
 - [Designing Machine Learning Systems by Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) <!--- comment -->
 - [Machine Learning Engineering Online Book](https://github.com/stas00/ml-engineering) <!--- comment -->
@@ -1004,7 +1003,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Прикладная статистика. Репозиторий для линейки онлайн-курсов по статистике](https://github.com/FUlyankin/matstat-AB)
 - [Multivariate statistics](https://www.youtube.com/playlist?app=desktop&list=PLLTSM0eKjC2fZqeVFWBBBr8KSqnBIPMQD)
 - [R2D3 is an experiment in expressing statistical thinking with interactive design](http://www.r2d3.us/) <!--- comment -->  
-- [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2024?tab=readme-ov-file)
+- [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2024?tab=readme-ov-file) <!--- comment -->  
 - [Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks by Will Kurt](https://www.amazon.com/Bayesian-Statistics-Fun-Will-Kurt/dp/1593279566)
 - [Seeing theory. A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html) <!--- comment -->
 - [The Book of Statistical Proofs](https://statproofbook.github.io/) <!--- comment -->
