@@ -928,7 +928,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 - [Systems Design Interview Guide](http://patrickhalina.com/posts/systems-design-interview-guide/)
 - [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)
-- [System Design Interview – Step By Step Guide](https://youtu.be/bUHFg8CZFws?si=0AuZFInexE6Iunga)
+- [System Design Interview – Step By Step Guide](https://youtu.be/bUHFg8CZFws?si=0AuZFInexE6Iunga) <!--- comment -->
 - [Designing Data-Intensive Applications and its related books](https://anvaka.github.io/greview/ddia/1/)
 - [A Senior Engineer's Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview)
 - [Intro to System Design](https://github.com/alexngn/intro-to-system-design)
