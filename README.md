@@ -879,7 +879,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 ### Other
 
 - [Авито. Рекомендации](https://youtu.be/zopTexr7gfY?si=7yGMorHG_PZpTUKv)
-- [Recommenders. Best Practices on Recommendation Systems](https://github.com/recommenders-team/recommenders)
+- [Recommenders. Best Practices on Recommendation Systems](https://github.com/recommenders-team/recommenders) <!--- comment -->
 - [Рекомендательные системы](https://education.yandex.ru/knowledge/rekomendatelnye-sistemy.-mashinnoe-obuchenie)
 - [Рекомендательные системы: идеи, подходы, задачи](https://habr.com/ru/companies/jetinfosystems/articles/453792/)
 
