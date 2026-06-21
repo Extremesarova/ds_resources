@@ -1020,7 +1020,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 <!-- omit in toc -->
 ### Causal Inference
 
-- [Causal Inference: What If](https://miguelhernan.org/whatifbook)
+- [Causal Inference: What If](https://miguelhernan.org/whatifbook) <!--- comment -->
 - [Causal Inference and Its Applications in Online Industry](https://alexdeng.github.io/causal/index.html)
 - [Applied Causal Inference Powered by ML and AI](https://causalml-book.org) <!--- comment -->
 
