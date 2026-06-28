@@ -750,7 +750,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [AI Prompt Engineering: A Deep Dive](https://www.youtube.com/watch?app=desktop&v=T9aRN5JkmL8)
 - [LLM Resources Hub](https://llmresourceshub.vercel.app)
 - [🤗 AI Agents Course by Hugging Face](https://huggingface.co/learn/agents-course) <!--- comment -->
-- [LLM Engineering Essentials](https://academy.nebius.com/llm-engineering-essentials/)
+- [LLM Engineering Essentials](https://academy.nebius.com/llm-engineering-essentials/) <!--- comment -->
 - [Hugging Face Reasoning Course](https://huggingface.co/reasoning-course?trk=feed-detail_main-feed-card-text)
 - [LLM Engineering Essentials course by Nebius Academy](https://github.com/Nebius-Academy/LLM-Engineering-Essentials?tab=readme-ov-file) <!--- comment -->
 - [CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/) + [Video](https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
