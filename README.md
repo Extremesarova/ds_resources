@@ -256,7 +256,7 @@ List of questions with patterns + tips
   - [Тренировки по алгоритмам от Яндекса 5](https://yandex.ru/yaintern/algorithm-training)
   - [Интенсив по алгоритмам от Яндекса](https://www.youtube.com/playlist?list=PLQC2_0cDcSKAzLqqXUidKBJsy1Im44aOo)
 - [NeetCode. A better way to prepare for coding interviews.](https://neetcode.io/roadmap) <!--- comment -->
-- [The Algorithms. Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language](https://github.com/TheAlgorithms)
+- [The Algorithms. Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language](https://github.com/TheAlgorithms) <!--- comment -->
 - [Алгоритмы и структуры данных простыми словами](https://codonaft.com/%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D0%B8-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%BC%D0%B8-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8/)
 - [Алгоритмика](https://ru.algorithmica.org/)
 - [Leetcode. Company-wise questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions)
