@@ -1063,3 +1063,4 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Ilya Sutskever’s Reading List](https://vinija.ai/nlp/papers/#introduction)
 - [Robotics Course by Hugging Face](https://huggingface.co/robotics-course) <!--- comment -->
 - [Machine Learning for Fluid Dynamics](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M)
+- [Maths, CS & AI Compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
