@@ -1039,7 +1039,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 
 - [Trustworthy Online Controlled Experiments by Ron Kohavi](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264) <!--- comment -->
 - [Подборка ссылок по A/B тестированию от Валеры Бабушкина](https://uberkinder.notion.site/A-B-8bcc0fdc69bb4a0997a7d767e1a9d94b)
-- [Most cited sources in A/B Testing by Ron Kohavi](https://docs.google.com/spreadsheets/u/0/d/1PAWG7NWVEwAwwfrd9b-V5o5q4nB6i67N2ITrzyrIdP0/htmlview?pli=1)
+- [Most cited sources in A/B Testing by Ron Kohavi](https://docs.google.com/spreadsheets/u/0/d/1PAWG7NWVEwAwwfrd9b-V5o5q4nB6i67N2ITrzyrIdP0/htmlview?pli=1) <!--- comment -->
 - [A/B Testing RoadMap](https://roadmap.sh/r/ab-testing-roadmap-copy)
 - [Чеклист А/Б эксперимента](https://docs.google.com/spreadsheets/u/0/d/14t58zgoCCCS6RhRR11c_TjaNnlzOyoGvhUe8VAYRS_A/htmlview) + [Шаблон проведения А/Б эксперимента](https://docs.google.com/document/u/0/d/1z_Xtvkt3NUXGNRCswngaHe1PGOe8YFvSvjALVQiP12w/mobilebasic)
 - [Practitioner’s Guide to Statistical Tests by VK Team](https://vkteam.medium.com/practitioners-guide-to-statistical-tests-ed2d580ef04f) <!--- comment -->
