@@ -739,7 +739,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
 - [LLM Twin Course: Building Your Production-Ready AI Replica](https://github.com/decodingml/llm-twin-course)
 - [Educational resources on LLMs](https://parlance-labs.com/education/)
-- [A Visual Guide to Quantization. Demystifying the Compression of Large Language Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
+- [A Visual Guide to Quantization. Demystifying the Compression of Large Language Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) <!--- comment -->
 - [Super Study Guide: Transformers & Large Language Models](https://www.reddit.com/r/MachineLearning/comments/1ew1hws/p_illustrated_book_to_learn_about_transformers/?rdt=56835)
 - [Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems](https://github.com/NirDiamant/RAG_Techniques)
 - [CUDA-Free Inference for LLMs](https://pytorch.org/blog/cuda-free-inference-for-llms/?utm_content=306418723&utm_medium=social&utm_source=twitter&hss_channel=tw-776585502606721024)
