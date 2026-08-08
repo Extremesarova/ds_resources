@@ -549,7 +549,7 @@ List of questions with patterns + tips
   - [Part II: The Naïve Shapley method](https://edden-gerber.github.io/shapley-part-2/) <!--- comment -->
 - [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808) <!--- comment -->
 - [How to avoid machine learning pitfalls: a guide for academic researchers by Michael A. Lones](https://arxiv.org/abs/2108.02497) <!--- comment -->
-- [Core Machine Learning Skills](https://neetcode.io/practice?subpage=practice&tab=coreSkills&topic=Machine%20Learning)
+- [Core Machine Learning Skills](https://neetcode.io/practice?subpage=practice&tab=coreSkills&topic=Machine%20Learning) <!--- comment -->
 - [Discover machine learning, data science & robotics competitions](https://mlcontests.com)
 
 ## MLOps
@@ -686,7 +686,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Stanford LSA 311: Computational Lexical Semantics by Dan Jurafsky](https://web.stanford.edu/~jurafsky/li15/) <!--- comment -->
 - [Stanford CS224U: Natural Language Understanding](https://web.stanford.edu/class/cs224u/index.html)
 - [Введение в обработку естественного языка](https://compscicenter.ru/courses/introduction-nlp/2019-autumn/)
-- [Stanford CS 224V Conversational Virtual Assistants with Deep Learning](https://web.stanford.edu/class/cs224v/schedule.html)
+- [Stanford CS 224V Conversational Virtual Assistants with Deep Learning](https://web.stanford.edu/class/cs224v/schedule.html) <!--- comment -->
 - [CS11-711 Advanced Natural Language Processing (at Carnegie Mellon University's Language Technology Institute)](http://www.phontron.com/class/anlp2022/) + [Video](https://youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z) + [Assignments](https://github.com/neubig/nlp-from-scratch-assignment-2022)
 - [Linguistics for Language Technology](https://bylinina.github.io/ling_course/)
 
@@ -720,7 +720,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 - [ChatGPT Course – Use The OpenAI API to Code 5 Projects](https://www.youtube.com/watch?v=uRQH2CFvedY)
 - [Self-Attention & Transformers (CS 224n: Natural Language Processing with Deep Learning)](https://web.stanford.edu/class/cs224n/readings/cs224n-self-attention-transformers-2023_draft.pdf)
-- [Build a Large Language Model (From Scratch) by Sebastian Raschka](https://github.com/rasbt/LLMs-from-scratch)
+- [Build a Large Language Model (From Scratch) by Sebastian Raschka](https://github.com/rasbt/LLMs-from-scratch) <!--- comment -->
 - [Hands-on LLMs Course](https://github.com/iusztinpaul/hands-on-llms)
 - [LLaMA-Factory. Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)](https://github.com/hiyouga/LLaMA-Factory)
 - [Open LLMs. A list of open LLMs available for commercial use](https://github.com/eugeneyan/open-llms)
@@ -733,7 +733,6 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
 - [Learn to Train and Deploy a Real-Time Financial Advisor](https://github.com/iusztinpaul/hands-on-llms)
 - [The Annotated Transformer](https://github.com/harvardnlp/annotated-transformer/blob/master/AnnotatedTransformer.ipynb) + [Neural networks by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-- [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
 - [Elicit Machine Learning Reading List](https://github.com/elicit/machine-learning-list)
 - [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
 - [llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
@@ -744,7 +743,6 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems](https://github.com/NirDiamant/RAG_Techniques)
 - [CUDA-Free Inference for LLMs](https://pytorch.org/blog/cuda-free-inference-for-llms/?utm_content=306418723&utm_medium=social&utm_source=twitter&hss_channel=tw-776585502606721024)
 - [Изучаю LLM by Evgenii Nikitin](https://telegra.ph/Izuchayu-LLM-09-25)
-- [Build a Large Language Model (From Scratch) by Sebastian Raschka](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 - [What is the Role of Small Models in the LLM Era: A Survey](https://arxiv.org/abs/2409.06857)
 - [Building LLMs from the Ground Up: A 3-hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
 - [AI Prompt Engineering: A Deep Dive](https://www.youtube.com/watch?app=desktop&v=T9aRN5JkmL8)
