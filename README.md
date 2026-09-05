@@ -379,7 +379,7 @@ List of questions with patterns + tips
 - [Онлайн тренажер SQL Academy](https://sql-academy.org/) <!--- comment -->
 - [Ace the SQL Interview](https://datalemur.com/questions?category=SQL) <!--- comment -->
 - [Practice SQL](https://www.sql-practice.com/)
-- [SQLBolt. Learn SQL with simple, interactive exercises.](https://sqlbolt.com/)
+- [SQLBolt. Learn SQL with simple, interactive exercises.](https://sqlbolt.com/) <!--- comment -->
 - [SQL Tutorial by w3schools](https://www.w3schools.com/sql/)
 - [PostgreSQL Exercises](https://pgexercises.com/)
 - [The Querynomicon. An Introduction to SQL for Wary Data Scientists](https://gvwilson.github.io/sql-tutorial/) <!--- comment -->
