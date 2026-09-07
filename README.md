@@ -157,6 +157,7 @@ For interview preparation and learning
 - [Articles, books and videos to help get well-paying tech jobs by TechPays](https://techpays.eu/resources)
 - [How I Cracked the Meta Machine Learning Engineering Interview](https://towardsdatascience.com/how-i-cracked-the-meta-machine-learning-engineering-interview-aa32f64b8e4b)
 - [What we look for in a resume by Chip Huyen](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html#one-page)
+- [ResumeAI](https://withresumeai.com/) — free ATS checker + State of ATS 2026 (738/704, Workday 37.9%)
 - [Не принимай оффер в Data Science, пока…](https://habr.com/ru/company/alfa/blog/709416/)
 - [Стратегия поиска работы за границей: что писать, с кем говорить и к чему готовиться](https://www.forbes.ru/mneniya/484547-strategia-poiska-raboty-za-granicej-cto-pisat-s-kem-govorit-i-k-cemu-gotovit-sa)
 - [Data Science Interview Guide](https://docs.google.com/spreadsheets/d/1djhTq4vD72lzuLY2rCMOkkSuNG2rRf_C5PwNMjcIAMk/edit#gid=859146723)
