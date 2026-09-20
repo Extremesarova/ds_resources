@@ -608,7 +608,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [PyTorch for Deep Learning & Machine Learning (video)](https://www.youtube.com/watch?v=V_xro1bcAuA) + [Learn PyTorch for Deep Learning: Zero to Mastery book (site)](https://www.learnpytorch.io/) <!--- comment -->
 - [Deep Learning Fundamentals by Sebastian Raschka and Lightning AI](https://lightning.ai/pages/courses/deep-learning-fundamentals/) <!--- comment -->
 - [Future of AI is Foundation Models & Self-Supervised Learning](https://www.futureofai.mit.edu/)
-- [Artificial Intelligence for Beginners](https://github.com/microsoft/AI-For-Beginners)
+- [Artificial Intelligence for Beginners](https://github.com/microsoft/AI-For-Beginners) <!--- comment -->
 - [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S24/index.html) + [11785 Spring 2024 Lectures](https://www.youtube.com/playlist?list=PLp-0K3kfddPxUJzAW0KxNNjGiK_hISFas)
 - [Stanford CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) <!--- comment -->
 - [Convolutional Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
