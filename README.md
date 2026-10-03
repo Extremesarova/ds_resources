@@ -601,7 +601,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
   - Assignment 3: Dependency parsing and neural network foundations
   - Assignment 4: Neural Machine Translation with sequence-to-sequence, attention, and subwords
   - Assignment 5: Self-supervised learning and fine-tuning with Transformers
-- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/schedule.html) & [Course notes](https://cs231n.github.io/)
+- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/schedule.html) & [Course notes](https://cs231n.github.io/) <!--- comment -->
   - Assignment 1: Image Classification, kNN, SVM, Softmax, Fully-Connected Neural Network
   - Assignment 2: Fully-Connected Nets, Batch Normalization, Dropout, Convolutional Nets
   - Assignment 3: Image Captioning with Vanilla RNNs, LSTMs, Transformers, Network Visualization, Generative Adversarial Networks
