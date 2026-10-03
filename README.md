@@ -46,7 +46,6 @@ For interview preparation and learning
 - [Вопросы с собеседовании по машинному обучению](https://uproger.com/45-voprosov-dlya-sobesedovaniya-po-mashinnomu-obucheniyu-statya-v-razrabotke/)
 - [100 вопросов для подготовки к собесу Data Science](https://habr.com/ru/articles/783766/)
 - [The Data Science Interview Book](https://book.thedatascienceinterviewproject.com)
-- [Collection of Interview Questions](https://github.com/masmahbubalom/InterviewQuestions/tree/main)
 - [Top 100 Data science interview questions](https://nitin-panwar.github.io/Top-100-Data-science-interview-questions/)
 - [100 вопросов c собесов в Data Science и ML](https://uproger.com/100-voprosov-c-sobesov-v-data-science-i-ml/)
 - [ML-Interview](https://github.com/Pe4enIks/ML-Interview)
@@ -89,7 +88,6 @@ For interview preparation and learning
 #### Programming
 
 - [Awesome interview questions repository](https://github.com/DopplerHQ/awesome-interview-questions?tab=readme-ov-file#python)
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Шпаргалка для технического собеседования](https://habr.com/ru/companies/vk/articles/350326/)
 - [Моя любимая задача для собеседований по программированию](https://habr.com/ru/companies/ruvds/articles/775570/)
 - [Top 100 Python ML Interview Questions](https://github.com/Devinterview-io/python-ml-interview-questions)
@@ -271,7 +269,6 @@ List of questions with patterns + tips
 - [Алгоритмы и структуры данных простыми словами](https://codonaft.com/%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D0%B8-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%BC%D0%B8-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8/)
 - [Алгоритмика](https://ru.algorithmica.org/)
 - [Leetcode. Company-wise questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions)
-- [Code Abbey Problems](https://www.codeabbey.com/index/task_list)
 - [Unlocking Algorithm Efficiency: A Comprehensive Guide to Time and Space Complexity](https://deft1991.medium.com/unlocking-algorithm-efficiency-a-comprehensive-guide-to-time-and-space-complexity-42365215b1b7)
 - [Data Structures Reference](https://www.interviewcake.com/data-structures-reference)
 - [An Executable Data Structures Cheat Sheet for Interviews](https://algodaily.com/lessons/an-executable-data-structures-cheat-sheet)
@@ -449,7 +446,6 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Practical SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis)
 - [SQL Murder Mystery](https://www.kaggle.com/datasets/johnp47/sql-murder-mystery-database)
 - [SQL-EX.RU](https://www.sql-ex.ru/?ysclid=l5hvbx8wqk77947684)
-- [Тренажёр по SQL (SQL Academy)](https://sql-academy.org/ru/trainer)
 - [8 Week SQL Challenge](https://8weeksqlchallenge.com/getting-started/)
 
 ## Machine Learning
@@ -565,7 +561,6 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [WTTE-RNN - Less hacky churn prediction](https://ragulpr.github.io/2016/12/22/WTTE-RNN-Hackless-churn-modeling/)
 - [Прикладной анализ данных в социальных науках](https://academy.yandex.ru/handbook/data-analysis?utm_source=vk&utm_medium=internal&utm_campaign=handbook_aon&utm_content=0606)
 - [Ансамбли в машинном обучении](https://alexanderdyakonov.wordpress.com/2019/04/19/%D0%B0%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D0%B8-%D0%B2-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B8/)
-- [Reflecting on 18 years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
 - [Machine Learning for Imbalanced Data](https://github.com/PacktPublishing/Machine-Learning-for-Imbalanced-Data)
 - [Валидация моделей машинного обучения](https://habr.com/ru/companies/glowbyte/articles/569970/)
 - [Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/)
@@ -612,7 +607,6 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [CatBoost - An In-Depth Guide](https://coderzcolumn.com/tutorials/machine-learning/catboost-an-in-depth-guide-python)
 - [Введение в библиотеку Transformers и платформу Hugging Face](https://habr.com/ru/post/704592/)
 - [Build a Telegram chatbot with any AI model under the hood](https://medium.com/@galperovich/build-a-telegram-chatbot-with-any-ai-model-under-the-hood-62f9a8675d81)
-- [The Illustrated Machine Learning](https://illustrated-machine-learning.github.io/) <!--- comment -->
 - [ML Primer by Boris Tseytlin](https://btseytlin.notion.site/ML-Primer-53c3d8666da1438c8eab4389321d44a2)
 - [Decision Trees. The unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)
 - [Ensemble Methods and Decision Trees](https://aman.ai/primers/ai/ensemble-methods-and-decision-trees/)
@@ -818,7 +812,6 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [DEEP LEARNING COURSE](https://fleuret.org/dlc/)
 - [CS236 Deep Generative Models](https://deepgenerativemodels.github.io)
 - [10-202: Introduction to Modern AI](https://modernaicourse.org)
-- [AI for Beginners (Microsoft)](https://microsoft.github.io/AI-For-Beginners/)
 - [Deep Learning in Finance (Stepik)](https://stepik.org/177280)
 - [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction)
 
@@ -946,7 +939,6 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 - [LLM Visualization](https://bbycroft.net/llm)
 - [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
-- [Learn to Train and Deploy a Real-Time Financial Advisor](https://github.com/iusztinpaul/hands-on-llms)
 - [The Annotated Transformer](https://github.com/harvardnlp/annotated-transformer/blob/master/AnnotatedTransformer.ipynb) + [Neural networks by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Elicit Machine Learning Reading List](https://github.com/elicit/machine-learning-list)
 - [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
@@ -965,7 +957,6 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [🤗 AI Agents Course by Hugging Face](https://huggingface.co/learn/agents-course) <!--- comment -->
 - [LLM Engineering Essentials](https://academy.nebius.com/llm-engineering-essentials/) <!--- comment -->
 - [Hugging Face Reasoning Course](https://huggingface.co/reasoning-course?trk=feed-detail_main-feed-card-text)
-- [LLM Engineering Essentials course by Nebius Academy](https://github.com/Nebius-Academy/LLM-Engineering-Essentials?tab=readme-ov-file) <!--- comment -->
 - [CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/) + [Video](https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_) <!--- comment -->
 - [A Comprehensive Overview of Large Language Models](https://arxiv.org/pdf/2307.06435)
 - [A Survey of Transformers](https://arxiv.org/abs/2106.04554)
@@ -1442,7 +1433,6 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Extra materials for ml-mipt course](https://github.com/girafe-ai/ml-mipt/blob/master/extra_materials.md)
 - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#tutorials)
 - [Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
-- [Open Source Society University. Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science#summary)
 - [The Breaking Into Data Handbook](https://github.com/meri-nova/breaking-into-data-handbook)
 - [Machine Learning Tutorials](https://ujjwalkarn.github.io/Machine-Learning-Tutorials/#awesome)
 - [Learn-Data-Science-For-Free](https://github.com/geekywrites/Learn-Data-Science-For-Free)
@@ -1478,7 +1468,6 @@ Material merged from the `data_science_resources` repo: adjacent to Data Science
 
 - [Open Source Society University](https://github.com/ossu/computer-science)
 - [Harvard CS50](https://cs50.harvard.edu/x/2023/) + [Video](https://www.youtube.com/watch?v=LfaMVlDaQ24) <!--- comment -->
-- [List of Free Learning Resources In Many Languages](https://ebookfoundation.github.io/free-programming-books/)
 - [Четыре половины успеха инженера](https://kolodezev.ru/four_halves.html)
 - [Матожидание количества успешных гипотез](https://telegra.ph/Skorost-proverki-gipotez-03-22)
 - [Document-driven management. Почему писать документы — это круто](https://vas3k.club/post/23562/)
