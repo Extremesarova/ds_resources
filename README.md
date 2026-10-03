@@ -23,7 +23,9 @@ For interview preparation and learning
 - [System Design](#system-design)
 - [Machine Learning System Design](#machine-learning-system-design)
 - [Math](#math)
+- [Lists of Materials](#lists-of-materials)
 - [Other](#other-7)
+- [Adjacent](#adjacent)
 
 ## Interview Preparation
 
@@ -290,6 +292,7 @@ List of questions with patterns + tips
 - [Problem Solving with Algorithms and Data Structures using Python by Brad Miller and David Ranum, Luther College](https://runestone.academy/ns/books/published/pythonds/index.html) <!--- comment -->
 - [Competitive Programmer's Handbook by Antti Laaksonen](https://cses.fi/book/book.pdf) <!--- comment -->
 - [Competitive Programming by Steven Halim](https://www.amazon.com/Competitive-Programming-4-Book-2/dp/B093K67NVN?crid=C4TR8FKXSWW1&keywords=competitive+programming+4&qid=1654975173&sprefix=competitive+programming+4,aps,131&sr=8-1&linkCode=sl1&tag=alexcancode0d-20&linkId=014a5744e277b65b2a6251d9884c031d&language=en_US&ref_=as_li_ss_tl)
+- [50 Algorithms Every Programmer Should Know: Tackle computer science challenges with classic to modern algorithms in machine learning, software design, data systems, and cryptography](https://www.amazon.com/Algorithms-Every-Programmer-Should-Know/dp/1803247762?link_from_packtlink=yes)
 
 ## Programming
 
@@ -355,6 +358,18 @@ List of questions with patterns + tips
 - [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices)
 - [Python Training by J.P.Morgan](https://github.com/jpmorganchase/python-training)
 
+<!-- omit in toc -->
+#### Packages
+
+- [Mlxtend](https://github.com/rasbt/mlxtend) (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks
+- [ML | Hydra](https://habr.com/ru/post/696820/)
+Framework for managing configuration files, tailored for ML projects
+- [Lazy Predict](https://pypi.org/project/lazypredict/)
+Lazy Predict helps build a lot of basic models without much code and helps understand which model works better without any parameter tuning.
+- [More Itertools](https://github.com/more-itertools/more-itertools)
+- [iterative-stratification](https://github.com/trent-b/iterative-stratification)
+- [prettygraph](https://github.com/yoheinakajima/prettygraph)
+
 ## SQL
 
 - [How to pass data engineering SQL interviews in big tech](https://blog.dataengineer.io/p/how-to-pass-data-engineering-sql?utm_source=post-email-title&publication_id=1644342&post_id=136917153&utm_campaign=surfalytics.com)
@@ -399,6 +414,7 @@ List of questions with patterns + tips
 - [The Illustrated Machine Learning](https://illustrated-machine-learning.github.io/) <!--- comment -->
 - [MLU-EXPLAIN](https://mlu-explain.github.io/) <!--- comment -->
 - [ML Code Challenges](https://www.deep-ml.com) <!--- comment -->
+- [Papers With Code](https://paperswithcode.com/)
 
 <!-- omit in toc -->
 ### Courses
@@ -439,6 +455,8 @@ List of questions with patterns + tips
 - [Machine Learning Refined: Notes, Exercises, Presentations, and Sample Chapters](https://github.com/neonwatty/machine_learning_refined) <!--- comment -->
 - [Дьяконов А.Г. "Машинное обучение и анализ данных"](https://github.com/Dyakonov/MLDM_BOOK)
 - [Виктор Владимирович Китов. Машинное обучение](https://deepmachinelearning.ru/docs/Machine-learning/book-title)
+- [Thinking Clearly with Data: A Guide to Quantitative Reasoning and Analysis](https://www.amazon.com/Thinking-Clearly-Data-Quantitative-Reasoning/dp/0691214352)  <!--- comment -->
+- [Applied geospatial Data Science with Python: Leverage geospatial data analysis and modeling to find unique solutions to environmental problems](https://www.amazon.com/Applied-geospatial-Data-Science-Python-ebook/dp/B0BJ7GPXMG) <!--- comment -->
 
 <!-- omit in toc -->
 ### Cheetsheets
@@ -471,6 +489,7 @@ List of questions with patterns + tips
 - [Machine Learning for Imbalanced Data](https://github.com/PacktPublishing/Machine-Learning-for-Imbalanced-Data)
 - [Валидация моделей машинного обучения](https://habr.com/ru/companies/glowbyte/articles/569970/)
 - [Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/)
+- [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook)
 
 <!-- omit in toc -->
 ### Blogs
@@ -541,6 +560,54 @@ List of questions with patterns + tips
 - [AI by Hand with Prof. Tom Yeh for AI Professionals](https://dongou.tech/ai/dongou/ai-by-hand-✍%EF%B8%8F-with-prof-tom-yeh-for-ai-professionals/)
 
 <!-- omit in toc -->
+### Kaggle
+
+- [Best Kaggle Competitions for Beginners](https://www.kaggle.com/getting-started/78482)
+- [Roadmap for Beginners](https://www.kaggle.com/getting-started/73164)
+- [The Best Tutorial for Beginners](https://www.kaggle.com/getting-started/71679)
+- [Learning Materials on Kaggle](https://www.kaggle.com/getting-started/39193)
+- [Data Science for tabular data: Advanced Techniques](https://www.kaggle.com/code/vbmokin/data-science-for-tabular-data-advanced-techniques)  
+- [Feature Selection with Null Importances](https://www.kaggle.com/code/ogrellier/feature-selection-with-null-importances)
+- [The Most Comprehensive List of Kaggle Solutions and Ideas](https://farid.one/kaggle-solutions/)  <!--- comment -->
+- NLP:
+  - [Approaching (Almost) Any NLP Problem on Kaggle](https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle/notebook)
+  - [Long Text Sentiment Classification BERT Windowing](https://www.kaggle.com/code/datajameson/long-text-sentiment-classification-bert-windowing)
+- EDA Pipelines:
+  - Titanic:
+    - [EDA To Prediction(DieTanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic/notebook)
+    - [Titanic Top 4% with ensemble modeling](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling)
+- Ensembling:
+  - [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python#Second-Level-Predictions-from-the-First-level-Output)
+- [Разбор kaggle-соревнования "American Express" в MISIS AI Lab](https://youtu.be/XevUMoVuztg)  
+
+<!-- omit in toc -->
+### Metrics
+
+- [Classification metrics (precision, recall, F1 and Matthews correlation coefficient)](https://twitter.com/rasbt/status/1457018296847437824?t=NHXMPdhYFg9xF-WzqGQZYg&s=09)
+- [Classification metrics (precision, recall, F1 and Matthews correlation coefficient) vs Balanced Accuracy](https://twitter.com/rasbt/status/1459577884100767753?t=hErn_d7Xvr_zq8eYokAx8w&s=09)
+
+<!-- omit in toc -->
+### Datasets
+
+- [24 Useful Open Datasets for Natural Language Processing](https://odsc.medium.com/24-useful-open-datasets-for-natural-language-processing-4eea7f0c8b94)
+- [Подборка источников геоданных](https://glamorous-ambert-bd8.notion.site/3ceb17df38be46e1a5d29a60ce8ccc4c)
+
+<!-- omit in toc -->
+### Assignments
+
+- [Stanford CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/index.html#schedule)
+  - Assignment 1: Introduction to word vectors
+  - Assignment 2: Derivatives and implementation of word2vec algorithm
+  - Assignment 3: Dependency parsing and neural network foundations
+  - Assignment 4: Neural Machine Translation with sequence-to-sequence, attention, and subwords
+  - Assignment 5: Self-supervised learning and fine-tuning with Transformers
+- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/schedule.html) & [Course notes](https://cs231n.github.io/)
+  - Assignment 1: Image Classification, kNN, SVM, Softmax, Fully-Connected Neural Network
+  - Assignment 2: Fully-Connected Nets, Batch Normalization, Dropout, Convolutional Nets
+  - Assignment 3: Image Captioning with Vanilla RNNs, LSTMs, Transformers, Network Visualization, Generative Adversarial Networks
+- [Stanford CS229: Machine Learning](https://cs229.stanford.edu/syllabus.html) & [Summer version](https://cs229.stanford.edu/syllabus-summer2019.html) & [Assignments from Fall 2018](https://cs229.stanford.edu/syllabus-autumn2018.html)
+
+<!-- omit in toc -->
 ### Other
 
 - [StatQuest with Josh Starmer](https://www.youtube.com/@statquest/videos) <!--- comment -->
@@ -551,6 +618,11 @@ List of questions with patterns + tips
 - [How to avoid machine learning pitfalls: a guide for academic researchers by Michael A. Lones](https://arxiv.org/abs/2108.02497) <!--- comment -->
 - [Core Machine Learning Skills](https://neetcode.io/practice?subpage=practice&tab=coreSkills&topic=Machine%20Learning) <!--- comment -->
 - [Discover machine learning, data science & robotics competitions](https://mlcontests.com)
+- [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
+- [Public: Learning Map to become a Data & AI Scientist at Careem](https://docs.google.com/spreadsheets/d/1C9BSXdwXDpmT-FbSvp2rCIgPTuM5ef0y9Y0KtjeCOF8/edit#gid=0)
+- [Компетенции DS-инженеров в Авито](https://github.com/avito-tech/playbook/blob/master/ds-skills.md)
+- [Лекции Науки о данных (МФТИ)](https://github.com/NazarovMichail/Lectures-notes-MIPT)
+- [Courses at Stanford relative to AI](https://burlachenkok.github.io/Courses-at-Stanford-relative-to-AI/)
 
 ## MLOps
 
@@ -661,6 +733,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 ### Other
 
 - [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650)
+- [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210.pdf)
 
 ## Generative AI
 
@@ -838,6 +911,10 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 Turbo-Alignment is a library designed to streamline the fine-tuning and alignment of large language models, leveraging advanced techniques to enhance efficiency and scalability
 - [LitGPT](https://github.com/Lightning-AI/litgpt)  
 Every LLM is implemented from scratch with no abstractions and full control, making them blazing fast, minimal, and performant at enterprise scale.
+- [MinT: Minimal Transformer Library and Tutorials](https://github.com/dpressel/mint)
+- [Проект Natasha. Набор качественных открытых инструментов для обработки естественного русского языка (NLP)](https://habr.com/ru/post/516098/)  
+- [russian Texts Statistics](https://github.com/SergeyShk/ruTS/blob/master/README.en.md)  
+- [TextDescriptives](https://github.com/HLasse/TextDescriptives) A Python library for calculating a large variety of metrics from text(s) using spaCy v.3 pipeline components and extensions.
 
 ## Computer Vision
 
@@ -1014,6 +1091,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Economertrics Notes by Peter Hull](https://sites.google.com/site/aboutpeterhull/metrix?authuser=0)
 - [The Cartoon Guide to Statistics](https://archive.org/details/TheCartoonGuideToStatistics/page/n11/mode/2up) <!--- comment -->
 - [Probability Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V)
+- [A Short Note on P-Value Hacking by Nassim Nicholas Taleb](https://arxiv.org/pdf/1603.07532.pdf) <!--- comment -->
 
 <!-- omit in toc -->
 ### Causal Inference
@@ -1054,6 +1132,22 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 #### Metrics
 
 - [Продуктовому аналитику: 7 методик, чтобы находить кратные точки роста продукта](https://vc.ru/avito/857911-produktovomu-analitiku-7-metodik-chtoby-nahodit-kratnye-tochki-rosta-produkta)
+- [Unit-экономика за 45 минут (LTV/CAC, MRR, ARPU, NPS...)](https://youtu.be/-RIyOrcPgcM?si=IidZprg-VhQUPEDv)
+
+## Lists of Materials
+
+- [NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
+- [Start Career in DS: навигация по постам](https://mercurial-lace-fb6.notion.site/Start-Career-in-DS-689c54baaedb44238afb412cfbd915cb)
+- [Extra materials for ml-mipt course](https://github.com/girafe-ai/ml-mipt/blob/master/extra_materials.md)
+- [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#tutorials)
+- [Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
+- [Open Source Society University. Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science#summary)
+- [The Breaking Into Data Handbook](https://github.com/meri-nova/breaking-into-data-handbook)
+- [Machine Learning Tutorials](https://ujjwalkarn.github.io/Machine-Learning-Tutorials/#awesome)
+- [Learn-Data-Science-For-Free](https://github.com/geekywrites/Learn-Data-Science-For-Free)
+- [Data-Science-EBooks](https://github.com/aniketpotabatti/Data-Science-EBooks)
+- [A list of resources for learning ML](https://bones-ai.bearblog.dev/a-list-of-resources-for-learning-ml/)
+- [Machine Learning Resources](https://ml-resources.vercel.app)
 
 ## Other
 
@@ -1062,3 +1156,176 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Robotics Course by Hugging Face](https://huggingface.co/robotics-course) <!--- comment -->
 - [Machine Learning for Fluid Dynamics](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M)
 - [Maths, CS & AI Compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
+
+## Adjacent
+
+Material merged from the `data_science_resources` repo: adjacent to Data Science rather than part of it.
+
+<!-- omit in toc -->
+### Computer Science
+
+<!-- omit in toc -->
+#### Papers
+
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love)
+
+<!-- omit in toc -->
+#### General
+
+- [Open Source Society University](https://github.com/ossu/computer-science)
+- [Harvard CS50](https://cs50.harvard.edu/x/2023/) + [Video](https://www.youtube.com/watch?v=LfaMVlDaQ24) <!--- comment -->
+- [List of Free Learning Resources In Many Languages](https://ebookfoundation.github.io/free-programming-books/)
+- [Четыре половины успеха инженера](https://kolodezev.ru/four_halves.html)
+- [Матожидание количества успешных гипотез](https://telegra.ph/Skorost-proverki-gipotez-03-22)
+- [Document-driven management. Почему писать документы — это круто](https://vas3k.club/post/23562/)
+
+<!-- omit in toc -->
+#### Code Review
+
+- [How Google takes the pain out of code reviews, with 97% dev satisfaction](https://read.engineerscodex.com/p/how-google-takes-the-pain-out-of)
+- [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) <!--- comment --> + [conventional: comments. Comments that are easy to grok and grep](https://conventionalcomments.org/)
+- [The CL author’s guide to getting through code review](https://google.github.io/eng-practices/review/developer/) <!--- comment -->
+- [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
+
+<!-- omit in toc -->
+### Git
+
+- [Изучаем ветвление в git](https://learngitbranching.js.org/?locale=ru_RU)
+- [Git Tips and Tricks for Effective Developers](https://github.com/ledovsky/effective-git)
+- [Step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
+- [Oh Shit, Git!?!](https://ohshitgit.com) <!--- comment -->
+
+<!-- omit in toc -->
+### Linux
+
+- [Linux commands](https://xmind.app/m/WwtB/) <!--- comment -->
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) <!--- comment -->
+- [Командная строка для разработчиков – cli-for-dev](https://stepik.org/course/169291/info)
+- [Bash Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=tK9Oc6AEnR4)
+
+<!-- omit in toc -->
+#### Tutorials
+
+- [The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)  <!--- comment -->
+
+<!-- omit in toc -->
+### Tech Lead / Team Lead / Staff
+
+- [Everything on team leadership](https://github.com/sharovatov/teamlead)
+- [Team Lead Simulator](https://teamlead.wrike.tech/)
+- [Teamlead Roadmap](https://tlroadmap.io/)
+- [Staff archetypes](https://staffeng.com/guides/staff-archetypes/)
+
+<!-- omit in toc -->
+### Books
+
+<!-- omit in toc -->
+#### Nonfiction
+
+- [Atomic Habits](https://jamesclear.com/atomic-habits) <!--- comment -->
+- [9 Books I Read In 2022 That Already Reshaped My Life](https://kris-ograbek.medium.com/9-books-i-read-in-2022-that-already-reshaped-my-life-e9076c639736)
+- [Reading List by Lex Fridman](https://lexfridman.com/reading-list/)
+- [Crucial Conversations Tools for Talking When Stakes Are High, Second Edition](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328)
+
+<!-- omit in toc -->
+#### Writing
+
+- [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548?utm_source=substack&utm_medium=email)
+
+<!-- omit in toc -->
+### Note-taking system
+
+<!-- omit in toc -->
+#### Anki
+
+- [How to Remember Anything. A study technique for all ages and all subjects](https://rachel.fast.ai/posts/2023-02-21-anki/)
+
+<!-- omit in toc -->
+#### Zettelkasten
+
+- [The FUN and EFFICIENT note-taking system I use in my PhD](https://youtu.be/L9SLlxaEEXY)
+- [Stop Taking Regular Notes; Use a Zettelkasten Instead](https://eugeneyan.com/writing/note-taking-zettelkasten/)
+- [Где и как хранить свои знания: концепция «внешнего мозга»](https://academy.yandex.ru/journal/gde-i-kak-hranit-svoi-znaniya:-koncepciya-vneshnego-mozga)
+
+<!-- omit in toc -->
+### Newsletters
+
+<!-- omit in toc -->
+#### Data Science
+
+- [Data Science Simplified](https://mathdatasimplified.com/subscribe/)
+- [Beyond Data by Adam Sroka](https://newsletter.adamsroka.co.uk/)
+
+<!-- omit in toc -->
+#### Preparing for Interviews
+
+- [Nick Singh's Tech & Careers Newsletter](https://www.nicksingh.com/signup)
+- [Newsletter by Emma Ding](https://www.emmading.com/)
+- [The MLnotes Newsletter](https://mlnotes.substack.com/)
+
+<!-- omit in toc -->
+#### NLP
+
+- [NLP Newsletter](https://nlpnews.substack.com/)
+
+<!-- omit in toc -->
+#### Machine Learning & Deep Learning
+
+- [MACHINE LEARNING QUESTIONS](https://today.bnomial.com/) <!--- comment -->
+- [Mindful Modeler by Christoph Molnar](https://mindfulmodeler.substack.com/) <!--- comment -->
+- [Tuesday Musings by Radek Osmulski](https://newsletter.radekosmulski.com/)
+- [The Batch. What Matters in AI Right Now](https://www.deeplearning.ai/the-batch/)
+- [Newsletter by Eugene Yan](https://eugeneyan.com/subscribe/)
+- [Boris Again](https://borisagain.substack.com/)
+- [Ahead of AI by Sebastian Raschka](https://magazine.sebastianraschka.com/)
+- [Underfitted by Santiago Valdarrama](https://underfitted.svpino.com/)
+
+<!-- omit in toc -->
+#### Productivity
+
+- [The 3-2-1 Newsletter](https://jamesclear.com/3-2-1)
+
+<!-- omit in toc -->
+#### Software Engineering
+
+- [The Pragmatic Engineer by Gergely Orosz](https://newsletter.pragmaticengineer.com/) <!--- comment -->
+
+<!-- omit in toc -->
+#### System Design
+
+- [ByteByteGo Newsletter](https://blog.bytebytego.com/)
+
+<!-- omit in toc -->
+### Career & Self-development
+
+- [Путь Лемминга. Про планирование карьеры, выгорание, здоровье, конкуренцию и т.п.](https://youtube.com/playlist?list=PLjnbr2ZalOERJFXH8CjggCtJc0Uz7wZb0)  
+- [Публичные выступления](https://telegra.ph/Publichnye-vystupleniya-03-08)
+- [5 Mindset Strategies For Success And Prosperity](https://www.coursecorrectioncoaching.com/mindset-strategies-for-success/)
+- [Hamming, "You and Your Research"](https://gist.github.com/EgorBu/dabfd3c386021f8b19eea5e61a5fed5f)
+- [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
+- [You don’t need to work on hard problems](https://www.benkuhn.net/hard/)
+- [How To Be Successful by Sam Altman](https://blog.samaltman.com/how-to-be-successful)
+- [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
+
+<!-- omit in toc -->
+### Productivity
+
+- [Reminder — это медиа о здоровье, саморазвитии и практической философии](https://reminder.media/)
+- [How to Make Learning as Addictive as Social Media | Luis Von Ahn | TED](https://www.youtube.com/watch?app=desktop&v=P6FORpg0KVo) <!--- comment -->
+- [Тебе нужна своя стратегия](https://habr.com/ru/articles/783198/)
+
+<!-- omit in toc -->
+### Finance
+
+- [How to Get Rich](https://nav.al/rich)
+- [​Инвестиционные принципы Чарли Мангера](https://commentsbot.xyz/thread/p1xGsfYLq)
+
+<!-- omit in toc -->
+### Reading
+
+- [Bionic Reading](https://bionic-reading.com/)
+
+<!-- omit in toc -->
+### Website Development
+
+- [Crafting My Personal Website: Jekyll, GitHub Pages, and a Custom Domain](https://andlukyane.com/blog/how-i-created-this-website)
