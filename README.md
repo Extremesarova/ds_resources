@@ -50,6 +50,7 @@ For interview preparation and learning
 - [Top 100 Data science interview questions](https://nitin-panwar.github.io/Top-100-Data-science-interview-questions/)
 - [100 вопросов c собесов в Data Science и ML](https://uproger.com/100-voprosov-c-sobesov-v-data-science-i-ml/)
 - [ML-Interview](https://github.com/Pe4enIks/ML-Interview)
+- [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
 
 <!-- omit in toc -->
 #### Machine Learning
@@ -74,6 +75,7 @@ For interview preparation and learning
 #### SQL
 
 - [Вопросы с собеседования по анализу данных SQL в 2023 году](https://uproger.com/voprosy-dlya-sobesedovaniya-po-sql-2023/)
+- [Лучшие вопросы средней сложности по SQL на собеседовании аналитика данных](https://habr.com/ru/company/dcmiran/blog/500360)
 
 <!-- omit in toc -->
 #### NLP
@@ -193,6 +195,8 @@ For interview preparation and learning
 - [Материалы для подготовки по машинному обучению от Тинькофф](https://www.tinkoff.ru/career/it/interview/ml/)
 - [Что надо знать сотруднику Цельса?](https://telegra.ph/CHto-nado-znat-ML-inzheneru-v-Celse-02-10)
 - [Программа Академии Data Science от Тинькофф](https://fintech.tinkoff.ru/academy/master/#%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0)
+- [Max Dama's Quant Trading Interview Guide](http://isomorphisms.sdf.org/maxdama.pdf)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 <!-- omit in toc -->
 ### Courses
@@ -214,6 +218,7 @@ For interview preparation and learning
 - [Understanding and Cracking Data Science Interviews](https://www.youtube.com/live/bO7Vp-IvTcs?app=desktop)
 - [Собеседования от karpov.courses](https://www.youtube.com/playlist?list=PLBRXq5LaddfzDBjg6soIwJJA2klXXs6ni)
 - [Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resourcess)
+- [Собеседование Data Scientist в Т-Банк: теория + лайфкодинг](https://youtu.be/rV5i33liurY)
 
 ## Algorithms and Data Structures
 
@@ -230,6 +235,8 @@ List of questions with patterns + tips
 - [CodeRun](https://coderun.yandex.ru) `lang:rus`
 Инструмент для подготовки к очному собеседованию в Яндексе. Задачи очень похожи на те, что будут на интервью.
 - [Other](https://en.wikipedia.org/wiki/Competitive_programming#Online_platforms)
+- [Coderbyte Challenge Library](https://coderbyte.com/challenges)
+- [CodinGame](https://www.codingame.com/start)
 
 <!-- omit in toc -->
 ### Courses
@@ -246,6 +253,8 @@ List of questions with patterns + tips
 - [Подготовься к алгоритмическому собеседованию за 30 недель](https://balun.courses/courses/algorithmic_interview#program)
 - [Introduction To Algorithms by MIT](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/) `foundations` <!--- comment -->
 - [Algorithms](https://cs50.harvard.edu/x/2024/weeks/3/) + [Data Structures](https://cs50.harvard.edu/x/2024/weeks/5/) from [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)
+- [Algorithms, Part I (Princeton University, Coursera)](https://www.coursera.org/learn/algorithms-part1#syllabus)
+- [Grokking the Coding Interview (Educative)](https://www.educative.io/courses/grokking-the-coding-interview)
 
 <!-- omit in toc -->
 ### Resources
@@ -275,6 +284,7 @@ List of questions with patterns + tips
 - [Data Structures & Algorithms by Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms) <!--- comment -->
 - [Design and Analysis of Algorithms](https://eecs376.github.io/notes/algorithms.html)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html)
+- [e-maxx.ru — Алгоритмы](https://e-maxx.ru/algo/)
 
 <!-- omit in toc -->
 ### Articles
@@ -293,6 +303,8 @@ List of questions with patterns + tips
 - [Competitive Programmer's Handbook by Antti Laaksonen](https://cses.fi/book/book.pdf) <!--- comment -->
 - [Competitive Programming by Steven Halim](https://www.amazon.com/Competitive-Programming-4-Book-2/dp/B093K67NVN?crid=C4TR8FKXSWW1&keywords=competitive+programming+4&qid=1654975173&sprefix=competitive+programming+4,aps,131&sr=8-1&linkCode=sl1&tag=alexcancode0d-20&linkId=014a5744e277b65b2a6251d9884c031d&language=en_US&ref_=as_li_ss_tl)
 - [50 Algorithms Every Programmer Should Know: Tackle computer science challenges with classic to modern algorithms in machine learning, software design, data systems, and cryptography](https://www.amazon.com/Algorithms-Every-Programmer-Should-Know/dp/1803247762?link_from_packtlink=yes)
+- [Competitive Programmer's Handbook](https://github.com/pllk/cphb/blob/master/book.pdf)
+- [Программирование: теоремы и задачи — Александр Шень](https://www.mccme.ru/free-books/shen/shen-progbook.pdf)
 
 ## Programming
 
@@ -300,12 +312,14 @@ List of questions with patterns + tips
 ### General
 
 - [Exercism](https://exercism.org)
+- [Public APIs](https://github.com/public-apis/public-apis)
 
 <!-- omit in toc -->
 ### Clean Code
 
 - [Мартин Р. Чистый код: создание, анализ и рефакторинг](https://www.piter.com/product/chistyy-kod-sozdanie-analiz-i-refaktoring-biblioteka-programmista-45ccca) / [Robert C. Martin. Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) <!--- comment -->
 - Стив Макконнелл. Совершенный код. Мастер-класс / [Steve McConnell. Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) <!--- comment -->
+- [Стайлгайд PySpark: как сделать код элегантным](https://habr.com/ru/companies/vk/articles/760416/)
 
 <!-- omit in toc -->
 ### Python
@@ -322,6 +336,12 @@ List of questions with patterns + tips
   - [Курс для начинающих](https://stepik.org/course/58852)
   - [Курс для продвинутых](https://stepik.org/course/68343)
   - [Курс для профессионалов](https://stepik.org/course/82541)
+- [Learn Python (Codecademy)](https://www.codecademy.com/learn/learn-python)
+- [Python для тех, у кого лапки](https://stepik.org/course/85388)
+- [Добрый, добрый Python](https://stepik.org/course/100707)
+- [Инди-курс программирования на Python: Начальный уровень](https://stepik.org/course/63085/syllabus)
+- [Основы Python (karpov.courses)](https://karpov.courses/pythonzero)
+- [Программирование на языке высокого уровня Python](https://dfedorov.spb.ru/python3/)
 
 <!-- omit in toc -->
 #### Theory
@@ -335,6 +355,9 @@ List of questions with patterns + tips
 - [A collection of design patterns and idioms in Python](https://github.com/faif/python-patterns) <!--- comment -->
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/cheatsheet/basics)
 - [Write faster Python code, and ship your code faster](https://pythonspeed.com) <!--- comment -->
+- [PEP 257 – Docstring Conventions](https://peps.python.org/pep-0257/)
+- [Threading in Python: The Complete Guide](https://superfastpython.com/threading-in-python/)
+- [multiprocessing — Process-based parallelism](https://docs.python.org/3/library/multiprocessing.html)
 
 <!-- omit in toc -->
 #### Questions
@@ -349,6 +372,7 @@ List of questions with patterns + tips
 #### Other
 
 - [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html) <!--- comment -->
+- [Python Roadmap (roadmap.sh)](https://roadmap.sh/python)
 
 <!-- omit in toc -->
 #### Practice
@@ -357,6 +381,8 @@ List of questions with patterns + tips
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning#python)
 - [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices)
 - [Python Training by J.P.Morgan](https://github.com/jpmorganchase/python-training)
+- [101 Pandas Exercises for Data Analysis](https://machinelearningplus.com/python/101-pandas-exercises-python)
+- [Практика с библиотекой Pandas](https://stepik.org/course/111629/syllabus)
 
 <!-- omit in toc -->
 #### Packages
@@ -369,10 +395,18 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [More Itertools](https://github.com/more-itertools/more-itertools)
 - [iterative-stratification](https://github.com/trent-b/iterative-stratification)
 - [prettygraph](https://github.com/yoheinakajima/prettygraph)
+- [Hypothesis Documentation](https://hypothesis.readthedocs.io/en/latest/)
+- [Playwright for Python — Documentation](https://playwright.dev/python/)
+- [Polars User Guide](https://pola-rs.github.io/polars-book/user-guide/)
+- [Selenium Documentation](https://www.selenium.dev/documentation/)
+- [pytest Documentation](https://docs.pytest.org/en/7.2.x/getting-started.html)
+- [Документация Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc.ru/bs4ru.html)
 
 ## SQL
 
 - [How to pass data engineering SQL interviews in big tech](https://blog.dataengineer.io/p/how-to-pass-data-engineering-sql?utm_source=post-email-title&publication_id=1644342&post_id=136917153&utm_campaign=surfalytics.com)
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+- [Ультимативная дорожная карта для изучения SQL и баз данных в 2023 году](https://habr.com/ru/articles/725414/)
 
 <!-- omit in toc -->
 ### Courses
@@ -387,6 +421,16 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [SQL Tutorial](https://mode.com/sql-tutorial/) <!--- comment -->
 - [The Ultimate SQL Guide](https://blog.count.co/the-ultimate-sql-guide/) <!--- comment -->
 - [CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/sql/) <!--- comment -->
+- [Databases: Relational Databases and SQL (Stanford Online)](http://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql)
+- [Excel to MySQL: Analytic Techniques for Business](https://www.coursera.org/specializations/excel-mysql?irclickid=1FeyGcwKsxyNWtwyK326wQipUkA2P8Ril3d2z00&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1310690&utm_content=b2c)
+- [Intro to SQL: Querying and managing data (Khan Academy)](https://www.khanacademy.org/computing/computer-programming/sql)
+- [Introduction to Structured Query Language (SQL)](https://www.coursera.org/learn/intro-sql?irclickid=1FeyGcwKsxyNWtwyK326wQipUkA2Pa1Tl3d2z00&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1310690&utm_content=b2c)
+- [Learn SQL (Codecademy)](https://www.codecademy.com/learn/learn-sql)
+- [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science?irclickid=1FeyGcwKsxyNWtwyK326wQipUkA2PfSal3d2z00&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1310690&utm_content=b2c)
+- [SQL Analytics Training (Mode SQL Tutorial)](https://mode.com/sql-tutorial/sql-business-analytics-training)
+- [Введение в базы данных (Stepik)](https://stepik.org/course/551/promo)
+- [Симулятор SQL (karpov.courses)](https://karpov.courses/simulator-sql)
+- [Учебник по SQL (SQL Academy)](https://sql-academy.org/ru/guide)
 
 <!-- omit in toc -->
 ### Practice
@@ -400,6 +444,13 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [The Querynomicon. An Introduction to SQL for Wary Data Scientists](https://gvwilson.github.io/sql-tutorial/) <!--- comment -->
 - [SQL Challenges](https://platform.datavidhya.com/coding-problems)
 - [SQL Squid Game](https://datalemur.com/sql-game)
+- [DataLemur SQL Interview Questions](https://datalemur.com/sql-interview-questions)
+- [HackerRank: SQL Practice](https://www.hackerrank.com/domains/sql/)
+- [Practical SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis)
+- [SQL Murder Mystery](https://www.kaggle.com/datasets/johnp47/sql-murder-mystery-database)
+- [SQL-EX.RU](https://www.sql-ex.ru/?ysclid=l5hvbx8wqk77947684)
+- [Тренажёр по SQL (SQL Academy)](https://sql-academy.org/ru/trainer)
+- [8 Week SQL Challenge](https://8weeksqlchallenge.com/getting-started/)
 
 ## Machine Learning
 
@@ -434,6 +485,18 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Practical Machine Learning](https://practical-ml-fmi.github.io/ML/)
 - [Machine Learning Engineer Learning Path](https://www.cloudskillsboost.google/paths/17)
 - [Machine Learning Course Notes](https://github.com/dair-ai/ml-course-notes)
+- [Data Science for Beginners (Microsoft)](https://microsoft.github.io/Data-Science-For-Beginners/#/)
+- [Data Science: Visualization (HarvardX)](http://pll.harvard.edu/course/data-science-visualization)
+- [High-Dimensional Data Analysis (HarvardX PH525.4x)](http://pll.harvard.edu/course/data-analysis-life-sciences-4-high-dimensional-data-analysis)
+- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+- [Machine Learning for Beginners (Microsoft)](https://microsoft.github.io/ML-For-Beginners/#/)
+- [Open ML Course: Классические модели ML (autumn 2024)](https://ods.ai/tracks/classic-models-autumn24)
+- [ml-course-hse by Evgeny Sokolov](https://github.com/esokolov/ml-course-hse)
+- [mlcourse.ai](https://github.com/Yorko/mlcourse.ai)
+- [qmlcourse: курс по квантовому машинному обучению](https://github.com/quantum-ods/qmlcourse)
+- [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/promo)
+- [Машинное обучение (А.Г. Дьяконов, МГУ)](https://www.youtube.com/watch?v=q4BBLoiegW0&list=PLhe7c-LCgl4Ic-FRawaaEhUmDCQmGMtzx)
+- [Машинное обучение (К.В. Воронцов)](https://www.youtube.com/watch?v=SZkrxWhI5qM&list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK)
 
 <!-- omit in toc -->
 ### Books
@@ -457,6 +520,12 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Виктор Владимирович Китов. Машинное обучение](https://deepmachinelearning.ru/docs/Machine-learning/book-title)
 - [Thinking Clearly with Data: A Guide to Quantitative Reasoning and Analysis](https://www.amazon.com/Thinking-Clearly-Data-Quantitative-Reasoning/dp/0691214352)  <!--- comment -->
 - [Applied geospatial Data Science with Python: Leverage geospatial data analysis and modeling to find unique solutions to environmental problems](https://www.amazon.com/Applied-geospatial-Data-Science-Python-ebook/dp/B0BJ7GPXMG) <!--- comment -->
+- [Foundations of Machine Learning by Mohri, Rostamizadeh, Talwalkar](https://cs.nyu.edu/~mohri/mlbook/)
+- [Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
+- [Learning Machine: An Interactive Book of Machine Learning](https://rentruewang.github.io/learning-machine/intro.html)
+- [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp)
+- [Probabilistic Machine Learning: Advanced Topics (Kevin Murphy)](https://probml.github.io/pml-book/book2)
+- [Probabilistic Machine Learning: An Introduction (Kevin Murphy)](https://probml.github.io/pml-book/book1.html)
 
 <!-- omit in toc -->
 ### Cheetsheets
@@ -466,6 +535,8 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
 - [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet?tab=readme-ov-file)
 - [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)
+- [Cheat Sheets for Machine Learning and Data Science](https://sites.google.com/view/datascience-cheat-sheets)
+- [Обзор методов кластеризации (scikit-learn.ru)](https://scikit-learn.ru/clustering)
 
 <!-- omit in toc -->
 ### Articles
@@ -477,6 +548,15 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Ilya 30u30](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
 - [Introduction to Machine Learning by Laurent Younes](https://arxiv.org/pdf/2409.02668) <!--- comment -->
 - [A Comprehensive Benchmark of Machine and Deep Learning Across Diverse Tabular Datasets](https://arxiv.org/pdf/2408.14817)
+- [An Empirical Comparison of Supervised Learning Algorithms](https://www.cs.cornell.edu/~caruana/ctp/ct.papers/caruana.icml06.pdf)
+- [Better Generalization with Semantic IDs: A Case Study in Ranking for Recommendations](https://arxiv.org/abs/2306.08121)
+- [CatBoost, XGBoost и выразительная способность решающих деревьев](https://habr.com/ru/company/ods/blog/645887/)
+- [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/pdf/1703.04247)
+- [Multi-gate Mixture-of-Experts (MMoE) — Google, KDD 2018](https://dl.acm.org/doi/10.1145/3219819.3220007)
+- [Multitask Learning (Caruana, 1997)](https://link.springer.com/article/10.1023/A:1007379606734)
+- [When to Choose CatBoost Over XGBoost or LightGBM](https://neptune.ai/blog/when-to-choose-catboost-over-xgboost-or-lightgbm)
+- [Метод опорных векторов (SVM): подходы, принцип работы и реализация с нуля на Python](https://habr.com/ru/articles/802185)
+- [Основы линейной регрессии](https://habr.com/ru/articles/514818)
 
 <!-- omit in toc -->
 ### Applied ML
@@ -490,6 +570,8 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Валидация моделей машинного обучения](https://habr.com/ru/companies/glowbyte/articles/569970/)
 - [Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/)
 - [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook)
+- [lifetimes](https://lifetimes.readthedocs.io/en/latest/)
+- [retentioneering-tools](https://github.com/retentioneering/retentioneering-tools)
 
 <!-- omit in toc -->
 ### Blogs
@@ -521,6 +603,8 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Feature Ranking and Selection](https://www.youtube.com/watch?app=desktop&v=u7TVqtW7jM0)
 - [Feature Engineering A-Z](https://feaz-book.com) <!--- comment -->
 - [Feature Selection in Machine Learning by Soledad Galli](https://leanpub.com/feature-selection-in-machine-learning?trk=feed_main-feed-card_comment-text) <!--- comment -->
+- [OptBinning](https://gnpalencia.org/optbinning/)
+- [feature-engine](https://feature-engine.trainindata.com/en/latest/index.html)
 
 <!-- omit in toc -->
 #### Tutorials
@@ -533,6 +617,8 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Decision Trees. The unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)
 - [Ensemble Methods and Decision Trees](https://aman.ai/primers/ai/ensemble-methods-and-decision-trees/)
 - [Awesome CatBoost](https://github.com/valeman/Awesome_CatBoost)
+- [Beware Default Random Forest Importances](https://explained.ai/rf-importance/index.html)
+- [Understanding Tree SHAP for Simple Models (SHAP docs)](https://shap.readthedocs.io/en/latest/example_notebooks/tabular_examples/tree_based_models/Understanding%20Tree%20SHAP%20for%20Simple%20Models.html)
 
 <!-- omit in toc -->
 ### Blog posts
@@ -558,6 +644,9 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Как не перестать быть data driven из-за data driften, или Пару слов о дрейфе данных](https://habr.com/ru/companies/glowbyte/articles/681772/)
 - [В чём польза теоремы Байеса — или как управлять неопределённостью](https://practicum.yandex.ru/blog/teorema-bajesa-dlya-data-science/)
 - [AI by Hand with Prof. Tom Yeh for AI Professionals](https://dongou.tech/ai/dongou/ai-by-hand-✍%EF%B8%8F-with-prof-tom-yeh-for-ai-professionals/)
+- [CatBoost и LightGBM: особенности алгоритмов градиентного бустинга](https://habr.com/ru/companies/tochka/articles/751012/)
+- [Кластеризация в ML: от теории популярных алгоритмов до реализации с нуля на Python](https://habr.com/ru/articles/798331/)
+- [Оценка качества кластеризации: свойства, метрики, код](https://habr.com/ru/companies/yandex/articles/500742)
 
 <!-- omit in toc -->
 ### Kaggle
@@ -579,18 +668,25 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - Ensembling:
   - [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python#Second-Level-Predictions-from-the-First-level-Output)
 - [Разбор kaggle-соревнования "American Express" в MISIS AI Lab](https://youtu.be/XevUMoVuztg)  
+- [Tinkoff Data Science Challenge — Станислав Семёнов о кодировании категориальных признаков](https://youtu.be/NVKDSNM702k?si=MYdVgoCqTOTbBGPW)
 
 <!-- omit in toc -->
 ### Metrics
 
 - [Classification metrics (precision, recall, F1 and Matthews correlation coefficient)](https://twitter.com/rasbt/status/1457018296847437824?t=NHXMPdhYFg9xF-WzqGQZYg&s=09)
 - [Classification metrics (precision, recall, F1 and Matthews correlation coefficient) vs Balanced Accuracy](https://twitter.com/rasbt/status/1459577884100767753?t=hErn_d7Xvr_zq8eYokAx8w&s=09)
+- [An Introduction to ROC Analysis (Fawcett, 2006)](https://www.researchgate.net/publication/222511520_Introduction_to_ROC_analysis)
+- [Population Stability Index](https://www.listendata.com/2015/05/population-stability-index.html)
+- [The Meaning and Use of the Area Under a ROC Curve (Hanley & McNeil, 1982)](https://pubs.rsna.org/doi/epdf/10.1148/radiology.143.1.7063747)
+- [The Relationship Between Precision-Recall and ROC Curves (Davis & Goadrich, 2006)](https://www.researchgate.net/publication/215721831_The_Relationship_Between_Precision-Recall_and_ROC_Curves)
+- [Александр Дьяконов — конспект про метрики (ML metrics)](https://alexanderdyakonov.wordpress.com/wp-content/uploads/2018/10/book_08_metrics_12_blog1.pdf)
 
 <!-- omit in toc -->
 ### Datasets
 
 - [24 Useful Open Datasets for Natural Language Processing](https://odsc.medium.com/24-useful-open-datasets-for-natural-language-processing-4eea7f0c8b94)
 - [Подборка источников геоданных](https://glamorous-ambert-bd8.notion.site/3ceb17df38be46e1a5d29a60ce8ccc4c)
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 <!-- omit in toc -->
 ### Assignments
@@ -606,6 +702,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
   - Assignment 2: Fully-Connected Nets, Batch Normalization, Dropout, Convolutional Nets
   - Assignment 3: Image Captioning with Vanilla RNNs, LSTMs, Transformers, Network Visualization, Generative Adversarial Networks
 - [Stanford CS229: Machine Learning](https://cs229.stanford.edu/syllabus.html) & [Summer version](https://cs229.stanford.edu/syllabus-summer2019.html) & [Assignments from Fall 2018](https://cs229.stanford.edu/syllabus-autumn2018.html)
+- [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446)
 
 <!-- omit in toc -->
 ### Other
@@ -623,6 +720,11 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Компетенции DS-инженеров в Авито](https://github.com/avito-tech/playbook/blob/master/ds-skills.md)
 - [Лекции Науки о данных (МФТИ)](https://github.com/NazarovMichail/Lectures-notes-MIPT)
 - [Courses at Stanford relative to AI](https://burlachenkok.github.io/Courses-at-Stanford-relative-to-AI/)
+- [A Critical Field Guide for Working with Machine Learning Datasets](https://knowingmachines.org/critical-field-guide)
+- [AugLy](https://github.com/facebookresearch/AugLy)
+- [How HDBSCAN Works](https://hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html)
+- [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
+- [auto-sklearn](https://github.com/automl/auto-sklearn)
 
 ## MLOps
 
@@ -638,12 +740,26 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - MLOps и production подход к ML исследованиям 2.0: [Видео](https://www.youtube.com/playlist?app=desktop&list=PLUJY3Hn1BMCIiVRaQyKDA_molGS3-R1d_) + [Курс](https://ods.ai/tracks/ml-in-production-spring-23)
 - [THE ULTIMATE DOCKER COMPOSE CHEAT SHEET](https://devopscycle.com/blog/the-ultimate-docker-compose-cheat-sheet/)
 - [Practitioner's guide to MLOps by Google](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf) <!--- comment -->
+- [Advanced курс по MLOps: Kubernetes, Kafka, CI/CD](https://pymagic.ru/hard-mlops)
+- [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+- [Awesome MLOps (Tools)](https://github.com/kelvins/awesome-mlops)
+- [DTU MLOps Course](https://github.com/SkafteNicki/dtu_mlops)
+- [Evidently](https://github.com/evidentlyai/evidently)
+- [Introduction to Machine Learning Systems (Vijay Janapa Reddi)](https://mlsysbook.ai/vol1/)
+- [Lean Data Science (LeanDS) — вводный курс](https://ods.ai/tracks/leands-course)
+- [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+- [Made With ML: MLOps Course](https://github.com/GokuMohandas/mlops-course)
+- [Open-Source ML Observability Course](https://www.youtube.com/playlist?list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF)
+- [Towards MLOps: Technical Capabilities of a Machine Learning Platform](https://medium.com/prosus-ai-tech-blog/towards-mlops-technical-capabilities-of-a-machine-learning-platform-61f504e3e281)
+- [Мини-курс по MLOps (Промышленный ML)](https://pymagic.ru/mlops)
+- [Управление вычислениями: средний уровень](https://stepik.org/course/1612/promo)
 
 <!-- omit in toc -->
 ### Other
 
 - [Complete Docker Course - From BEGINNER to PRO!](https://www.youtube.com/watch?v=RqTEHSBrYFw) <!--- comment -->
 - [Docker Containers and Kubernetes Fundamentals](https://www.youtube.com/watch?v=kTp5xUtcalw)
+- [Изучение Docker для начинающих](https://www.youtube.com/playlist?list=PL0lO_mIqDDFX1c0JHogP5YuZdOVawoepS)
 
 ## Deep Learning
 
@@ -663,6 +779,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [The Tensor Cookbook by Thomas Dybdahl Ahle](https://tensorcookbook.com) <!--- comment -->
 - [Deep Learning and Computational Physics](https://arxiv.org/pdf/2301.00942v1) <!--- comment -->
 - [Виктор Владимирович Китов. Глубокое обучение](https://deepmachinelearning.ru/docs/Neural-networks/book-title)
+- [Grokking Deep Learning — code repository](https://github.com/iamtrask/Grokking-Deep-Learning/blob/master/README.md)
 
 <!-- omit in toc -->
 ### Courses
@@ -701,6 +818,9 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [DEEP LEARNING COURSE](https://fleuret.org/dlc/)
 - [CS236 Deep Generative Models](https://deepgenerativemodels.github.io)
 - [10-202: Introduction to Modern AI](https://modernaicourse.org)
+- [AI for Beginners (Microsoft)](https://microsoft.github.io/AI-For-Beginners/)
+- [Deep Learning in Finance (Stepik)](https://stepik.org/177280)
+- [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction)
 
 <!-- omit in toc -->
 ### Tutorials
@@ -719,6 +839,9 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [A Gentle Introduction to torch.autograd](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html)
 - [Introduction to deep learning](https://carpentries-incubator.github.io/deep-learning-intro/1-introduction.html)
 - [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/) <!--- comment -->
+- [A Recipe for Training Neural Networks (Andrej Karpathy)](http://karpathy.github.io/2019/04/25/recipe/#2-set-up-the-end-to-end-trainingevaluation-skeleton--get-dumb-baselines)
+- [Machine Learning Collection (Aladdin Persson)](https://github.com/aladdinpersson/Machine-Learning-Collection)
+- [Neural Networks (MLU-Explain)](https://mlu-explain.github.io/neural-networks/)
 
 <!-- omit in toc -->
 ### Blogs & Blog posts
@@ -728,16 +851,28 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Cтатьи от команды DeepSchool](https://deepschool-pro.notion.site/9a613d3c8d3644faa8e396bd083f2bc2?v=524b15c7ce9f49d094f94cd699c2c621)
 - [Полезные материалы про PyTorch](https://telegra.ph/PyTorch-i-okolo-nego-04-12)
 - [AstraBlog](https://astralord.github.io)
+- [Deep Neural Nets: 33 years ago and 33 years from now (Andrej Karpathy)](https://karpathy.github.io/2022/03/14/lecun1989/)
+- [How to Train Really Large Models on Many GPUs? (Lilian Weng)](https://lilianweng.github.io/posts/2021-09-25-train-large/)
+- [Jia-Bin Huang — YouTube Channel](https://youtube.com/@jbhuang0604/videos)
 
 <!-- omit in toc -->
 ### Other
 
 - [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650)
 - [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210.pdf)
+- [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
+- [Backpropagation Applied to Handwritten Zip Code Recognition (LeCun et al., 1989)](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf)
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
+- [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/v15/srivastava14a.html)
+- [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661v1.pdf)
+- [Highly Accurate Protein Structure Prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
 
 ## Generative AI
 
 - [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners?tab=readme-ov-file)
+- [A Comprehensive Survey of AI-Generated Content (AIGC)](https://arxiv.org/abs/2303.04226)
+- [Generative AI with Large Language Models (Coursera)](https://www.coursera.org/learn/generative-ai-with-llms)
+- [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class)
 
 ## NLP
 
@@ -762,6 +897,12 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Stanford CS 224V Conversational Virtual Assistants with Deep Learning](https://web.stanford.edu/class/cs224v/schedule.html) <!--- comment -->
 - [CS11-711 Advanced Natural Language Processing (at Carnegie Mellon University's Language Technology Institute)](http://www.phontron.com/class/anlp2022/) + [Video](https://youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z) + [Assignments](https://github.com/neubig/nlp-from-scratch-assignment-2022)
 - [Linguistics for Language Technology](https://bylinina.github.io/ling_course/)
+- [Advanced Topics in Multimodal Machine Learning (CMU 11-877)](https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022)
+- [Deep Learning for Natural Language Processing (DL4NLP, UvA)](https://probabll.github.io/teaching/dl4nlp/)
+- [DeepNLP Course (Dan Anastasyev)](https://github.com/DanAnastasyev/DeepNLP-Course)
+- [Machine Learning University: Accelerated Natural Language Processing (AWS)](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
+- [Multilingual NLP (CMU 11-737)](http://demo.clab.cs.cmu.edu/11737fa20/)
+- [Stanford CS25: Transformers United](https://web.stanford.edu/class/cs25/index.html#schedule)
 
 <!-- omit in toc -->
 ### General
@@ -770,6 +911,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Чат по NLP](https://t.me/natural_language_processing)
 - [awesome-nlp. A curated list of resources dedicated to Natural Language Processing](https://github.com/keon/awesome-nlp)
 - [NLP Cheatsheet: Master NLP](https://www.kaggle.com/code/rftexas/nlp-cheatsheet-master-nlp)
+- [Hugging Face Tasks](https://huggingface.co/tasks)
 
 <!-- omit in toc -->
 ### Large Language Models (LLMs) / Transformers
@@ -825,6 +967,29 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Hugging Face Reasoning Course](https://huggingface.co/reasoning-course?trk=feed-detail_main-feed-card-text)
 - [LLM Engineering Essentials course by Nebius Academy](https://github.com/Nebius-Academy/LLM-Engineering-Essentials?tab=readme-ov-file) <!--- comment -->
 - [CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/) + [Video](https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_) <!--- comment -->
+- [A Comprehensive Overview of Large Language Models](https://arxiv.org/pdf/2307.06435)
+- [A Survey of Transformers](https://arxiv.org/abs/2106.04554)
+- [AI Alignment: A Comprehensive Survey](https://arxiv.org/abs/2310.19852)
+- [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)
+- [BERT (Google Research)](https://github.com/google-research/bert)
+- [BERT, ELMO и Ко в картинках](https://habr.com/ru/post/487358)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+- [Claude with the Anthropic API (Anthropic Academy)](https://anthropic.skilljar.com/claude-with-the-anthropic-api)
+- [Compressing Large-Scale Transformer-Based Models: A Case Study on BERT](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00413/107387/Compressing-Large-Scale-Transformer-Based-Models-A)
+- [DeepSchool: Large Language Models (course)](https://deepschool.ru/llm)
+- [DeepTutor](https://github.com/HKUDS/DeepTutor)
+- [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
+- [Generating Text from Language Models (ACL 2023 Tutorial)](https://rycolab.io/classes/acl-2023-tutorial)
+- [Learn About Transformers: A Recipe](https://elvissaravia.substack.com/p/learn-about-transformers-a-recipe)
+- [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
+- [Patterns for Building LLM-based Systems & Products (Eugene Yan)](https://eugeneyan.com/writing/llm-patterns/)
+- [Pretrained Language Model (Huawei Noah's Ark Lab)](https://github.com/huawei-noah/Pretrained-Language-Model)
+- [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
+- [Recent Advances in Language Model Fine-tuning (Sebastian Ruder)](https://ruder.io/recent-advances-lm-fine-tuning)
+- [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/pdf/1907.11692.pdf)
+- [The Illustrated Retrieval Transformer (Jay Alammar)](http://jalammar.github.io/illustrated-retrieval-transformer/)
+- [Yao Fu's Blog](https://yaofu.notion.site/Yao-Fu-s-Blog-b536c3d6912149a395931f1e871370db)
+- [gpt-fast](https://github.com/pytorch-labs/gpt-fast)
 
 <!-- omit in toc -->
 ### Embeddings
@@ -833,6 +998,12 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [What are embeddings by Vicki Boykis](https://vickiboykis.com/what_are_embeddings/index.html) <!--- comment -->
 - [Learn to Love Working with Vector Embeddings by Pinecone](https://www.pinecone.io/learn/)
 - [The 1950-2024 Text Embeddings Evolution Poster](https://jina.ai/news/the-1950-2024-text-embeddings-evolution-poster/)
+- [Chroma](https://github.com/chroma-core/chroma)
+- [Milvus](https://github.com/milvus-io/milvus)
+- [Qdrant](https://github.com/qdrant/qdrant)
+- [ScaNN](https://github.com/google-research/google-research/tree/master/scann)
+- [Vector Databases: from Embeddings to Applications (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
+- [hnswlib](https://github.com/nmslib/hnswlib)
 
 <!-- omit in toc -->
 ### Reading papers with AI
@@ -860,6 +1031,14 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Prompt Engineering Guide by Antrophic](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 - [Claude 101](https://claude101.com) <!--- comment -->
 - [AI Coding Playbook](https://aicodingplaybook.ru)
+- [ChatGPT Prompt Engineering for Developers (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- [Claude 101 (Anthropic Academy)](https://anthropic.skilljar.com/claude-101)
+- [Guidance (Microsoft)](https://github.com/microsoft/guidance/)
+- [OpenPrompt](https://github.com/thunlp/OpenPrompt)
+- [Prompt Engineering 101: Introduction and Resources (Xavier Amatriain)](https://amatriain.net/blog/PromptEngineering)
+- [Prompt Engineering vs. Blind Prompting (Mitchell Hashimoto)](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting)
+- [PromptSource](https://github.com/bigscience-workshop/promptsource)
+- [Vibe-coding: программирование с ИИ без глубоких знаний кода (Stepik)](https://stepik.org/course/214391/syllabus)
 
 <!-- omit in toc -->
 ### Tutorials
@@ -867,6 +1046,8 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Train and Fine-Tune Sentence Transformers Models](https://huggingface.co/blog/how-to-train-sentence-transformers)
 - [Working With Text Data using Sklearn](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html#extracting-features-from-text-files) + [Text feature extraction using Sklearn](https://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction)
 - [minbpe. Minimal, clean code for the (byte-level) Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
+- [Text Classification Guide (Google Machine Learning Guides)](https://developers.google.com/machine-learning/guides/text-classification/step-2-5)
+- [nlp-tutorial](https://github.com/lyeoni/nlp-tutorial)
 
 <!-- omit in toc -->
 ### Blog posts
@@ -880,6 +1061,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 - [From GPT-3 to ChatGPT: Training Language Models on Instructions and Human Feedback](https://youtu.be/2JxcIy7AgFQ)
 - [Кто такие LLM-агенты и что они умеют?](https://habr.com/ru/companies/ods/articles/776478/)
+- [Maxime Labonne's Blog](https://mlabonne.github.io/blog/)
 
 <!-- omit in toc -->
 ### Articles
@@ -903,6 +1085,8 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Self-instruct](https://arxiv.org/abs/2212.10560), Wang et al., Self-Instruct: Aligning Language Models with Self-Generated Instructions
 - [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html), Taori et al., Alpaca: A Strong, Replicable Instruction-Following Model
 - [LLaMA](https://arxiv.org/abs/2302.13971), Touvron, et al., LLaMA: Open and Efficient Foundation Language Models
+- [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
+- [Search: Query Matching via Lexical, Graph, and Embedding Methods (Eugene Yan)](https://eugeneyan.com/writing/search-query-matching)
 
 <!-- omit in toc -->
 ### Packages
@@ -915,6 +1099,13 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Проект Natasha. Набор качественных открытых инструментов для обработки естественного русского языка (NLP)](https://habr.com/ru/post/516098/)  
 - [russian Texts Statistics](https://github.com/SergeyShk/ruTS/blob/master/README.en.md)  
 - [TextDescriptives](https://github.com/HLasse/TextDescriptives) A Python library for calculating a large variety of metrics from text(s) using spaCy v.3 pipeline components and extensions.
+- [LangChain Documentation](https://langchain.readthedocs.io/en/latest/)
+- [Language Interpretability Tool (LIT)](https://github.com/PAIR-code/lit)
+- [LlamaIndex Documentation](https://gpt-index.readthedocs.io/en/latest/index.html)
+- [NL-Augmenter](https://github.com/GEM-benchmark/NL-Augmenter)
+- [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai/tree/main)
+- [TextBox 2.0](https://github.com/RUCAIBox/TextBox)
+- [nlpaug](https://github.com/makcedward/nlpaug)
 
 ## Computer Vision
 
@@ -922,18 +1113,42 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/schedule.html) + [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) <!--- comment -->
 - [EECS 442: Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/) + [Videos](https://m.bilibili.com/video/BV1BV411n7Km)
 - [Foundations of Computer Vision by Antonio Torralba, Phillip Isola and William T. Freeman](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/)
+- [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+- [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf)
+- [Segment Anything](https://arxiv.org/abs/2304.02643)
 
 ## Graphs
 
 - [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/) + [Video](https://www.youtube.com/playlist?list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp) <!--- comment -->
 - [Graph Neural Networks for RecSys](https://aman.ai/recsys/gnn/)
 - [Graph Neural Networks](https://aman.ai/primers/ai/gnn/)
+- [A Gentle Introduction to Graph Neural Networks (Distill)](https://distill.pub/2021/gnn-intro/)
+- [An Introduction to Graph Theory by Darij Grinberg](https://arxiv.org/pdf/2308.04512)
+- [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)
+- [Understanding Convolutions on Graphs (Distill)](https://distill.pub/2021/understanding-gnns/)
+- [Курс по графам знаний (KG Course 2021, ODS.ai)](https://ods.ai/tracks/kgcourse2021)
 
 ## Reinforcement Learning
 
 - [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/index.html) <!--- comment -->
 - [🤗 Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction) <!--- comment -->
 - [Practical RL](https://github.com/yandexdataschool/Practical_RL) <!--- comment -->
+- [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/posts/2018-02-19-rl-overview)
+- [CMU 10-703: Deep Reinforcement Learning and Control](https://www.andrew.cmu.edu/course/10-703/)
+- [CS 294: Deep Reinforcement Learning (UC Berkeley)](http://rll.berkeley.edu/deeprlcoursesp17/#lecture-videos)
+- [Deep RL Bootcamp (UC Berkeley)](https://sites.google.com/view/deep-rl-bootcamp/home)
+- [DeepMind x UCL Reinforcement Learning Lecture Series](https://youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+- [Hugging Face Deep RL Course](https://huggingface.co/deep-rl-course/unit0/introduction)
+- [Kevin Murphy — Reinforcement Learning: An Overview](https://arxiv.org/pdf/2412.05265)
+- [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
+- [Policy Gradient Algorithms](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/)
+- [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
+- [Reinforcement Learning Virtual School (RLVS 2021)](https://rl-vs.github.io/rlvs2021/)
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf)
+- [Spinning Up in Deep RL Workshop (OpenAI)](https://www.youtube.com/watch?v=fdY7dt3ijgY&t=1s)
+- [Stable-Baselines3 Documentation](https://stable-baselines3.readthedocs.io/en/master/)
+- [Stanford CS234: Reinforcement Learning](https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+- [The Multi-Armed Bandit Problem and Its Solutions](https://lilianweng.github.io/posts/2018-01-23-multi-armed-bandit/)
 
 ## RecSys
 
@@ -943,12 +1158,15 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Your first recsys by MTS](https://ods.ai/tracks/mts-recsys-df2020)
 - [Your Second RecSys by MTS](https://ods.ai/tracks/recsys-course2021)
 - [Рекомендательные системы](https://github.com/shashist/recsys-course)
+- [Deep RecSys Course by Kirill Khrylchenko](https://github.com/KhrylchenkoKirill/DeepRecSys)
+- [RecSys Fall 2023 (girafe-ai)](https://www.youtube.com/playlist?list=PLJR10EXrBaAssiryiUzD4dFCdIVwDGi02)
 
 <!-- omit in toc -->
 ### Books
 
 - К. Фальк. [Рекомендательные системы на практике](https://dmkpress.com/catalog/computer/data/978-5-97060-774-9/) / [Practical Recommender Systems](https://www.manning.com/books/practical-recommender-systems) by Kim Falk <!--- comment -->
 - [Personalized Machine Learning](https://cseweb.ucsd.edu/~jmcauley/pml/) <!--- comment -->
+- [Learning to Rank for Information Retrieval and Natural Language Processing](https://www.iro.umontreal.ca/~nie/IFT6255/Books/Learning-to-rank.pdf)
 
 <!-- omit in toc -->
 ### Other
@@ -957,6 +1175,16 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Recommenders. Best Practices on Recommendation Systems](https://github.com/recommenders-team/recommenders) <!--- comment -->
 - [Рекомендательные системы](https://education.yandex.ru/knowledge/rekomendatelnye-sistemy.-mashinnoe-obuchenie)
 - [Рекомендательные системы: идеи, подходы, задачи](https://habr.com/ru/companies/jetinfosystems/articles/453792/)
+- [A Survey of Deep Reinforcement Learning in Recommender Systems](https://arxiv.org/pdf/2109.03540.pdf)
+- [Advances and Challenges in Conversational Recommender Systems: A Survey](https://arxiv.org/pdf/2101.09459.pdf)
+- [Blueprints for Recommender System Architectures: 10th Anniversary Edition](https://amatriain.net/blog/RecsysArchitectures)
+- [Graph Neural Networks in Recommender Systems: A Survey](https://arxiv.org/pdf/2011.02260.pdf)
+- [OneRec: Unifying Retrieve and Rank with Generative Recommender](https://arxiv.org/abs/2502.18965)
+- [Pointwise vs Pairwise vs Listwise Learning to Rank](https://medium.com/@nikhilbd/pointwise-vs-pairwise-vs-listwise-learning-to-rank-80a8fe8fadfd)
+- [Recommender Systems in Python 101](https://www.kaggle.com/code/gspmoreira/recommender-systems-in-python-101)
+- [Ultimate RecSys List](https://github.com/Darel13712/ultimate-recsys-list)
+- [Дропаем ранжирующие метрики в рекомендательной системе, часть 2: двухэтапные модели](https://habr.com/ru/companies/ods/articles/751210/)
+- [Дропаем ранжирующие метрики в рекомендательной системе: визуальный анализ и popularity bias](https://habr.com/ru/companies/ods/articles/750974/)
 
 <!-- omit in toc -->
 ### Packages
@@ -973,6 +1201,13 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [ARIMA and SARIMAX models with Python](https://cienciadedatos.net/documentos/py51-arima-sarimax-models-python.html) by Joaquín Amat Rodrigo, Javier Escobar Ortiz
 - Груздев А.В., Рафферти Г. [Прогнозирование временных рядов с помощью Prophet, sktime, ETNA и Greykite](https://dmkpress.com/catalog/computer/data/978-5-93700-212-9/)
 - [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/) <!--- comment -->
+- [Dive into Time-Series Anomaly Detection: A Decade Review](https://arxiv.org/pdf/2412.20512)
+- [M5 Forecasting - Uncertainty](https://www.kaggle.com/c/m5-forecasting-uncertainty/overview)
+- [Predict Future Sales](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/overview)
+- [StatsForecast Documentation](https://nixtlaverse.nixtla.io/statsforecast/docs/getting-started/getting_started_complete.html)
+- [Time Series Analysis in Python – A Comprehensive Guide with Examples](https://www.machinelearningplus.com/time-series/time-series-analysis-python/)
+- [Time Series Forecasting With Python (Mini-Course)](https://machinelearningmastery.com/time-series-forecasting-python-mini-course/)
+- [Дмитрий Макаров — вводный курс по временным рядам](https://www.dmitrymakarov.ru/intro/time-series-20/)
 
 ## Big Data
 
@@ -982,6 +1217,8 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - Перрен Ж.Ж. [Spark в действии](https://dmkpress.com/catalog/computer/data/978-5-97060-879-1/) / [Spark in Action](https://www.manning.com/books/spark-in-action-second-edition) by Jean-Georges Perrin <!--- comment -->
 - [Learning Spark](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf) <!--- comment -->
 - [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark) <!--- comment -->
+- [POSTGRES: Первое знакомство](https://edu.postgrespro.ru/introbook_v9.pdf)
+- [Высоконагруженные приложения — Martin Kleppmann](https://www.litres.ru/book/martin-kleppman-1733/vysokonagruzhennye-prilozheniya-programmirovanie-mass-39100996/)
 
 <!-- omit in toc -->
 ### Other
@@ -991,6 +1228,12 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [PySpark для аналитика. Как выгружать данные с помощью toPandas и его альтернатив](https://habr.com/ru/companies/avito/articles/740232/)
 - [Spark Architecture by FaangTalk](https://www.youtube.com/watch?v=1nzLD5VZE4I&t=132s)
 - [SPARK для «малышей»](https://habr.com/ru/companies/alfa/articles/808415/)
+- [Apache Superset Documentation](https://superset.apache.org/docs/intro/#)
+- [ClickHouse Documentation (русская версия)](https://clickhouse.com/docs/ru)
+- [Cumulative Table Design](https://github.com/EcZachly/cumulative-table-design)
+- [Hadoop. Система для обработки больших объемов данных (Stepik)](https://stepik.org/course/150/promo)
+- [Palantir PySpark Style Guide](https://github.com/palantir/pyspark-style-guide)
+- [PySpark Style Guide (MrPowers)](https://github.com/MrPowers/spark-style-guide/blob/main/PYSPARK_STYLE_GUIDE.md)
 
 ## System Design
 
@@ -1012,6 +1255,15 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 - [System Design Fight Club](https://github.com/systemdesignfightclub/SDFC)
 - [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when) <!--- comment -->
+- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
+- [Coding Interviews Blog Archive](https://github.com/vitkarpov/coding-interviews-blog-archive#system-design)
+- [Distributed Systems](https://www.distributed-systems.net/index.php/books/ds4/)
+- [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
+- [Grokking the System Design Interview](https://educative.io/courses/grokking-the-system-design-interview)
+- [System Design. Подготовка к сложному интервью](https://www.piter.com/product/system-design-podgotovka-k-slozhnomu-intervyu)
+- [codeKarle](https://www.youtube.com/c/codeKarle)
+- [«Возьмите инициативу на себя»: готовимся к System Design Interview](https://habr.com/ru/companies/avito/articles/753248/)
+- [Всё, что нужно знать о System Design](https://github.com/beagreatengineer/learn-system-design)
 
 ## Machine Learning System Design
 
@@ -1037,6 +1289,11 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Machine Learning System Design Doc Examples](https://github.com/ML-SystemDesign/MLSystemDesign)
 - [Machine Learning in Production by Carnegie Mellon University](https://mlip-cmu.github.io/s2025/) <!--- comment -->
 - [Crack ML System Design Interviews Like a Pro](https://www.mlwhiz.com/p/crack-ml-system-design-interviews?trk=feed_main-feed-card_feed-article-content)
+- [Grokking the Machine Learning Interview](https://www.educative.io/courses/grokking-the-machine-learning-interview)
+- [Machine Learning System Design (Educative)](https://www.educative.io/courses/machine-learning-system-design)
+- [Machine Learning Systems Design: Case Studies](https://huyenchip.com/machine-learning-systems-design/case-studies.html#case-studies-bYrWS80)
+- [Stanford MLSys Seminars](https://youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
+- [System Design for Recommendations and Search](https://eugeneyan.com/writing/system-design-for-discovery)
 
 ## Math
 
@@ -1051,6 +1308,11 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [The Complete Mathematics of Neural Networks and Deep Learning](https://www.youtube.com/watch?app=desktop&v=Ixl3nykKG9M) <!--- comment -->
 - [Математика для анализа данных](https://education.yandex.ru/handbook/math)
 - [Pen and Paper Exercises in Machine Learning by Michael Gutmann](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) <!--- comment -->
+- [Highlights of Calculus (MIT OpenCourseWare)](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/)
+- [Mathematics for Machine Learning Specialization (Imperial College London)](https://www.coursera.org/specializations/mathematics-machine-learning)
+- [Mathematics for Machine Learning and Data Science Specialization (DeepLearning.AI)](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
+- [Математический анализ — лекции А.А. Никитина](https://youtube.com/playlist?list=PLhe7c-LCgl4JPoKMTthxF07KIUqH06XTx)
+- [Математический анализ. Теория функций одной переменной (МГУ)](https://openedu.ru/course/msu/CALCSV/)
 
 <!-- omit in toc -->
 ### Linear Algebra
@@ -1063,6 +1325,9 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Linear Algebra for Data Science](https://kyunghyuncho.me/linear-algebra-for-data-science/) <!--- comment -->
 - [Engineering Math: Vector Calculus and Partial Differential Equations](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S)
 - [Engineering Math: Crash Course in Complex Analysis](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQBRslPb7I0yTnES981R8Cg)
+- [Essence of Linear Algebra (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Introduction to Linear Models and Matrix Algebra (Harvard PH525.2x)](http://pll.harvard.edu/course/data-analysis-life-sciences-2-introduction-linear-models-and-matrix-algebra)
+- [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning (MIT 18.065)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 
 <!-- omit in toc -->
 ### Probability and Statistics
@@ -1092,6 +1357,25 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [The Cartoon Guide to Statistics](https://archive.org/details/TheCartoonGuideToStatistics/page/n11/mode/2up) <!--- comment -->
 - [Probability Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V)
 - [A Short Note on P-Value Hacking by Nassim Nicholas Taleb](https://arxiv.org/pdf/1603.07532.pdf) <!--- comment -->
+- [Brandon Foltz](https://www.youtube.com/c/BrandonFoltz)
+- [Econometrics (Bruce E. Hansen)](https://users.ssc.wisc.edu/~behansen/econometrics/)
+- [Fifty Challenging Problems in Probability with Solutions (Mosteller)](https://disk.yandex.ru/i/3lMc1Cs4dfssWA)
+- [Intro to Statistics (Udacity)](https://www.udacity.com/course/intro-to-statistics--st101?)
+- [Probability and Statistics for Economists (Bruce E. Hansen)](https://users.ssc.wisc.edu/~behansen/probability/)
+- [StatQuest with Josh Starmer — Video Index](https://statquest.org/video-index)
+- [Statistics (Full Length Videos) — Professor Leonard](https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0)
+- [Statistics 101 (Cognitive Class)](http://cognitiveclass.ai/courses/statistics-101)
+- [What Teachers Should Know about the Bootstrap: Resampling in the Undergraduate Statistics Curriculum](https://arxiv.org/pdf/1411.5279.pdf)
+- [[МФТИ, 2021] Прикладная статистика](https://www.youtube.com/watch?v=2aNipSh3m-w&list=PLk4h7dmY2eYEdKleN2_pwDBFwW0oX-pDl)
+- [zedstatistics](https://www.youtube.com/c/zedstatistics)
+- [А/Б тестирование: множественная проверка гипотез](https://habr.com/ru/companies/X5Tech/articles/842426/)
+- [Вероятность и статистика с Глебом Михайловым](https://www.youtube.com/playlist?list=PLQJ7ptkRY-xbHLLI66KdscKp_FJt0FsIi)
+- [Голая статистика (Чарльз Уилан)](https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new/golaya-statistika/NakedStatistics-2-read_stamped.pdf)
+- [Математическая статистика (Stepik)](https://stepik.org/course/326/promo)
+- [Математическая статистика — лектор И.В. Родионов (осень 2019)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZZr17tiRCP7ItwRmRnU4QS)
+- [Основы статистики (Яндекс Практикум)](https://practicum.yandex.ru/statistics-basic/)
+- [Теория вероятностей (Stepik)](https://stepik.org/course/3089/promo)
+- [Эконометрика (НИУ ВШЭ, Борис Демешев)](https://apps.openedu.ru/learning/course/course-v1:hse+METRIX+2022/home)
 
 <!-- omit in toc -->
 ### Causal Inference
@@ -1099,6 +1383,14 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Causal Inference: What If](https://miguelhernan.org/whatifbook) <!--- comment -->
 - [Causal Inference and Its Applications in Online Industry](https://alexdeng.github.io/causal/index.html)
 - [Applied Causal Inference Powered by ML and AI](https://causalml-book.org) <!--- comment -->
+- [A Survey on Causal Inference](https://arxiv.org/pdf/2002.02770.pdf)
+- [Brady Neal — Which Causal Inference Book?](https://www.bradyneal.com/which-causal-inference-book)
+- [Causal Inference & Econometrics Reading List by Anna Stavniychuk](https://github.com/annastavniychuk/econometrics_library)
+- [Causal Inference: The Mixtape — Python Notebooks](https://github.com/tomcaputo/mixtape_learnr/tree/main/Python)
+- [CausalML](https://github.com/uber/causalml)
+- [CausalNex](https://github.com/quantumblacklabs/causalnex)
+- [DoWhy](https://github.com/microsoft/dowhy)
+- [did: Difference-in-Differences (R package)](https://github.com/bcallaway11/did)
 
 <!-- omit in toc -->
 ### A/B Tests
@@ -1109,6 +1401,9 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [A/B TESTING](https://www.lektorium.tv/ab-test) <!--- comment -->
 - [Курс по Прикладной статистике от Академии Аналитиков Авито](https://avito.tech/education/statistics)
 - [A/B Testing & Experimentation Roadmap](https://github.com/YuriyBalandin/ab_testing_roadmap/blob/main/Roadmap/Roadmap.md) <!--- comment -->
+- [А/Б-тестирование (Филипп Ульянкин)](https://youtube.com/watch?index=1&list=PLmA-1xX7IuzBbOBE51rtub-nnD1fS8l3r&v=QQPO9Wz9LLs)
+- [Теория и практика онлайн-экспериментов (ВШЭ)](http://wiki.cs.hse.ru/Теория_и_практика_онлайн-экспериментов_23/24)
+- [Теория и практика онлайн-экспериментов (ВШЭ, Нерсес Багиян)](https://github.com/nbagiyan/online-exp-course/tree/main)
 
 <!-- omit in toc -->
 #### General
@@ -1119,6 +1414,9 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [A/B Testing RoadMap](https://roadmap.sh/r/ab-testing-roadmap-copy)
 - [Чеклист А/Б эксперимента](https://docs.google.com/spreadsheets/u/0/d/14t58zgoCCCS6RhRR11c_TjaNnlzOyoGvhUe8VAYRS_A/htmlview) + [Шаблон проведения А/Б эксперимента](https://docs.google.com/document/u/0/d/1z_Xtvkt3NUXGNRCswngaHe1PGOe8YFvSvjALVQiP12w/mobilebasic)
 - [Practitioner’s Guide to Statistical Tests by VK Team](https://vkteam.medium.com/practitioners-guide-to-statistical-tests-ed2d580ef04f) <!--- comment -->
+- [Statistical Challenges in Online Controlled Experiments: A Review of A/B Testing Methodology](https://arxiv.org/pdf/2212.11366.pdf)
+- [stattests: код к Practitioner's Guide to Statistical Tests](https://github.com/marnikitta/stattests)
+- [Методичка по AB-тестированию от аналитиков Авито](https://habr.com/ru/companies/avito/articles/936804/)
 
 <!-- omit in toc -->
 #### Blog posts
@@ -1127,12 +1425,15 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [АБ-тесты — это не только ценный мех… Но еще и процессы](https://habr.com/ru/company/ods/blog/716110/)
 - [Стратификация. Как разбиение выборки повышает чувствительность A/B теста](https://habr.com/ru/company/X5Tech/blog/596279/)
 - [50 оттенков линейной регрессии, или почему всё, что вы знаете об A/B тестах, помещается в одно уравнение](https://habr.com/ru/companies/X5Tech/articles/846298/)
+- [Выбросы в A/B тестах: проблемы при дизайне, подведении итогов и автоматизации](https://habr.com/ru/amp/publications/781060/)
 
 <!-- omit in toc -->
 #### Metrics
 
 - [Продуктовому аналитику: 7 методик, чтобы находить кратные точки роста продукта](https://vc.ru/avito/857911-produktovomu-analitiku-7-metodik-chtoby-nahodit-kratnye-tochki-rosta-produkta)
 - [Unit-экономика за 45 минут (LTV/CAC, MRR, ARPU, NPS...)](https://youtu.be/-RIyOrcPgcM?si=IidZprg-VhQUPEDv)
+- [Improving the Sensitivity of Online Controlled Experiments by Utilizing Pre-Experiment Data (CUPED)](https://exp-platform.com/Documents/2013-02-CUPED-ImprovingSensitivityOfControlledExperiments.pdf)
+- [Measuring Metrics](https://exp-platform.com/Documents/2016CIKM_MeasuringMetrics.pdf)
 
 ## Lists of Materials
 
@@ -1148,6 +1449,9 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Data-Science-EBooks](https://github.com/aniketpotabatti/Data-Science-EBooks)
 - [A list of resources for learning ML](https://bones-ai.bearblog.dev/a-list-of-resources-for-learning-ml/)
 - [Machine Learning Resources](https://ml-resources.vercel.app)
+- [Machine Learning Roadmap 2020](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
+- [Подборка ресурсов по машинному обучению (demidovakatya)](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
+- [Путь к познанию мистерий обучения машин без траты денежных ресурсов](https://habr.com/ru/articles/774844/)
 
 ## Other
 
@@ -1178,6 +1482,14 @@ Material merged from the `data_science_resources` repo: adjacent to Data Science
 - [Четыре половины успеха инженера](https://kolodezev.ru/four_halves.html)
 - [Матожидание количества успешных гипотез](https://telegra.ph/Skorost-proverki-gipotez-03-22)
 - [Document-driven management. Почему писать документы — это круто](https://vas3k.club/post/23562/)
+- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code)
+- [An overview of HTTP (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- [How to Develop Perfect CRUD: Good Practices for Developing Back-End Apps](https://github.com/beagreatengineer/how-to-develop-perfect-crud)
+- [Stanford: The Modern Software Developer — Assignments](https://github.com/mihail911/modern-software-dev-assignments)
+- [You Don't Know JS (русский перевод)](https://github.com/azat-io/you-dont-know-js-ru)
+- [Курс по документированию REST API](https://starkovden.github.io/index.html)
+- [Курс про лицензии и Open Source (ODS.ai)](https://ods.ai/tracks/open-source-licensing-course)
 
 <!-- omit in toc -->
 #### Code Review
@@ -1194,6 +1506,10 @@ Material merged from the `data_science_resources` repo: adjacent to Data Science
 - [Git Tips and Tricks for Effective Developers](https://github.com/ledovsky/effective-git)
 - [Step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
 - [Oh Shit, Git!?!](https://ohshitgit.com) <!--- comment -->
+- [Git для начинающих (Слёрм)](https://slurm.io/git)
+- [Introduction to GitHub (GitHub Skills)](https://github.com/skills/introduction-to-github)
+- [Введение в Git (Хекслет)](https://ru.hexlet.io/courses/intro_to_git)
+- [Курс по Git (Илья Кантор)](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
 
 <!-- omit in toc -->
 ### Linux
@@ -1215,6 +1531,8 @@ Material merged from the `data_science_resources` repo: adjacent to Data Science
 - [Team Lead Simulator](https://teamlead.wrike.tech/)
 - [Teamlead Roadmap](https://tlroadmap.io/)
 - [Staff archetypes](https://staffeng.com/guides/staff-archetypes/)
+- [The Mochary Method Curriculum](https://mocharymethod.com/learn)
+- [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)
 
 <!-- omit in toc -->
 ### Books
@@ -1226,6 +1544,8 @@ Material merged from the `data_science_resources` repo: adjacent to Data Science
 - [9 Books I Read In 2022 That Already Reshaped My Life](https://kris-ograbek.medium.com/9-books-i-read-in-2022-that-already-reshaped-my-life-e9076c639736)
 - [Reading List by Lex Fridman](https://lexfridman.com/reading-list/)
 - [Crucial Conversations Tools for Talking When Stakes Are High, Second Edition](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328)
+- [Drive: The Surprising Truth About What Motivates Us — Daniel Pink](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
+- [Вы, конечно, шутите, мистер Фейнман! — Ричард Фейнман](https://livelib.ru/book/1003405537-vy-konechno-shutite-mister-fejnman-richard-fejnman)
 
 <!-- omit in toc -->
 #### Writing
@@ -1239,6 +1559,9 @@ Material merged from the `data_science_resources` repo: adjacent to Data Science
 #### Anki
 
 - [How to Remember Anything. A study technique for all ages and all subjects](https://rachel.fast.ai/posts/2023-02-21-anki/)
+- [Algo Deck](https://github.com/teivah/algodeck)
+- [Spaced Repetition Systems Have Gotten Way Better](https://domenic.me/fsrs/)
+- [The Janki Method](http://www.jackkinsella.ie/articles/janki-method)
 
 <!-- omit in toc -->
 #### Zettelkasten
@@ -1246,6 +1569,7 @@ Material merged from the `data_science_resources` repo: adjacent to Data Science
 - [The FUN and EFFICIENT note-taking system I use in my PhD](https://youtu.be/L9SLlxaEEXY)
 - [Stop Taking Regular Notes; Use a Zettelkasten Instead](https://eugeneyan.com/writing/note-taking-zettelkasten/)
 - [Где и как хранить свои знания: концепция «внешнего мозга»](https://academy.yandex.ru/journal/gde-i-kak-hranit-svoi-znaniya:-koncepciya-vneshnego-mozga)
+- [Zettelkasten.de Blog](https://zettelkasten.de/posts/)
 
 <!-- omit in toc -->
 ### Newsletters
@@ -1306,6 +1630,11 @@ Material merged from the `data_science_resources` repo: adjacent to Data Science
 - [You don’t need to work on hard problems](https://www.benkuhn.net/hard/)
 - [How To Be Successful by Sam Altman](https://blog.samaltman.com/how-to-be-successful)
 - [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
+- [95%-ile isn't that good](https://danluu.com/p95-skill/)
+- [Etsy Engineering Career Ladder](https://etsy.github.io/Etsy-Engineering-Career-Ladder/)
+- [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)
+- [Learning How to Learn (Coursera)](https://www.coursera.org/learn/learning-how-to-learn)
+- [Методичка по поиску работы в ML/DS и IT](https://btseytlin.github.io/intro.html)
 
 <!-- omit in toc -->
 ### Productivity
@@ -1313,12 +1642,14 @@ Material merged from the `data_science_resources` repo: adjacent to Data Science
 - [Reminder — это медиа о здоровье, саморазвитии и практической философии](https://reminder.media/)
 - [How to Make Learning as Addictive as Social Media | Luis Von Ahn | TED](https://www.youtube.com/watch?app=desktop&v=P6FORpg0KVo) <!--- comment -->
 - [Тебе нужна своя стратегия](https://habr.com/ru/articles/783198/)
+- [YearCompass](https://yearcompass.com/ru/)
 
 <!-- omit in toc -->
 ### Finance
 
 - [How to Get Rich](https://nav.al/rich)
 - [​Инвестиционные принципы Чарли Мангера](https://commentsbot.xyz/thread/p1xGsfYLq)
+- [If You Can: How Millennials Can Get Rich Slowly — William Bernstein](https://assetallocation.ru/if_you_can-1/)
 
 <!-- omit in toc -->
 ### Reading
