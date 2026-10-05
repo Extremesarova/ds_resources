@@ -1113,7 +1113,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/) + [Video](https://www.youtube.com/playlist?list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp) <!--- comment -->
 - [Graph Neural Networks for RecSys](https://aman.ai/recsys/gnn/)
 - [Graph Neural Networks](https://aman.ai/primers/ai/gnn/)
-- [A Gentle Introduction to Graph Neural Networks (Distill)](https://distill.pub/2021/gnn-intro/)
+- [A Gentle Introduction to Graph Neural Networks (Distill)](https://distill.pub/2021/gnn-intro/) <!--- comment -->
 - [An Introduction to Graph Theory by Darij Grinberg](https://arxiv.org/pdf/2308.04512)
 - [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)
 - [Understanding Convolutions on Graphs (Distill)](https://distill.pub/2021/understanding-gnns/)
