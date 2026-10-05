@@ -881,7 +881,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 
 - [Нейронные сети и обработка текста](https://stepik.org/course/54098/info)
 - [Stanford CS224N: NLP with Deep Learning](https://web.stanford.edu/class/cs224n/) + [Videos](https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=24s4Yf3IL3fz0_Ty) + [Notes](https://vinija.ai/nlp/)
-- [NLP Course | For You by Lena Voita](https://lena-voita.github.io/nlp_course.html) + [YSDA Natural Language Processing course](https://github.com/yandexdataschool/nlp_course)
+- [NLP Course | For You by Lena Voita](https://lena-voita.github.io/nlp_course.html) + [YSDA Natural Language Processing course](https://github.com/yandexdataschool/nlp_course) <!--- comment -->
 - [Hugging Face course](https://huggingface.co/course/chapter0) <!--- comment -->
 - [Natural Language Processing course by Valentin Malykh](https://ods.ai/tracks/nlp-course)
 - [Stanford LSA 311: Computational Lexical Semantics by Dan Jurafsky](https://web.stanford.edu/~jurafsky/li15/) <!--- comment -->
