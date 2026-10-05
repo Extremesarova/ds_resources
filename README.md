@@ -227,7 +227,7 @@ Every Sunday one resource from this list gets a short write-up on Telegram:
 ### Platforms
 
 - [LeetCode](https://leetcode.com/) `foundations` <!--- [Yandex Interview Kit](https://docs.google.com/spreadsheets/u/0/d/1vgoyVzOqueURT7jNXuoEec5dQnIdtUCEqVPX1x0Vx6A/htmlview#gid=0) -->
-  - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/) `foundations`
+  - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/) `foundations` <!--- comment -->
 List of questions with patterns + tips
   - [LeetCode Explore](https://leetcode.com/explore/) `foundations`
 - [Codewars](https://www.codewars.com/)
