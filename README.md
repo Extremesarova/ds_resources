@@ -581,7 +581,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Uncommon Uses of Python in Commonly Used Libraries](https://eugeneyan.com/writing/uncommon-python/)
 - [Andrey Lukyanenko](https://andlukyane.com/)
 - [A third life of a personal pet-project for handwritten digit recognition](https://andlukyane.com/blog/a-third-life-of-a-personal-project)
-- [A machine learning roadmap for beginners in 2026](https://andlukyane.com/blog/starting-a-career-in-machine-learning)
+- [A machine learning roadmap for beginners in 2026](https://andlukyane.com/blog/starting-a-career-in-machine-learning) <!--- comment -->
 - [Dan Bader](https://dbader.org/)
 - [Matthew Brett](https://matthew-brett.github.io/teaching/index.html)
 - [Introducing principal component analysis](https://matthew-brett.github.io/teaching/pca_introduction.html)
