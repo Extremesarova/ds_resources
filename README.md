@@ -3,6 +3,9 @@
 
 For interview preparation and learning
 
+Every Sunday one resource from this list gets a short write-up on Telegram:
+[@data_science_weekly](https://t.me/data_science_weekly).
+
 **Table of Contents**:
 
 - [Interview Preparation](#interview-preparation)
